@@ -4096,15 +4096,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_salmon": "2023-06-28 20:54:21 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2023-06-28 21:10:21 +0200"
+      "hero_of_the_village": "2023-06-28 19:04:52 +0200"
     },
     "done": true
   },
@@ -4114,15 +4108,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "has_cod": "2023-06-28 20:56:32 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2023-06-28 21:03:16 +0200"
+      "has_salmon": "2023-06-28 20:54:21 +0200"
     },
     "done": true
   },
@@ -4138,21 +4126,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-06-28 20:56:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2023-06-28 20:56:32 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_slime_ball": "2023-06-28 21:10:21 +0200"
+      "has_cod": "2023-06-28 20:56:32 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "has_prismarine_crystals": "2023-06-28 21:08:48 +0200"
+      "has_prismarine_shard": "2023-06-28 21:03:16 +0200"
     },
     "done": true
   },
@@ -4168,21 +4162,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "hero_of_the_village": "2023-06-28 19:04:52 +0200"
+      "has_prismarine_crystals": "2023-06-28 21:08:48 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_bone_block": "2023-06-28 22:30:36 +0200"
+      "has_slime_ball": "2023-06-28 21:10:21 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_cod": "2023-06-28 20:56:32 +0200"
+      "has_slime_ball": "2023-06-28 21:10:21 +0200"
     },
     "done": true
   },
@@ -4195,6 +4189,12 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2023-06-28 21:48:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-06-28 22:30:36 +0200"
     },
     "done": true
   },

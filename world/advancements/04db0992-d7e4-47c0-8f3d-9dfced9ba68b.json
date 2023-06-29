@@ -3200,17 +3200,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2023-06-29 10:45:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2023-06-29 10:46:33 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_nautilus_shell": "2023-06-29 10:45:29 +0200"
+      "tamed_animal": "2023-06-29 15:25:50 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2023-06-29 15:25:50 +0200"
+    },
+    "done": false
   },
   "DataVersion": 3337
 }
