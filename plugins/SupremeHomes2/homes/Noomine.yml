@@ -1,0 +1,24 @@
+savanna:
+  world: Resource_world
+  x: 954.6175259099849
+  y: 83.0
+  z: -6720.01760880303
+  public: false
+swamp:
+  world: Resource_world
+  x: 928.9067969233192
+  y: 63.09375
+  z: -6792.531516750115
+  public: false
+towny:
+  world: Towny
+  x: 316.8117416886452
+  y: 70.0
+  z: -939.55276363801
+  public: false
+mine:
+  world: Resource_world
+  x: 984.6999999880791
+  y: -24.0
+  z: -6560.22947061717
+  public: false

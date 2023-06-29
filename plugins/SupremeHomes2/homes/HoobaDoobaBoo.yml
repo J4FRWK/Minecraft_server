@@ -1,0 +1,18 @@
+cave:
+  world: Resource_world
+  x: 161.69999998807907
+  y: 78.0
+  z: -104.58399440740155
+  public: false
+temp:
+  world: Towny
+  x: 208.82247470331254
+  y: 80.0
+  z: -407.772512546312
+  public: false
+home:
+  world: Towny
+  x: 183.0198624419253
+  y: 69.0
+  z: -469.0669135671455
+  public: false

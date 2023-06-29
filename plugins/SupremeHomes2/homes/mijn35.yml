@@ -1,0 +1,36 @@
+moederland:
+  world: Towny
+  x: -760.178522078986
+  y: 65.0
+  z: -923.4014538283122
+  public: false
+explore:
+  world: Resource_world
+  x: -717.704750682496
+  y: 64.0
+  z: 2982.1056091811047
+  public: false
+mining:
+  world: Resource_world
+  x: 156.69999998807907
+  y: -59.0
+  z: -526.620824643429
+  public: false
+fort:
+  world: Resource_world
+  x: 94.65499797530428
+  y: -45.0
+  z: -577.7704692680494
+  public: false
+fort2:
+  world: Resource_world
+  x: 19.87276165117483
+  y: -43.0
+  z: -594.5373498361364
+  public: false
+netherfortress:
+  world: world_nether
+  x: 69.73121717090794
+  y: 67.0
+  z: -286.99555273373846
+  public: false

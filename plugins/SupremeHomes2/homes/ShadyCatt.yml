@@ -1,0 +1,48 @@
+town:
+  world: Towny
+  x: 354.05546534894006
+  y: 70.0
+  z: -915.7333456315228
+  public: false
+wild1:
+  world: Resource_world
+  x: 92.2360424284703
+  y: 137.0
+  z: 178.40449348719483
+  public: false
+spruce:
+  world: Resource_world
+  x: -360.7214275781504
+  y: 86.0
+  z: -337.90814531586
+  public: false
+villagewild:
+  world: Resource_world
+  x: 116.88295857328832
+  y: 88.9375
+  z: -458.4831944462491
+  public: false
+azalea:
+  world: Resource_world
+  x: -484.4721389280411
+  y: 76.0
+  z: -362.0853668451648
+  public: false
+azalea3:
+  world: Resource_world
+  x: -997.043504110297
+  y: 72.0
+  z: -639.3000000119209
+  public: false
+azaleadarkoak:
+  world: Resource_world
+  x: 838.0396599869873
+  y: 63.0
+  z: 87.30000001192093
+  public: false
+glowstonering:
+  world: Towny
+  x: 327.18906673563214
+  y: 149.0
+  z: -884.5992099397171
+  public: false

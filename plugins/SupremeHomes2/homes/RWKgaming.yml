@@ -1,0 +1,60 @@
+spawner:
+  world: Resource_world
+  x: -351.3248584382762
+  y: 73.0
+  z: -318.76507039006526
+  public: false
+huisje:
+  world: Towny
+  x: -1458.517863401371
+  y: 70.0
+  z: -900.2532792752634
+  public: false
+terracotta:
+  world: Towny
+  x: -1244.5857989154654
+  y: 63.0
+  z: -1558.2582965437612
+  public: false
+spruce:
+  world: Towny
+  x: -620.6999999880791
+  y: 68.0
+  z: -2986.7600220077284
+  public: false
+mine:
+  world: Resource_world
+  x: 349.0363424372201
+  y: -8.0
+  z: 14.258108535233395
+  public: false
+soulsand:
+  world: world_nether
+  x: -60.58620085161946
+  y: 61.875
+  z: -108.68765082197999
+  public: false
+village:
+  world: Towny
+  x: -1486.3483871874557
+  y: 63.0
+  z: -1464.3313793852064
+  public: false
+wardenfarm:
+  world: Resource_world
+  x: -95.67661187722503
+  y: -36.0
+  z: 9.76814351332117
+  public: false
+end:
+  world: world_the_end
+  x: -6.220483445895053
+  y: 66.0
+  z: 22.373321466982638
+  public: false
+end_outer:
+  world: world_the_end
+  x: -806.7933030027262
+  y: 60.0
+  z: -4881.133778269103
+  public: false

@@ -1,0 +1,42 @@
+mine:
+  world: Resource_world
+  x: 44.59683320367368
+  y: -53.0
+  z: 203.21182932031184
+  public: false
+mineshaft:
+  world: Resource_world
+  x: 162.14274201939523
+  y: -3.0
+  z: 1.1038293300758373
+  public: false
+jwooonas:
+  world: Towny
+  x: -908.6503427399908
+  y: 63.0
+  z: -947.6938829596594
+  public: false
+Home:
+  world: Towny
+  x: 302.8233231623648
+  y: 70.0
+  z: -939.6616344369385
+  public: false
+fort:
+  world: world_nether
+  x: 60.73968767079209
+  y: 67.0
+  z: -286.55396037176905
+  public: false
+temp:
+  world: world_nether
+  x: -389.30000001192093
+  y: 15.0
+  z: 580.1752178711218
+  public: false
+end:
+  world: world_the_end
+  x: 29.31650510721742
+  y: 71.0
+  z: -85.65499071597782
+  public: false

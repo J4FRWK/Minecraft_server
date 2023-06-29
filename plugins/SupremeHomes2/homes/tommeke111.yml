@@ -1,0 +1,24 @@
+cave:
+  world: Towny
+  x: -863.4915955284289
+  y: 32.0
+  z: -1018.345880797063
+  public: false
+town:
+  world: Towny
+  x: 308.6681917863737
+  y: 71.0
+  z: -926.6489628117263
+  public: false
+end:
+  world: world_the_end
+  x: -6.934742099008833
+  y: 66.0
+  z: 22.695340569061965
+  public: false
+eum:
+  world: Resource_world
+  x: -135.82517122452487
+  y: -53.0
+  z: 129.8155967048028
+  public: false

@@ -1,0 +1,24 @@
+mine:
+  world: Towny
+  x: -905.6056201903223
+  y: -46.0
+  z: -999.5477306565161
+  public: false
+Ancientcity:
+  world: Resource_world
+  x: 327.3983756413979
+  y: -51.0
+  z: 360.16694711564196
+  public: false
+newHome:
+  world: Towny
+  x: 715.9104044165254
+  y: 108.0
+  z: -916.5956518595226
+  public: false
+base:
+  world: Towny
+  x: 909.3763961634296
+  y: 103.0
+  z: -704.0764793106244
+  public: false
