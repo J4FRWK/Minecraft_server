@@ -4,19 +4,20 @@ location: f3bab186-1500-4b34-980c-42bf947273da~11320.5~66.5~10454.5
 devolved-today: false
 has-war-buildings: false
 war-enabled-today: false
-last-active: 1688038111149
+last-active: 1688043337028
 child-locations:
 - f3bab186-1500-4b34-980c-42bf947273da~11320.5~66.5~10454.5
 housing: 5
 population: 5
 villagers: 3
 last-disable: -1
-power: 268
-max-power: 8360
-gov-type: SOCIALISM
+power: 301
+max-power: 7524
+gov-type: ANARCHY
 taxes: 0.0
 bank: 0.0
 last-vote: 0
+gov-type-changed-today: true
 people:
-  8581b0c0-99b5-4fc0-8378-d1c21adea398: member
   70a8dc68-9721-443d-8a1b-3fc2f1f249f1: owner
+  8581b0c0-99b5-4fc0-8378-d1c21adea398: member

@@ -28,12 +28,6 @@ end:
   y: 66.0
   z: 19.04592356496709
   public: false
-wirhabengrosseangst:
-  world: world_the_end
-  x: -689.2090792711929
-  y: 57.0
-  z: -3572.4574267440184
-  public: false
 end2:
   world: Resource_world
   x: -1418.4042084188527
@@ -57,4 +51,10 @@ skulk:
   x: -360.05396486132423
   y: -52.0
   z: -94.53943506929781
+  public: false
+sea:
+  world: Resource_world
+  x: 10481.557944858803
+  y: 61.0
+  z: 1118.455156115993
   public: false

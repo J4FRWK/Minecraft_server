@@ -12,8 +12,7 @@ deaths: 0
 highest-kill-streak: 0
 points: 0.0
 karma: 0
-classes:
-- c7bbe3c4-2e76-4d3a-a5d8-8cc3dbac9305
+classes: []
 last-karma-depreciation: 0
 skills:
   exploration:
@@ -75,7 +74,7 @@ skills:
     CRAFTING_TABLE: 4
     IRON_PICKAXE: 5
     IRON_CHESTPLATE: 1
-    FURNACE: 1
+    FURNACE: 2
     IRON_LEGGINGS: 1
     SHIELD: 1
     BUCKET: 1
@@ -96,6 +95,9 @@ skills:
     DARK_OAK_TRAPDOOR: 1
     FLOWER_POT: 3
     SPRUCE_TRAPDOOR: 4
+    LADDER: 1
+    SMOKER: 1
+    BARREL: 1
   sword:
     ZOMBIE: 9
     SKELETON: 6

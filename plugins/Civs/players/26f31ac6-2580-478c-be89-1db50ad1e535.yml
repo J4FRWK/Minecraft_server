@@ -12,7 +12,8 @@ deaths: 0
 highest-kill-streak: 0
 points: 0.0
 karma: 0
-classes: []
+classes:
+- 6f1ec9e9-d895-440c-9162-3f1004ea8378
 last-karma-depreciation: 0
 skills:
   exploration:
@@ -89,7 +90,7 @@ skills:
     DIAMOND_LEGGINGS: 1
     DIAMOND_HELMET: 1
     DIAMOND_BOOTS: 1
-    DIAMOND_SHOVEL: 1
+    DIAMOND_SHOVEL: 2
     JUNGLE_FENCE_GATE: 1
     PAPER: 5
     BOOK: 5
@@ -209,6 +210,7 @@ skills:
     BLAZE: 1
     COW: 6
     ENDER_DRAGON: 1
+    DROWNED: 1
   building:
     sand_pit: 1
     ranch: 1

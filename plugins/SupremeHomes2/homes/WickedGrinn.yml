@@ -34,3 +34,9 @@ EndMain:
   y: 62.0
   z: -74.14010738727622
   public: false
+T:
+  world: world_the_end
+  x: -118.40202528021368
+  y: 66.0
+  z: -1976.4585004781688
+  public: false

@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1687991212160
-  login: 1687970369800
+  logout: 1688041233701
+  login: 1688041096580
   kits:
     claim: 1687987675420
 money: '255323.314339622641483'
@@ -31,11 +31,11 @@ lastlocation:
   yaw: 85.6569595336914
   pitch: 7.499974250793457
 logoutlocation:
-  world: f4a25cbb-9f84-46ac-9187-c265c61f0cf6
-  world-name: Resource_world
-  x: 616.3000000119209
-  y: -5.0
-  z: -1908.347113501008
-  yaw: -110.99512481689453
-  pitch: 9.300000190734863
+  world: e69151a0-77f7-4322-b120-d337ed1ff682
+  world-name: world_the_end
+  x: -803.7360603163603
+  y: 60.0
+  z: -4878.965781706655
+  yaw: -160.349853515625
+  pitch: 25.500009536743164
 nickname: §4Wout

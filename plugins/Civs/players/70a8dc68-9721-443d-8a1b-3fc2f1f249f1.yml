@@ -13,7 +13,7 @@ highest-kill-streak: 0
 points: 0.0
 karma: 0
 classes:
-- f3100059-25d2-4905-b8ef-12745e323f33
+- 79f7d73d-f4f7-41d6-939a-f19c8022ae0a
 last-karma-depreciation: 0
 skills:
   exploration:
@@ -86,7 +86,7 @@ skills:
     LEATHER_BOOTS: 1
     WHITE_BED: 2
     BONE_MEAL: 5
-    WHITE_DYE: 2
+    WHITE_DYE: 4
     LIGHT_BLUE_DYE: 2
     LIGHT_BLUE_BED: 1
     FLINT_AND_STEEL: 2
@@ -117,7 +117,7 @@ skills:
     PUMPKIN_SEEDS: 2
     BOW: 2
     DISPENSER: 2
-    IRON_BLOCK: 3
+    IRON_BLOCK: 4
     REDSTONE_BLOCK: 1
     DIAMOND_BLOCK: 1
     WOODEN_SWORD: 1
@@ -159,6 +159,15 @@ skills:
     IRON_INGOT: 3
     SHIELD: 1
     GRAY_BED: 2
+    SHULKER_BOX: 1
+    BLACK_DYE: 2
+    GRAY_DYE: 1
+    GRAY_SHULKER_BOX: 1
+    LIGHT_GRAY_DYE: 1
+    LIGHT_GRAY_SHULKER_BOX: 1
+    WHITE_SHULKER_BOX: 5
+    BLACK_SHULKER_BOX: 1
+    FIREWORK_ROCKET: 1
   mining:
     IRON_ORE: 40
     COAL_ORE: 60
@@ -240,7 +249,7 @@ skills:
   potion:
     WATER_BREATHING: 5
   shield:
-    DAMAGE: 2
+    DAMAGE: 3
     BLOCKED: 1
 bounties:
   '0':
@@ -258,6 +267,7 @@ items:
   purifier: 1
   default: 1
   plot19x19: 1
+  cobble_grinder: 1
   plot15x15: 1
   archer: 1
   hovel: 1

@@ -16,11 +16,11 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1688030416468
-  login: 1688025220618
+  logout: 1688045368715
+  login: 1688042973800
   kits:
     starter: 1687796065479
-money: '26338.083078616352260'
+money: '27345.273078616352260'
 last-account-name: mijn35
 lastlocation:
   world: f3bab186-1500-4b34-980c-42bf947273da
@@ -34,8 +34,8 @@ nickname: martijn
 logoutlocation:
   world: f3bab186-1500-4b34-980c-42bf947273da
   world-name: Towny
-  x: -759.9499999880791
+  x: -767.018023131183
   y: 66.0
-  z: -924.097441692179
-  yaw: -175.353759765625
-  pitch: 18.300006866455078
+  z: -921.6305569585351
+  yaw: -94.80615234375
+  pitch: 20.249919891357422

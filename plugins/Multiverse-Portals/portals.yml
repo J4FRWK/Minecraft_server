@@ -1,0 +1,40 @@
+portals:
+  towny_main:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: RWKgaming
+    location: -56.0,-4.0,42.0:-56.0,-2.0,45.0
+    world: world
+    destination: p:towny_out
+  towny_out:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: RWKgaming
+    location: 172.0,79.0,-274.0:178.0,82.0,-274.0
+    world: Towny
+    destination: p:towny_main
+  wild_main:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: RWKgaming
+    location: -51.0,-4.0,37.0:-48.0,-2.0,37.0
+    world: world
+    destination: p:wild_out
+  wild_out:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: RWKgaming
+    location: -2.0,104.0,27.0:1.0,107.0,27.0
+    world: Resource_world

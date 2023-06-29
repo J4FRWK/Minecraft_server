@@ -393,6 +393,17 @@ f3bab186-1500-4b34-980c-42bf947273da~105^5~63^5~-268^5:
   - §rfrom the Ranch to a destination
   - §rregion. Place a sloped powered rail at
   - §rthe start.
+f3bab186-1500-4b34-980c-42bf947273da~11367^5~79^5~10526^5:
+  mat: CHEST
+  name: Cobble Grinder
+  lore:
+  - 70a8dc68-9721-443d-8a1b-3fc2f1f249f1
+  - Cobble Grinder
+  - §rCreates cobblestone every 30 seconds.
+  - §rPlace a storage minecart in the chest.
+  - §rBuild rails from the Cobble Grinder to
+  - §ra destination region. Place a sloped
+  - §rpowered rail at the start.
 f3bab186-1500-4b34-980c-42bf947273da~309^5~71^5~-909^5:
   mat: CHEST
   name: Cobble Quarry
@@ -741,14 +752,6 @@ f3bab186-1500-4b34-980c-42bf947273da~-718^5~64^5~-934^5:
   - §rper day. Can't be built in a town with
   - §ra Jade Mine.
 f3bab186-1500-4b34-980c-42bf947273da~337^5~70^5~-887^5:
-  mat: OAK_SIGN
-  name: Embassy
-  lore:
-  - 6a9a2b74-2d92-467d-aebc-edb7fefd2947
-  - Embassy
-  - §rProduces 192 power per day. Also acts
-  - §ras a home port.
-f3bab186-1500-4b34-980c-42bf947273da~338^5~71^5~-884^5:
   mat: OAK_SIGN
   name: Embassy
   lore:
@@ -1329,11 +1332,15 @@ f3bab186-1500-4b34-980c-42bf947273da~-893^5~63^5~-959^5:
   - §rthe start.
 f3bab186-1500-4b34-980c-42bf947273da~11364^5~79^5~10526^5:
   mat: CHEST
-  name: Cobble Quarry
+  name: Cobble Grinder
   lore:
   - 70a8dc68-9721-443d-8a1b-3fc2f1f249f1
-  - Cobble Quarry
+  - Cobble Grinder
   - §rCreates cobblestone every 30 seconds.
+  - §rPlace a storage minecart in the chest.
+  - §rBuild rails from the Cobble Grinder to
+  - §ra destination region. Place a sloped
+  - §rpowered rail at the start.
 f3bab186-1500-4b34-980c-42bf947273da~-725^5~64^5~-943^5:
   mat: CHEST
   name: Purifier
@@ -1491,6 +1498,14 @@ f3bab186-1500-4b34-980c-42bf947273da~11333^5~78^5~10502^5:
   - Shack
   - §rThe most basic house. Earns $96 per
   - §rday by selling potatoes.
+f3bab186-1500-4b34-980c-42bf947273da~339^5~75^5~-885^5:
+  mat: OAK_SIGN
+  name: Embassy
+  lore:
+  - ba0ef024-c159-4451-a834-ff3be37fc8c0
+  - Embassy
+  - §rProduces 192 power per day. Also acts
+  - §ras a home port.
 f3bab186-1500-4b34-980c-42bf947273da~-856^5~32^5~-1009^5:
   mat: CHEST
   name: Coal Shop
@@ -2052,6 +2067,17 @@ f3bab186-1500-4b34-980c-42bf947273da~367^5~72^5~-903^5:
   - §rProvides 12 housing and a port. Useful
   - §rfor adding people to the town without
   - §rhaving to build housing first.
+f3bab186-1500-4b34-980c-42bf947273da~11362^5~80^5~10529^5:
+  mat: CHEST
+  name: Cobble Grinder
+  lore:
+  - 70a8dc68-9721-443d-8a1b-3fc2f1f249f1
+  - Cobble Grinder
+  - §rCreates cobblestone every 30 seconds.
+  - §rPlace a storage minecart in the chest.
+  - §rBuild rails from the Cobble Grinder to
+  - §ra destination region. Place a sloped
+  - §rpowered rail at the start.
 f3bab186-1500-4b34-980c-42bf947273da~333^5~69^5~-917^5:
   mat: OBSIDIAN
   name: Council Room
@@ -2242,14 +2268,6 @@ f3bab186-1500-4b34-980c-42bf947273da~352^5~70^5~-945^5:
   - NPC Shack
   - §rA house for a villager. Counts towards
   - §rtown population.
-f3bab186-1500-4b34-980c-42bf947273da~337^5~71^5~-887^5:
-  mat: OAK_SIGN
-  name: Embassy
-  lore:
-  - 6a9a2b74-2d92-467d-aebc-edb7fefd2947
-  - Embassy
-  - §rProduces 192 power per day. Also acts
-  - §ras a home port.
 f3bab186-1500-4b34-980c-42bf947273da~334^5~69^5~-918^5:
   mat: OBSIDIAN
   name: Council Room

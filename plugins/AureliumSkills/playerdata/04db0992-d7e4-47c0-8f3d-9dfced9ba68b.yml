@@ -11,7 +11,7 @@ skills:
     xp: 1134.2000000000444
   fishing:
     level: 13
-    xp: 4.0
+    xp: 1902.0
   excavation:
     level: 6
     xp: 166.81999999998234
@@ -26,10 +26,10 @@ skills:
     xp: 199.4999999999995
   endurance:
     level: 11
-    xp: 3473.0
+    xp: 3877.0
   agility:
     level: 4
-    xp: 275.99999999999994
+    xp: 286.99999999999994
   alchemy:
     level: 1
     xp: 0.0
@@ -51,4 +51,4 @@ ability_data:
   absorption:
     activated: false
   xp_convert:
-    xp: 2.0100000000009572
+    xp: 15.0100000000009

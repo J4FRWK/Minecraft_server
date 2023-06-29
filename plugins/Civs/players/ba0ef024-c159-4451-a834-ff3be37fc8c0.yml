@@ -13,7 +13,7 @@ highest-kill-streak: 0
 points: 0.0
 karma: 0
 classes:
-- 1b0741af-01ed-45f2-8aa2-83ed5810c911
+- 6f27426b-e35c-428e-859d-f9f75383421f
 last-karma-depreciation: 0
 skills:
   exploration:
@@ -52,13 +52,13 @@ skills:
     SOUL_SAND_VALLEY: 1
   sword:
     COW: 9
-    WANDERING_TRADER: 2
+    WANDERING_TRADER: 3
     PIG: 1
     SKELETON: 9
     SPIDER: 6
     ZOMBIE: 9
     SHEEP: 9
-    TRADER_LLAMA: 1
+    TRADER_LLAMA: 3
   mining:
     COAL_ORE: 60
     IRON_ORE: 20
@@ -91,9 +91,9 @@ skills:
     IRON_AXE: 5
     STONE_SLAB: 5
     BUCKET: 3
-    WHITE_CARPET: 3
+    WHITE_CARPET: 4
     SPRUCE_STAIRS: 5
-    SPRUCE_SIGN: 3
+    SPRUCE_SIGN: 5
     PAINTING: 4
     PAPER: 5
     BOOK: 5
@@ -143,7 +143,7 @@ skills:
     BRICKS: 1
     SPRUCE_SLAB: 5
     TRIPWIRE_HOOK: 1
-    SPRUCE_FENCE: 2
+    SPRUCE_FENCE: 3
     COBBLESTONE_WALL: 1
     ITEM_FRAME: 5
     GLASS_BOTTLE: 1
@@ -156,7 +156,7 @@ skills:
     SMOOTH_STONE_SLAB: 2
     ARMOR_STAND: 2
     RED_BED: 5
-    SPRUCE_WOOD: 1
+    SPRUCE_WOOD: 2
     DARK_OAK_FENCE: 1
     DARK_OAK_PRESSURE_PLATE: 2
     DARK_OAK_SIGN: 2
@@ -165,7 +165,7 @@ skills:
     DARK_OAK_TRAPDOOR: 1
     OAK_DOOR: 1
     STONE_BRICK_SLAB: 3
-    OAK_TRAPDOOR: 1
+    OAK_TRAPDOOR: 3
     WHITE_STAINED_GLASS: 3
     WHITE_STAINED_GLASS_PANE: 1
     STONE_STAIRS: 1
@@ -184,6 +184,7 @@ skills:
     RAIL: 1
     SPRUCE_BUTTON: 1
     STRIPPED_OAK_WOOD: 1
+    OAK_WOOD: 1
   building:
     coal_shop: 1
     council_room: 2
@@ -206,6 +207,7 @@ skills:
     dwelling: 1
     npc_dwelling: 1
     gunpowder_mine: 2
+    embassy: 1
   food:
     SWEET_BERRIES: 7
     BEEF: 6

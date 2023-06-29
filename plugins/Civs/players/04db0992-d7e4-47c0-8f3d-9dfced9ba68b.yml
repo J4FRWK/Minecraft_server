@@ -12,7 +12,8 @@ deaths: 0
 highest-kill-streak: 0
 points: 0.0
 karma: 0
-classes: []
+classes:
+- c29a6802-7ea6-4155-9fdd-6caa757ff0ff
 last-karma-depreciation: 0
 skills:
   exploration:

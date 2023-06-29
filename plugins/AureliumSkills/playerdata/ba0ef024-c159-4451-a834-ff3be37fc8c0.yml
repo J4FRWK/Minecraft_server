@@ -5,7 +5,7 @@ skills:
     xp: 174.83000000000294
   foraging:
     level: 5
-    xp: 1442.6400000000174
+    xp: 1463.7600000000182
   mining:
     level: 3
     xp: 234.49999999999724
@@ -23,13 +23,13 @@ skills:
     xp: 292.84559829235064
   fighting:
     level: 3
-    xp: 15.400000000000002
+    xp: 22.0
   endurance:
     level: 11
-    xp: 5900.0
+    xp: 7142.0
   agility:
     level: 4
-    xp: 545.4975380897517
+    xp: 578.4975380897517
   alchemy:
     level: 1
     xp: 0.0

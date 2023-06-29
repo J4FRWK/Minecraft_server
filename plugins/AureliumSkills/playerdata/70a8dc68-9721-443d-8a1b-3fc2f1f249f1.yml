@@ -8,7 +8,7 @@ skills:
     xp: 871.4200000000149
   mining:
     level: 6
-    xp: 1145.1700000000073
+    xp: 1358.0199999999897
   fishing:
     level: 20
     xp: 29807.5
@@ -17,19 +17,19 @@ skills:
     xp: 699.6100000000033
   archery:
     level: 4
-    xp: 212.49999999999937
+    xp: 624.9999999999993
   defense:
-    level: 3
-    xp: 344.7999999999996
+    level: 4
+    xp: 60.39999999999909
   fighting:
     level: 4
-    xp: 568.8000000000002
+    xp: 740.4000000000005
   endurance:
     level: 10
-    xp: 6808.0
+    xp: 7423.0
   agility:
     level: 6
-    xp: 938.0000000000013
+    xp: 1197.6000000000015
   alchemy:
     level: 2
     xp: 0.0
