@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.149.164.120
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1688037892947
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688037651972
+  login: 1688037652200
+  kits:
+    claim: 1687975261000
+    starter: 1687975232364
+money: '1618.75'
+last-account-name: Noomine
+lastlocation:
+  world: f4a25cbb-9f84-46ac-9187-c265c61f0cf6
+  world-name: Resource_world
+  x: 942.1128256803394
+  y: 63.09375
+  z: -6793.260116636192
+  yaw: 127.34934997558594
+  pitch: 14.099990844726562
+logoutlocation:
+  world: f4a25cbb-9f84-46ac-9187-c265c61f0cf6
+  world-name: Resource_world
+  x: 931.2318001655532
+  y: -27.246800019478798
+  z: -6501.002368372616
+  yaw: -21.148101806640625
+  pitch: 3.8998606204986572

@@ -1,0 +1,42 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.131.170.174
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1688037522864
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688038582144
+  login: 1688037111449
+  kits:
+    starter: 1687885033646
+    claim: 1687960736847
+money: '154440.65833333333340'
+last-account-name: WickedGrinn
+lastlocation:
+  world: f3bab186-1500-4b34-980c-42bf947273da
+  world-name: Towny
+  x: 11329.702346541719
+  y: 78.0
+  z: 10500.990326089968
+  yaw: -1.4667420387268066
+  pitch: 18.749591827392578
+logoutlocation:
+  world: e69151a0-77f7-4322-b120-d337ed1ff682
+  world-name: world_the_end
+  x: 844.6940049252157
+  y: 58.0
+  z: -1092.735249228418
+  yaw: -163.0430145263672
+  pitch: 32.54990768432617
+nickname: §bGrinn

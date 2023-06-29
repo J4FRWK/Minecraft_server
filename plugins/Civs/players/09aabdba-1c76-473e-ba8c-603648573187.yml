@@ -1,0 +1,25 @@
+locale: en
+hardship: 0.0
+mana: 0
+days-since-hardship-depreciation: 0
+tutorial-index: 1
+tutorial-path: default
+tutorial-progress: 0
+use-announcements: true
+kills: 0
+kill-streak: 0
+deaths: 0
+highest-kill-streak: 0
+points: 0.0
+karma: 0
+classes: []
+last-karma-depreciation: 0
+skills:
+  exploration:
+    THE_VOID: 1
+    PLAINS: 1
+    FOREST: 1
+items:
+  default: 1
+  shelter: 1
+  archer: 1

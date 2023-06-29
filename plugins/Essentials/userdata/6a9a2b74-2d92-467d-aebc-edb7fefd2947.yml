@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.224.126.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687974889122
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1687978670135
+  login: 1687968520356
+  kits:
+    starter: 1687803792266
+money: '12793.35113207547168'
+last-account-name: tommeke111
+lastlocation:
+  world: f3bab186-1500-4b34-980c-42bf947273da
+  world-name: Towny
+  x: 345.47455062585533
+  y: 69.9375
+  z: -954.2259504259188
+  yaw: -152.76968383789062
+  pitch: 6.610687732696533
+logoutlocation:
+  world: f3bab186-1500-4b34-980c-42bf947273da
+  world-name: Towny
+  x: 308.51249998807907
+  y: 70.9375
+  z: -925.6909716474312
+  yaw: -16.753990173339844
+  pitch: 14.20486068725586
+nickname: spek

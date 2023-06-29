@@ -1,0 +1,26 @@
+name: Lazytown
+type: village
+location: f3bab186-1500-4b34-980c-42bf947273da~343.5~69.5~-921.5
+devolved-today: false
+has-war-buildings: false
+war-enabled-today: false
+last-active: 1688038680091
+child-locations:
+- f3bab186-1500-4b34-980c-42bf947273da~343.5~69.5~-921.5
+housing: 19
+population: 16
+villagers: 10
+last-disable: -1
+power: 549
+max-power: 10450
+gov-type: TRIBALISM
+taxes: 0.0
+bank: 500.0
+last-vote: 0
+people:
+  6a9a2b74-2d92-467d-aebc-edb7fefd2947: member
+  ba0ef024-c159-4451-a834-ff3be37fc8c0: owner
+  e48b44e9-2aeb-4c59-8bd5-8c6e716771cf: member
+  91785691-b765-46d9-b390-0a38856433fc: member
+  414e85ac-5c6d-470c-95cf-94e47b501ce1: member
+  8a5b5c25-9322-4f5e-a95c-a762447b0a8c: member

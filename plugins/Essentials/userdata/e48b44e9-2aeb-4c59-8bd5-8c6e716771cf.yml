@@ -1,0 +1,42 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.83.52.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687985709503
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1687991381466
+  login: 1687984907877
+  kits:
+    claim: 1687985731118
+    starter: 1687985739411
+money: '0.0'
+last-account-name: beastyos
+logoutlocation:
+  world: f3bab186-1500-4b34-980c-42bf947273da
+  world-name: Towny
+  x: 367.30000001192093
+  y: 77.0
+  z: -899.8150196120865
+  yaw: 136.404052734375
+  pitch: 29.099781036376953
+lastlocation:
+  world: f3bab186-1500-4b34-980c-42bf947273da
+  world-name: Towny
+  x: 351.2205172113426
+  y: 69.9375
+  z: -900.2594481410005
+  yaw: -129.71044921875
+  pitch: 6.899613857269287
+nickname: §dbeastyos

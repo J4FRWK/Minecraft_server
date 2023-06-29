@@ -1,0 +1,102 @@
+locale: en
+hardship: 0.0
+mana: 0
+days-since-hardship-depreciation: 0
+tutorial-index: 4
+tutorial-path: default
+tutorial-progress: 0
+use-announcements: true
+kills: 0
+kill-streak: 0
+deaths: 0
+highest-kill-streak: 0
+points: 0.0
+karma: 0
+classes:
+- b0c9b68f-8b51-47d5-9367-1e63a261da90
+last-karma-depreciation: 0
+skills:
+  exploration:
+    THE_VOID: 1
+    BIRCH_FOREST: 1
+    PLAINS: 1
+    FOREST: 1
+    STONY_SHORE: 1
+    SAVANNA: 1
+    SAVANNA_PLATEAU: 1
+    OCEAN: 1
+    DEEP_OCEAN: 1
+    DEEP_LUKEWARM_OCEAN: 1
+    LUKEWARM_OCEAN: 1
+    BEACH: 1
+    SPARSE_JUNGLE: 1
+    DESERT: 1
+    RIVER: 1
+    JUNGLE: 1
+    DEEP_DARK: 1
+    MEADOW: 1
+    SUNFLOWER_PLAINS: 1
+    FLOWER_FOREST: 1
+    DARK_FOREST: 1
+    TAIGA: 1
+  food:
+    COOKED_BEEF: 7
+    BREAD: 7
+    MELON_SLICE: 2
+  sword:
+    CREEPER: 1
+    CHICKEN: 1
+    SHEEP: 7
+    SKELETON: 3
+    PIG: 3
+    SPIDER: 1
+    COW: 1
+    ZOMBIE: 4
+    DROWNED: 1
+  crafting:
+    OAK_PLANKS: 5
+    CRAFTING_TABLE: 5
+    STICK: 1
+    IRON_PICKAXE: 1
+    TORCH: 2
+    IRON_HELMET: 1
+    IRON_CHESTPLATE: 1
+    WHEAT: 1
+    BREAD: 2
+    OAK_BOAT: 1
+    FURNACE: 2
+    IRON_LEGGINGS: 1
+    IRON_BOOTS: 1
+    BLUE_DYE: 1
+    SHEARS: 1
+    OAK_SLAB: 1
+    JUNGLE_PLANKS: 1
+    CHEST: 2
+    JUNGLE_DOOR: 1
+    GLASS_PANE: 1
+    BIRCH_PLANKS: 4
+    BIRCH_BOAT: 1
+    IRON_INGOT: 1
+    IRON_AXE: 1
+    BONE_MEAL: 1
+    WHITE_BED: 1
+    COBBLESTONE_STAIRS: 1
+    SPRUCE_PLANKS: 1
+  mining:
+    COAL_ORE: 49
+    COPPER_ORE: 1
+    DEEPSLATE_LAPIS_ORE: 7
+    GOLD_ORE: 3
+    DEEPSLATE_GOLD_ORE: 10
+  armor:
+    IRON_HELMET: 30
+    IRON_CHESTPLATE: 30
+    IRON_LEGGINGS: 23
+    IRON_BOOTS: 23
+  axe:
+    CREEPER: 1
+items:
+  elemental: 1
+  default: 1
+  shelter: 1
+  archer: 1

@@ -1,0 +1,46 @@
+location: f3bab186-1500-4b34-980c-42bf947273da~-759.5~64.5~-923.5
+xn-radius: 5
+xp-radius: 5
+yn-radius: 5
+yp-radius: 5
+zn-radius: 5
+zp-radius: 5
+people:
+  04db0992-d7e4-47c0-8f3d-9dfced9ba68b: owner
+upkeep-history:
+  '1687798168951': 0
+  '1687939033867': 0
+  '1687979131049': 0
+  '1687937497892': 0
+  '1687981175690': 3
+  '1687979131076': 3
+  '1687939545866': 0
+  '1687798770950': 2
+  '1687798168953': 1
+  '1687938009866': 0
+  '1687936987865': 0
+  '1687799974953': 2
+  '1687980663683': 3
+  '1687979641267': 3
+  '1687798770965': 3
+  '1687938521865': 0
+  '1687799372957': 2
+  '1687978620201': 3
+  '1687876994457': 0
+  '1687980151747': 3
+effects:
+- door_use
+- block_fire
+- bed
+- deny_damage
+- port:owner
+- block_break
+- block_build
+- active:1209600
+- chest_use
+- block_explosion
+- block_liquid
+type: shelter
+exp: 0.0
+warehouse-enabled: true
+last-active: 1688030413222

@@ -1,0 +1,18 @@
+location: f3bab186-1500-4b34-980c-42bf947273da~116.5~63.5~-256.5
+xn-radius: 4
+xp-radius: 4
+yn-radius: 4
+yp-radius: 4
+zn-radius: 4
+zp-radius: 4
+people:
+  8a5b5c25-9322-4f5e-a95c-a762447b0a8c: owner
+effects:
+- block_fire
+- conveyor:OAK_LOG
+- block_break
+- block_build
+- block_liquid
+type: oak_lumberyard
+exp: 0.0
+warehouse-enabled: false

@@ -1,0 +1,267 @@
+locale: en
+hardship: 0.0
+mana: 0
+days-since-hardship-depreciation: 0
+tutorial-index: 4
+tutorial-path: default
+tutorial-progress: 0
+use-announcements: true
+kills: 0
+kill-streak: 0
+deaths: 0
+highest-kill-streak: 0
+points: 0.0
+karma: 0
+classes: []
+last-karma-depreciation: 0
+skills:
+  exploration:
+    THE_VOID: 1
+    BIRCH_FOREST: 1
+    STONY_SHORE: 1
+    FOREST: 1
+    PLAINS: 1
+    DRIPSTONE_CAVES: 1
+    MEADOW: 1
+    DEEP_DARK: 1
+    OCEAN: 1
+    SPARSE_JUNGLE: 1
+    BEACH: 1
+    DESERT: 1
+    BADLANDS: 1
+    SAVANNA: 1
+    LUKEWARM_OCEAN: 1
+    LUSH_CAVES: 1
+    RIVER: 1
+    JUNGLE: 1
+    TAIGA: 1
+    WARM_OCEAN: 1
+    JAGGED_PEAKS: 1
+    SNOWY_SLOPES: 1
+    OLD_GROWTH_PINE_TAIGA: 1
+    CRIMSON_FOREST: 1
+    NETHER_WASTES: 1
+    WARPED_FOREST: 1
+    OLD_GROWTH_BIRCH_FOREST: 1
+    SOUL_SAND_VALLEY: 1
+    ERODED_BADLANDS: 1
+    STONY_PEAKS: 1
+    BASALT_DELTAS: 1
+    THE_END: 1
+    END_MIDLANDS: 1
+  food:
+    COOKED_BEEF: 7
+    BREAD: 7
+    BEEF: 7
+    ENCHANTED_GOLDEN_APPLE: 1
+    MELON_SLICE: 7
+    COOKED_MUTTON: 7
+    CARROT: 7
+    POTATO: 7
+    GOLDEN_APPLE: 2
+    COOKED_PORKCHOP: 4
+    PORKCHOP: 7
+    CHORUS_FRUIT: 1
+  crafting:
+    OAK_PLANKS: 5
+    CRAFTING_TABLE: 2
+    IRON_LEGGINGS: 1
+    IRON_HELMET: 1
+    IRON_BOOTS: 1
+    FURNACE: 3
+    IRON_CHESTPLATE: 1
+    STICK: 5
+    IRON_PICKAXE: 5
+    IRON_SWORD: 1
+    JUNGLE_SIGN: 1
+    GOLDEN_SHOVEL: 2
+    JUNGLE_FENCE: 4
+    WHEAT: 4
+    BREAD: 4
+    NOTE_BLOCK: 1
+    CHEST: 5
+    JUNGLE_PLANKS: 5
+    JUNGLE_BOAT: 2
+    MINECART: 2
+    STONE_PICKAXE: 1
+    RAIL: 5
+    DIAMOND_CHESTPLATE: 1
+    DIAMOND_LEGGINGS: 1
+    DIAMOND_HELMET: 1
+    DIAMOND_BOOTS: 1
+    DIAMOND_SHOVEL: 1
+    JUNGLE_FENCE_GATE: 1
+    PAPER: 5
+    BOOK: 5
+    BOOKSHELF: 5
+    JUNGLE_SLAB: 3
+    LECTERN: 3
+    STONE_AXE: 3
+    ACACIA_PLANKS: 3
+    IRON_BLOCK: 3
+    ANVIL: 1
+    FLETCHING_TABLE: 1
+    BUCKET: 4
+    ENCHANTING_TABLE: 1
+    FLINT_AND_STEEL: 1
+    GOLDEN_HELMET: 1
+    DIAMOND_SWORD: 1
+    GOLDEN_PICKAXE: 2
+    GOLD_INGOT: 3
+    NETHERITE_INGOT: 3
+    SMITHING_TABLE: 1
+    SHEARS: 1
+    IRON_AXE: 1
+    SPRUCE_PLANKS: 5
+    SPRUCE_FENCE: 1
+    OAK_FENCE_GATE: 1
+    OAK_FENCE: 1
+    DIAMOND_AXE: 1
+    BOW: 2
+    QUARTZ_BLOCK: 3
+    IRON_INGOT: 2
+    BLAZE_POWDER: 2
+    ENDER_EYE: 5
+    WHITE_BED: 2
+    SHULKER_BOX: 1
+    JUNGLE_PRESSURE_PLATE: 1
+    IRON_TRAPDOOR: 1
+    HEAVY_WEIGHTED_PRESSURE_PLATE: 1
+    HOPPER: 1
+    FISHING_ROD: 1
+    STONE_SLAB: 1
+    GRINDSTONE: 1
+    SPRUCE_DOOR: 1
+    COAL: 5
+    STONE_SWORD: 3
+    BEACON: 1
+    SLIME_BALL: 5
+    COAL_BLOCK: 1
+    GOLD_BLOCK: 1
+    DIAMOND_BLOCK: 1
+    END_CRYSTAL: 1
+    CONDUIT: 1
+    FIREWORK_ROCKET: 1
+  sword:
+    COW: 9
+    SPIDER: 9
+    ZOMBIE: 9
+    SKELETON: 9
+    CREEPER: 8
+    WANDERING_TRADER: 2
+    WITCH: 5
+    TRADER_LLAMA: 2
+    DROWNED: 4
+    HOGLIN: 3
+    PIGLIN: 2
+    GHAST: 5
+    HUSK: 2
+    PIG: 2
+    SHEEP: 1
+    RABBIT: 1
+  armor:
+    IRON_HELMET: 30
+    IRON_LEGGINGS: 30
+    IRON_BOOTS: 30
+    IRON_CHESTPLATE: 30
+    DIAMOND_HELMET: 12
+    DIAMOND_CHESTPLATE: 12
+    DIAMOND_BOOTS: 12
+    DIAMOND_LEGGINGS: 11
+  axe:
+    SHEEP: 9
+    COW: 6
+    CHICKEN: 1
+    TRADER_LLAMA: 2
+    WANDERING_TRADER: 2
+    IRON_GOLEM: 1
+    ZOMBIE: 9
+    SKELETON: 8
+    SPIDER: 3
+    CREEPER: 1
+    PIGLIN: 2
+    BLAZE: 6
+    SILVERFISH: 4
+    PILLAGER: 2
+    VINDICATOR: 3
+    DROWNED: 3
+    GUARDIAN: 9
+  mining:
+    COAL_ORE: 60
+    IRON_ORE: 40
+    COPPER_ORE: 12
+    DEEPSLATE_REDSTONE_ORE: 40
+    DEEPSLATE_DIAMOND_ORE: 52
+    DEEPSLATE_GOLD_ORE: 40
+    GOLD_ORE: 15
+    LAPIS_ORE: 14
+    DEEPSLATE_LAPIS_ORE: 13
+    DEEPSLATE_COAL_ORE: 1
+    EMERALD_ORE: 1
+    NETHER_QUARTZ_ORE: 80
+    GLOWSTONE: 18
+  bow:
+    SKELETON: 1
+    WARDEN: 3
+    WITHER_SKELETON: 1
+    ZOMBIFIED_PIGLIN: 1
+    GHAST: 2
+    BLAZE: 1
+    COW: 6
+    ENDER_DRAGON: 1
+  building:
+    sand_pit: 1
+    ranch: 1
+  enchant:
+    fortune2: 1
+    unbreaking1: 2
+    efficiency3: 2
+    aqua_affinity1: 3
+    protection4: 2
+    depth_strider3: 1
+    unbreaking3: 3
+    piercing2: 1
+    lure1: 2
+    sharpness1: 3
+    fire_protection1: 2
+    piercing1: 3
+    efficiency1: 3
+    smite1: 3
+    power1: 3
+    protection3: 3
+    looting2: 1
+    efficiency4: 3
+    fortune3: 2
+    sweeping1: 1
+    luck_of_the_sea2: 1
+    bane_of_arthropods3: 1
+    impaling1: 1
+    protection1: 3
+    sharpness3: 1
+    fire_protection2: 1
+    feather_falling1: 1
+    loyalty3: 1
+    projectile_protection1: 2
+    blast_protection1: 1
+    power4: 1
+    power3: 1
+    sweeping3: 1
+    smite4: 1
+    looting3: 1
+    fire_aspect2: 1
+  crossbow:
+    PIGLIN: 3
+    ZOMBIE: 2
+    PHANTOM: 2
+    BLAZE: 2
+  potion:
+    FIRE_RESISTANCE: 2
+bounties:
+  '0':
+    issuer: 70a8dc68-9721-443d-8a1b-3fc2f1f249f1
+    amount: 1001.0
+items:
+  elemental: 1
+  default: 1
+  shelter: 1
+  archer: 1

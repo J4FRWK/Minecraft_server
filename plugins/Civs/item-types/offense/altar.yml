@@ -1,0 +1,62 @@
+type: region
+icon: CHEST
+shop-icon: NETHERITE_CHESTPLATE
+name: Altar
+price: 100
+max: 1
+groups:
+  - offense
+level: 1
+
+build-reqs:
+  - DIAMOND_BLOCK
+  - IRON_BLOCK
+  - REDSTONE_BLOCK
+
+build-radius: 1
+
+effects:
+  - block_break
+  - block_build
+  - block_liquid
+  - block_fire
+  - chest_use
+
+period: 3600 1 hour
+upkeep:
+  0:
+    tools:
+      - WOODEN_SWORD
+    output:
+      - NETHERITE_SWORD
+    payout: -13500
+  1:
+    input:
+      - STICK
+    output:
+      - BOW
+      - ARROW*64
+      - ARROW*64
+    payout: -100
+  2:
+    tools:
+      - WOODEN_AXE
+    output:
+      - NETHERITE_AXE
+    payout: -15000
+  3:
+    input:
+      - KELP
+    output:
+      - TRIDENT
+    payout: -100
+  4:
+    input:
+      - LEATHER
+    output:
+      - NETHERITE_HELMET
+      - NETHERITE_CHESTPLATE
+      - NETHERITE_LEGGINGS
+      - NETHERITE_BOOTS
+    payout: -90000
+

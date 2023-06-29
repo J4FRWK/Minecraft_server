@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 141.135.127.19
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687937466750
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688030416468
+  login: 1688025220618
+  kits:
+    starter: 1687796065479
+money: '26338.083078616352260'
+last-account-name: mijn35
+lastlocation:
+  world: f3bab186-1500-4b34-980c-42bf947273da
+  world-name: Towny
+  x: -763.2519706265091
+  y: 65.0
+  z: -919.1670605038577
+  yaw: 22.0458984375
+  pitch: 16.950693130493164
+nickname: martijn
+logoutlocation:
+  world: f3bab186-1500-4b34-980c-42bf947273da
+  world-name: Towny
+  x: -759.9499999880791
+  y: 66.0
+  z: -924.097441692179
+  yaw: -175.353759765625
+  pitch: 18.300006866455078

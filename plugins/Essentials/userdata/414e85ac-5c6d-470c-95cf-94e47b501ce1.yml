@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.225.198.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1687990381110
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1687991212160
+  login: 1687970369800
+  kits:
+    claim: 1687987675420
+money: '255323.314339622641483'
+last-account-name: RWKgaming
+lastlocation:
+  world: f4a25cbb-9f84-46ac-9187-c265c61f0cf6
+  world-name: Resource_world
+  x: 364.03501905839954
+  y: 54.0
+  z: 266.4105311648938
+  yaw: 85.6569595336914
+  pitch: 7.499974250793457
+logoutlocation:
+  world: f4a25cbb-9f84-46ac-9187-c265c61f0cf6
+  world-name: Resource_world
+  x: 616.3000000119209
+  y: -5.0
+  z: -1908.347113501008
+  yaw: -110.99512481689453
+  pitch: 9.300000190734863
+nickname: §4Wout

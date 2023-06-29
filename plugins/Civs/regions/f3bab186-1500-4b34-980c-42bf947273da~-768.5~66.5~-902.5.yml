@@ -1,0 +1,18 @@
+location: f3bab186-1500-4b34-980c-42bf947273da~-768.5~66.5~-902.5
+xn-radius: 3
+xp-radius: 3
+yn-radius: 3
+yp-radius: 3
+zn-radius: 3
+zp-radius: 3
+people:
+  04db0992-d7e4-47c0-8f3d-9dfced9ba68b: owner
+effects:
+- block_fire
+- conveyor:FLINT
+- block_break
+- block_build
+- block_liquid
+type: flint_works
+exp: 0.0
+warehouse-enabled: true

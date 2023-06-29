@@ -1,0 +1,101 @@
+locale: en
+hardship: 0.11961722488038277
+mana: 0
+days-since-hardship-depreciation: 0
+tutorial-index: 3
+tutorial-path: default
+tutorial-progress: 0
+use-announcements: true
+kills: 0
+kill-streak: 0
+deaths: 0
+highest-kill-streak: 0
+points: 0.0
+karma: 0
+classes: []
+last-karma-depreciation: 0
+skills:
+  exploration:
+    THE_VOID: 1
+    PLAINS: 1
+    MEADOW: 1
+    SNOWY_SLOPES: 1
+    DRIPSTONE_CAVES: 1
+    FOREST: 1
+    SAVANNA: 1
+    BEACH: 1
+    SUNFLOWER_PLAINS: 1
+    JAGGED_PEAKS: 1
+    DEEP_DARK: 1
+    TAIGA: 1
+    RIVER: 1
+    FLOWER_FOREST: 1
+    BIRCH_FOREST: 1
+    OLD_GROWTH_BIRCH_FOREST: 1
+    BASALT_DELTAS: 1
+    NETHER_WASTES: 1
+  axe:
+    COW: 9
+    PIG: 5
+    SHEEP: 9
+    HORSE: 3
+    PHANTOM: 1
+    ZOMBIE: 1
+  mining:
+    COAL_ORE: 60
+    IRON_ORE: 13
+    COPPER_ORE: 8
+    DEEPSLATE_REDSTONE_ORE: 4
+    DEEPSLATE_DIAMOND_ORE: 9
+    DEEPSLATE_GOLD_ORE: 6
+    NETHER_QUARTZ_ORE: 4
+  crafting:
+    OAK_PLANKS: 5
+    CRAFTING_TABLE: 3
+    FURNACE: 1
+    STICK: 5
+    TORCH: 5
+    STONE_PICKAXE: 5
+    CHEST: 3
+    IRON_CHESTPLATE: 1
+    IRON_LEGGINGS: 1
+    IRON_BOOTS: 1
+    BIRCH_PLANKS: 3
+    IRON_PICKAXE: 1
+    IRON_AXE: 1
+    PAPER: 3
+    BOOK: 4
+    BOOKSHELF: 3
+    DIAMOND_PICKAXE: 1
+    BUCKET: 1
+    ENCHANTING_TABLE: 1
+    FLETCHING_TABLE: 2
+    OAK_SLAB: 1
+    LECTERN: 2
+    IRON_SHOVEL: 1
+    BREWING_STAND: 1
+    GLASS_BOTTLE: 1
+    FLINT_AND_STEEL: 1
+    SHIELD: 1
+  food:
+    COOKED_BEEF: 7
+    COOKED_MUTTON: 2
+    COOKED_PORKCHOP: 7
+  sword:
+    SKELETON: 6
+    ZOMBIE: 9
+    SPIDER: 5
+    PHANTOM: 1
+    MAGMA_CUBE: 1
+  armor:
+    IRON_CHESTPLATE: 9
+    IRON_LEGGINGS: 9
+    IRON_BOOTS: 9
+    NETHERITE_HELMET: 30
+    NETHERITE_CHESTPLATE: 30
+    NETHERITE_BOOTS: 30
+    NETHERITE_LEGGINGS: 30
+items:
+  default: 1
+  shelter: 1
+  archer: 1

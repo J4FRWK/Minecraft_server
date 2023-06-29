@@ -1,0 +1,264 @@
+locale: en
+hardship: 283.6483333333333
+mana: 0
+days-since-hardship-depreciation: 3
+tutorial-index: 4
+tutorial-path: default
+tutorial-progress: 0
+use-announcements: true
+kills: 1
+kill-streak: 1
+deaths: 0
+highest-kill-streak: 1
+points: 1.1
+karma: -13
+classes:
+- aafe34ce-e2d3-4f7b-9235-598e452bcccb
+last-karma-depreciation: 1688032223998
+skills:
+  exploration:
+    THE_VOID: 1
+    BIRCH_FOREST: 1
+    MEADOW: 1
+    PLAINS: 1
+    SNOWY_SLOPES: 1
+    FOREST: 1
+    DRIPSTONE_CAVES: 1
+    DEEP_DARK: 1
+    STONY_SHORE: 1
+    OCEAN: 1
+    RIVER: 1
+    BEACH: 1
+    SPARSE_JUNGLE: 1
+    SOUL_SAND_VALLEY: 1
+    DESERT: 1
+    CRIMSON_FOREST: 1
+    NETHER_WASTES: 1
+    BADLANDS: 1
+    SAVANNA: 1
+    STONY_PEAKS: 1
+    GROVE: 1
+    JAGGED_PEAKS: 1
+    OLD_GROWTH_BIRCH_FOREST: 1
+    DARK_FOREST: 1
+    DEEP_OCEAN: 1
+    BASALT_DELTAS: 1
+    WARPED_FOREST: 1
+    COLD_OCEAN: 1
+    DEEP_COLD_OCEAN: 1
+    JUNGLE: 1
+    THE_END: 1
+    END_MIDLANDS: 1
+    END_HIGHLANDS: 1
+  food:
+    COOKED_BEEF: 7
+    BREAD: 5
+    GLOW_BERRIES: 6
+    BAKED_POTATO: 7
+    ENCHANTED_GOLDEN_APPLE: 1
+    CARROT: 1
+    GOLDEN_APPLE: 1
+  sword:
+    COW: 9
+    CHICKEN: 3
+    PIG: 5
+    SHEEP: 6
+    GOAT: 1
+    ZOMBIE: 9
+    SKELETON: 9
+    CREEPER: 8
+    SPIDER: 3
+    ENDERMAN: 3
+    WARDEN: 2
+    GLOW_SQUID: 3
+    WITCH: 1
+    WITHER_SKELETON: 4
+    BLAZE: 8
+  mining:
+    COAL_ORE: 60
+    IRON_ORE: 40
+    COPPER_ORE: 11
+    DEEPSLATE_LAPIS_ORE: 47
+    REDSTONE_ORE: 2
+    DEEPSLATE_REDSTONE_ORE: 40
+    DEEPSLATE_GOLD_ORE: 40
+    DEEPSLATE_DIAMOND_ORE: 47
+    GOLD_ORE: 8
+    DEEPSLATE_EMERALD_ORE: 1
+    NETHER_QUARTZ_ORE: 80
+    EMERALD_ORE: 4
+    DIAMOND_ORE: 4
+    LAPIS_ORE: 2
+  crafting:
+    OAK_PLANKS: 5
+    STICK: 5
+    TORCH: 4
+    CRAFTING_TABLE: 5
+    IRON_PICKAXE: 4
+    STONE_HOE: 5
+    CHEST: 5
+    FURNACE: 5
+    IRON_SHOVEL: 1
+    IRON_HOE: 1
+    MUSIC_DISC_5: 1
+    JUKEBOX: 1
+    RECOVERY_COMPASS: 1
+    BLUE_DYE: 1
+    REDSTONE_BLOCK: 1
+    LAPIS_BLOCK: 3
+    FLINT_AND_STEEL: 1
+    BOOKSHELF: 4
+    ENCHANTING_TABLE: 1
+    LAPIS_LAZULI: 5
+    DIAMOND_PICKAXE: 5
+    DIAMOND_SWORD: 3
+    COBBLESTONE_SLAB: 1
+    STONE_SLAB: 1
+    OAK_SIGN: 2
+    GRINDSTONE: 1
+    IRON_BLOCK: 5
+    ANVIL: 1
+    DIAMOND_BLOCK: 1
+    GOLD_BLOCK: 1
+    BONE_MEAL: 4
+    HAY_BLOCK: 2
+    OAK_FENCE: 5
+    SHEARS: 2
+    OAK_FENCE_GATE: 3
+    POWERED_RAIL: 1
+    RAIL: 1
+    DIAMOND_AXE: 1
+    IRON_INGOT: 3
+    BUCKET: 3
+    GOLDEN_AXE: 2
+    IRON_AXE: 1
+    BREAD: 1
+    COBBLED_DEEPSLATE_STAIRS: 5
+    OAK_DOOR: 2
+    SPRUCE_PLANKS: 5
+    COBBLED_DEEPSLATE_SLAB: 1
+    SPRUCE_STAIRS: 5
+    CAMPFIRE: 1
+    SPRUCE_SLAB: 1
+    WOODEN_AXE: 2
+    JUNGLE_PLANKS: 5
+    JUNGLE_WOOD: 1
+    OAK_BOAT: 3
+    OAK_STAIRS: 3
+    BLACKSTONE_SLAB: 1
+    IRON_BARS: 2
+    SPRUCE_DOOR: 1
+    STONE_PICKAXE: 4
+    WOODEN_SWORD: 1
+    GOLD_INGOT: 5
+    NETHERITE_INGOT: 5
+    HOPPER: 4
+    SMITHING_TABLE: 2
+    OAK_CHEST_BOAT: 1
+    DIAMOND_SHOVEL: 3
+    PAPER: 5
+    BOOK: 2
+    SPRUCE_SIGN: 3
+    STONE_SHOVEL: 1
+    NETHERITE_BLOCK: 5
+    GOLD_NUGGET: 2
+    DARK_OAK_PLANKS: 5
+    DARK_OAK_STAIRS: 5
+    DARK_OAK_SLAB: 4
+    OAK_WOOD: 1
+    DIAMOND_HOE: 1
+    DARK_OAK_TRAPDOOR: 5
+    DARK_OAK_WOOD: 1
+    WHITE_BANNER: 2
+    DARK_OAK_FENCE: 5
+    DIAMOND: 1
+    AMETHYST_BLOCK: 1
+    DIAMOND_BOOTS: 1
+    LEATHER_BOOTS: 1
+    OAK_TRAPDOOR: 5
+    DARK_OAK_FENCE_GATE: 5
+    IRON_NUGGET: 1
+    LANTERN: 1
+    OAK_SLAB: 4
+    LADDER: 3
+    DARK_OAK_SIGN: 2
+    COAL: 1
+    SMOKER: 2
+    BARREL: 5
+    FLOWER_POT: 2
+    WHITE_DYE: 1
+    WHITE_BED: 1
+  armor:
+    DIAMOND_LEGGINGS: 30
+    IRON_HELMET: 30
+    IRON_CHESTPLATE: 30
+    IRON_BOOTS: 30
+    NETHERITE_HELMET: 12
+    NETHERITE_CHESTPLATE: 12
+    NETHERITE_LEGGINGS: 12
+    NETHERITE_BOOTS: 11
+  enchant:
+    efficiency3: 3
+    efficiency2: 1
+    unbreaking3: 3
+    fortune1: 1
+    efficiency4: 3
+    silk_touch1: 2
+    fortune2: 3
+    unbreaking2: 2
+    fortune3: 1
+    protection3: 3
+    aqua_affinity1: 1
+    respiration3: 1
+    fire_protection3: 1
+    bane_of_arthropods1: 2
+    sharpness3: 2
+    knockback2: 1
+    fire_aspect2: 3
+    sweeping1: 1
+    sharpness2: 2
+    sharpness4: 1
+    knockback1: 1
+    unbreaking1: 2
+    sweeping3: 1
+  building:
+    altar: 3
+    leather_shop: 1
+    oak_lumberyard: 1
+    cobble_quarry: 1
+    spruce_lumberyard: 1
+    purifier: 1
+    ranch: 1
+    coal_mine: 1
+    dirt_quarry: 1
+    sugar_cane_farm: 2
+  axe:
+    SHEEP: 9
+    SKELETON: 9
+    SPIDER: 8
+    ZOMBIE: 9
+    COW: 9
+    CREEPER: 5
+    GOAT: 1
+    TURTLE: 3
+    CHICKEN: 8
+    PIGLIN: 1
+    ZOMBIFIED_PIGLIN: 1
+  potion:
+    REGENERATION: 1
+bounties:
+  '0':
+    issuer: ba0ef024-c159-4451-a834-ff3be37fc8c0
+    amount: 500.0
+items:
+  elemental: 1
+  default: 1
+  spruce_lumberyard: 1
+  plot7x7: 1
+  mining_colony: 1
+  shelter: 1
+  plot15x15: 1
+  archer: 1
+  plot11x11: 1
+  council_room: 1
+  settlement: 1

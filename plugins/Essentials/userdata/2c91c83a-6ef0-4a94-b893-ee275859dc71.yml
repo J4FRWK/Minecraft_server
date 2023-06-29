@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.197.134.95
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1688026619666
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688035320895
+  login: 1688031668529
+  kits:
+    claim: 1687718100946
+    starter: 1687717848747
+money: '1221.5'
+last-account-name: Xgamerr12
+lastlocation:
+  world: f3bab186-1500-4b34-980c-42bf947273da
+  world-name: Towny
+  x: 919.8068294443306
+  y: 102.0
+  z: -699.6200505460006
+  yaw: 117.14947509765625
+  pitch: 16.200166702270508
+logoutlocation:
+  world: f3bab186-1500-4b34-980c-42bf947273da
+  world-name: Towny
+  x: 909.2958485100567
+  y: 102.5625
+  z: -699.7892071632403
+  yaw: 168.4501190185547
+  pitch: 35.850013732910156

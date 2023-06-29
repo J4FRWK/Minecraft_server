@@ -1,0 +1,32 @@
+kits:
+  tools:
+    delay: 10
+    items:
+    - stonesword 1
+    - stoneshovel 1
+    - stonepickaxe 1
+    - stoneaxe 1
+  starter:
+    delay: 86400
+    items:
+    - oak_log 16
+    - iron_ingot 16
+    - bread 8
+    - cooked_beef 8
+    - red_bed 1
+  info:
+    delay: 60
+    items:
+    - written_book 1 title:Small_tutorial author:ShadyCatt page1:-_Welcome_to_our_minecraft_server!_-||We_at_NAP_are_proud_to_announce_Nappyland,_our_new_(small)_minecraft_server!_For_now,_we_only_have_a_Towny_mode._||If_you_have_any_concerns,_ping_a_mod_or_admin!
+      page2:Explanation_for_Towny||Go_to_the_Wilderness_with_/warp_Wild_to_farm_for_resources._The_Wild_will_be_reset_every_once_in_a_while,_so_don't_build_any_buildings_there!_Just_use_it_to_mine_for_resources._If_you_find_a_nice_spot,_save_it_with_/sethome_<name>.
+      page3:When_you_have_your_resources,_use_the_Civs_plugin_to_make_your_Town._You_can_share_a_town_with_friends,_using_/trust._You_can_just_follow_the_book_you_got_in_your_inventory_at_the_start_or_the_command_/cv.
+      page4:Some_handy_commands:|•_/kits_→_get_the_stuff_you_need!_With_/kit_claim,_you_are_able_to_claim_blocks_to_build|•_/warp_→_go_where_you_need|•_/warplist_or_/warps_→_look_at_all_the_places_to_go|•_/tpa_→_ask_to_teleport_to_someone,_or_ask_them_to_teleport_to_you_
+      page5:•_/sethome_<name>_→_save_a_place_you_like!_Maximum_10_homes|•_/delhome_<name>_→_remove_a_home|•_/skills_→_see_all_the_skills_you_are_acquiring!|•_/money_or_/balance_→_see_your_bank_account!|•_/sell_<item>_→_sell_something_in_your_hand_for_money!
+      page6:The_setting_up_of_a_chest_shop||Put_up_a_chest_and_put_a_sign_on_it||-------------------\|_________blanco__________\|_\|_________amount__________\|_\|_buy_price:sell_price__\||\|_________item_name_______\|_-------------------|____________\|__\|_____________|_________
+      page7:Example:|You_want_people_to_buy_64_cobblestone_for_€100_per_stack,_and_sell_theirs_for_€10_per_stack||-------------------\|___________________________\|_\|____________64____________\|_\|____B_100_:_S_10________\|_\|_______cobblestone_____\||-------------------______________\|__\|
+      page8:You_know_it_works_when_your_username_appears_on_the_top_line!||Most_of_the_times,_the_amount_is_just_1.||If_you_want_to_find_out_the_name_of_an_item,_you_use_/iteminfo.
+      page9:If_you_have_any_questions,_ping_the_admins_or_mods!_(on_discord_or_here)||Admins:|-_ShadyCatt_@lisavda|-_RWKgaming_@rwkgaming|-_@real_syntha
+  claim:
+    delay: 60
+    items:
+    - golden_shovel 1
