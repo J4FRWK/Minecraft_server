@@ -1,0 +1,5 @@
+modpack-versions = "7.9.4"
+#This should be your Modpacks Curseforge Page, not the Versions page (this is not synced to the client if different on server)
+curseforge-url = "https://www.curseforge.com/minecraft/modpacks/darkrpg"
+#This should be your Modpacks Modrinth Page, not the Versions page (this is not synced to the client if different on server)
+modrinth-url = ""
