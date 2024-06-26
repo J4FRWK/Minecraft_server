@@ -1,0 +1,1922 @@
+{
+	hide_tooltip: true
+	id: "327CC6D247035966"
+	loot_crate: {
+		color: 15793155
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "Combat Loot Crate"
+		string_id: "weaponry_loot_crate"
+	}
+	loot_size: 1
+	order_index: 19
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:nickel_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:electrum_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:steel_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:aluminum_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:amethyst_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:lead_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:bronze_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:ruby_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:platinum_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:peridot_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:tin_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:topaz_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:copper_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:invar_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:silver_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:emerald_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:sapphire_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:bluebright_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:starlit_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:frostbright_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:lunar_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:dusk_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:maple_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:comet_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:turquoise_stone_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:lunar_stone_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:pyrope_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:aquite_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:diopside_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:horizonite_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mekanismtools:bronze_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mekanismtools:lapis_lazuli_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mekanismtools:osmium_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_chakram"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_scythe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_halberd"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_longsword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_twinblade"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_rapier"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_katana"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_sai"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_glaive"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_warglaive"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_cutlass"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_claymore"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_greathammer"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_greataxe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_chakram"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_scythe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:iron_halberd"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_longsword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_twinblade"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_rapier"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_rapier"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_katana"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_sai"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_glaive"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_warglaive"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_cutlass"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_claymore"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_greathammer"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:gold_greataxe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:bramblethorn"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:sword_on_a_stick"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:stormbringer"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:storms_edge"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:watcher_claymore"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:brimstone_claymore"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_halberd"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_halberd"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_scythe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_warglaive"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_longsword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_twinblade"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_rapier"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_katana"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_sai"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_glaive"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_warglaive"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_cutlass"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_claymore"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_greathammer"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_greataxe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_chakram"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_scythe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:diamond_halberd"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_claymore"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_greataxe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_cutlass"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_longsword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_twinblade"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_rapier"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_katana"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_sai"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_glaive"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_chakram"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:runic_greathammer"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:watching_warglaive"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:waking_lichblade"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:awakened_lichblade"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:shadowsting"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:dormant_relic"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:righteous_relic"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:tainted_relic"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:sunfire"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:harbinger"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:whisperwind"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:frostfall"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:molten_edge"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:livyatan"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:icewhisper"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:thunderbrand"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:arcanethyst"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:mjolnir"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:slumbering_lichblade"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:toxic_longsword"
+				tag: {
+					Damage: 0
+					nether_power: "no_socket"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:emberblade"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:hearthflame"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:soulkeeper"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:twisted_blade"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:soulstealer"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:soulrender"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "socket_empty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "simplyswords:soulpyre"
+				tag: {
+					Damage: 0
+					nether_power: "socket_empty"
+					runic_power: "no_socket"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicsamurai:iron_samurai_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicsamurai:white_samurai_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicsamurai:steel_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicempires:spartan_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicsamurai:green_samurai_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicempires:spartan_elite_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicempires:roman_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicempires:roman_elite_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicsamurai:red_samurai_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicsamurai:quartz_samurai_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "pickletweaks:flint_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "pickletweaks:emerald_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "knightsnmages:blue_knight_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mekanismtools:bronze_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mekanismtools:lapis_lazuli_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mekanismtools:osmium_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mekanismtools:refined_glowstone_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mekanismtools:refined_obsidian_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicsamurai:amethyst_samurai_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicempires:egyptian_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "hmag:necrotic_chainmail_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "immersive_armors:bone_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "immersive_armors:prismarine_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "immersive_armors:heavy_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "immersive_armors:wooden_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "immersive_armors:steampunk_chestplate"
+				tag: {
+					Damage: 0
+					capeAngles: {
+						capeX: 0.0d
+						capeY: 0.0d
+						capeZ: 0.0d
+						lastTickDelta: 1.0f
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mekanismtools:steel_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicsamurai:gold_samurai_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicempires:egyptian_elite_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicsamurai:gray_samurai_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "immersive_armors:warrior_chestplate"
+				tag: {
+					Damage: 0
+					capeAngles: {
+						capeX: 0.0d
+						capeY: 0.0d
+						capeZ: 0.0d
+						lastTickDelta: 1.0f
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "immersive_armors:divine_chestplate"
+				tag: {
+					Damage: 0
+					capeAngles: {
+						capeX: 0.0d
+						capeY: 0.0d
+						capeZ: 0.0d
+						lastTickDelta: 1.0f
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "immersive_armors:robe_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "immersive_armors:wither_chestplate"
+				tag: {
+					Damage: 0
+					capeAngles: {
+						capeX: 0.0d
+						capeY: 0.0d
+						capeZ: 0.0d
+						lastTickDelta: 1.0f
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "immersive_armors:slime_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "epicsamurai:blue_samurai_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:bronze_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:ruby_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:peridot_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:tin_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:copper_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:invar_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:silver_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "diamethysts:diamethyst_gold_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "diamethysts:diamethyst_copper_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "diamethysts:diamethyst_iron_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "diamethysts:diamethyst_quartz_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "diamethysts:diamethyst_prismarine_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cosmeticarmoursmod:blue_knight_armour_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cosmeticarmoursmod:green_knight_armour_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cosmeticarmoursmod:green_knight_armour_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cosmeticarmoursmod:orange_knight_armour_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:pyrope_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:aquite_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:diopside_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:charoite_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "blue_skies:horizonite_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:iron_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:chainmail_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cosmeticarmoursmod:pink_knight_armour_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:nickel_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:electrum_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:steel_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:aluminum_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:amethyst_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "assortedtools:lead_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cosmeticarmoursmod:red_knight_armour_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:golden_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "aether:obsidian_chestplate"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "aether:phoenix_chestplate"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "aether:neptune_chestplate"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "aether:gravitite_chestplate"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "aether:zanite_chestplate"
+				tag: {
+					Damage: 0
+					affix_data: {
+						sockets: 1
+					}
+				}
+			}
+		}
+	]
+	title: "Combat Loot Crate"
+	use_title: true
+}

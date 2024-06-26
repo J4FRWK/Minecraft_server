@@ -1,0 +1,23 @@
+// Compost colors for withersweapons. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ancient_lightning_fragment, #ffffca
+aquaslash, #a7ffff
+dark_mace, #69615b
+diablow, #ff8e20
+echo_charge, #a3c46
+echo_staff, #659896
+eldingain, #ffff8e
+electrumight, #ffffd4
+magentaslash, #b150ae
+mortuth, #232328
+prime_axe_staff, #b5b4a8
+scarlet_demise, #c94368
+spooky_dark_mace, #b26407
+spooky_echo_staff, #c6798d
+spooky_prime_axe_staff, #aa5ab8
+spooky_stone_blade, #666e58
+spooky_upgrade, #ffa77c
+stone_blade, #646261
+valorin, #4a3e36
+valorin_unpowered, #32302f
+violet_demise, #9d44b8
+vitali, #f4c672

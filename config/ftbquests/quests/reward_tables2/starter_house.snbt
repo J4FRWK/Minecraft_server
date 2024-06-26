@@ -1,0 +1,15 @@
+{
+	id: "70F69454C5AA4B25"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ item: "craftable_base_camps:wagon" }
+		{ item: "craftable_base_camps:craft_basic" }
+		{ item: "craftable_base_camps:log_cabin" }
+		{ item: "craftable_base_camps:boat" }
+		{ item: "craftable_base_camps:caste" }
+		{ item: "craftable_base_camps:tower" }
+		{ item: "craftable_base_camps:tree_fort" }
+	]
+	title: "Starter House"
+}

@@ -1,0 +1,8 @@
+// Compost colors for usefulrailroads. You may add your own colors, change existing ones, or remove colors that aren't needed.
+clamp_rail, #b8aa70
+direction_rail, #bba28d
+double_track_builder, #a17d86
+highspeed_rail, #abacb1
+intersection_rail, #ddd0bb
+single_track_builder, #6c94b4
+teleport_rail, #aab5a0

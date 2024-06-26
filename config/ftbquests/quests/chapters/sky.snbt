@@ -1,0 +1,2511 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sky"
+	group: "7701DDDE6C3F8D0B"
+	icon: "forbidden_arcanus:dark_matter"
+	id: "3D03277CCF3CD624"
+	images: [
+		{
+			alpha: 50
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "bloodmagic:models/alchemyarrays/sightsigil"
+			order: 10
+			rotation: 0.0d
+			width: 6.0d
+			x: -7.5d
+			y: 19.5d
+		}
+		{
+			alpha: 50
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "bloodmagic:models/alchemyarrays/sightsigil"
+			order: 10
+			rotation: 0.0d
+			width: 6.0d
+			x: -1.5d
+			y: 19.5d
+		}
+		{
+			alpha: 50
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "bloodmagic:models/alchemyarrays/divinationsigil"
+			order: 10
+			rotation: 0.0d
+			width: 6.0d
+			x: 36.0d
+			y: 19.5d
+		}
+		{
+			alpha: 50
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "bloodmagic:models/alchemyarrays/voidsigil"
+			order: 10
+			rotation: 0.0d
+			width: 6.0d
+			x: -7.5d
+			y: 14.0d
+		}
+		{
+			alpha: 50
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "bloodmagic:models/alchemyarrays/lightsigil"
+			order: 10
+			rotation: 0.0d
+			width: 6.0d
+			x: -19.5d
+			y: 19.5d
+		}
+		{
+			alpha: 100
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "bloodmagic:models/alchemyarrays/hastesigil"
+			order: 10
+			rotation: 0.0d
+			width: 6.0d
+			x: -13.5d
+			y: 19.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 95.0d
+			hover: [ ]
+			image: "occultism:block/dimensional_mineshaft_portal"
+			rotation: 0.0d
+			width: 110.0d
+			x: 6.5d
+			y: 22.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1B9A9967D7806C10"]
+			description: [
+				"Crafting tables allows you to craft more items and blocks."
+				""
+				"You can also open crafting tables without placing them down on the floor."
+			]
+			id: "450B09285575E786"
+			rewards: [{
+				count: 4
+				id: "6F502E4742305711"
+				item: "ars_nouveau:purple_archwood_sapling"
+				type: "item"
+			}]
+			tasks: [{
+				id: "592036DE20D5C572"
+				item: "vct:archwood_crafting_table"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["450B09285575E786"]
+			description: ["Crooks allows you get extra drops from leaves, including extra saplings, silk worms and sticks."]
+			id: "32C465984ACE1945"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5850A97DD15ACD42"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2547F99CD6CC6637"
+				item: {
+					Count: 1b
+					id: "exdeorum:crook"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["32C465984ACE1945"]
+			description: ["You can convert normal leaves into infested leaves to obtain string by clicking them with a silk worm."]
+			id: "0379E6C4E50B9763"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "579CACBB7885A426"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6EFE671830EF81A9"
+				item: "exdeorum:silk_worm"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 21.0d
+		}
+		{
+			dependencies: ["0379E6C4E50B9763"]
+			id: "52BDEA1558D9DB11"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A51D945E7DF6CF8"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "18E8CE7A48518FE4"
+				item: "minecraft:string"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 21.0d
+		}
+		{
+			dependencies: [
+				"0C1C05C05F1DFBEA"
+				"7D017D23B2374768"
+				"450B09285575E786"
+			]
+			description: [
+				"The sieve is how you get most of your resources to get started."
+				""
+				"Sieves require meshes. they can be of many type inclusing, Srting, Flint, Iron, gold, Diamond and Netherite."
+				""
+				"To use a sieve place a block in the sieve and simply right click the sieve with the block that you want to sift. "
+				""
+				"Continue right clicking until the block is gone to obtain your resources."
+			]
+			id: "16B85A45C0717285"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "71C1A8A5D7A5F4F2"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "299E2850AF80D608"
+				item: "exdeorum:archwood_sieve"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["52BDEA1558D9DB11"]
+			description: [""]
+			id: "0C1C05C05F1DFBEA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "38A40A52D393EA2D"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "304F1F17DA32E600"
+				item: "exdeorum:string_mesh"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 21.0d
+		}
+		{
+			dependencies: ["251A4B976C353A8F"]
+			description: [
+				"The barrel has a wide range of uses. You can use it to compost organics into dirt, transform one fluid into another, and to transform a fluid into a block with an item, When in the rain, the barrel will collect water."
+				""
+				""
+				"Mutation:"
+				"The combination of some fluids and blocks will interact and transform the fluid in the barrel. The barrel must be full of the input fluid and the block placed directly below the full barrel."
+			]
+			hide: true
+			id: "297A4B30D200D7B1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "158009CFDB9BA49E"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "25D02030BCC3FCCA"
+				item: "exdeorum:archwood_barrel"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["297A4B30D200D7B1"]
+			description: [
+				"Barrel Compost Crafting:"
+				""
+				"Fill a wooden barrel with Saplings, Leaves, Flowers, Seeds and others to compost them into grass."
+			]
+			id: "1FF7372B885FA3C9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0EAD667941472ED8"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5227F9C156A0D660"
+				item: "minecraft:dirt"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["16B85A45C0717285"]
+			hide: true
+			id: "251A4B976C353A8F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "080E5D0B43EE1BB5"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "562903021EBE37D9"
+				item: {
+					Count: 1b
+					id: "woodenshears:wshears_charred"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Charred Shears"
+			x: 10.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["4321C9DD6837D56C"]
+			description: ["A companion that also helps you by healing you"]
+			icon: {
+				Count: 1b
+				id: "player_companions:fairy_default"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2F201D41097F9170"
+			rewards: [{
+				id: "58E2523ED86F4F8B"
+				item: {
+					Count: 1b
+					id: "player_companions:fairy_default"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "6A453E40E0199B5A"
+				title: "Click to complete"
+				type: "checkmark"
+			}]
+			title: "Companion"
+			x: -5.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["4321C9DD6837D56C"]
+			description: [
+				"Sleeping at least 3 times in the same bed will mark it as your \"home bed\""
+				""
+				"Once a bed gets marked you'll receive a new effect, Invigorated, upon waking up."
+				""
+				"Invigorating increases XP drop from ores and mobs for a long period of time making it a valuable reward for committing to the same bed."
+			]
+			icon: "minecraft:purple_bed"
+			id: "500FF73966A84749"
+			rewards: [{
+				id: "5DC62C0370E76EB3"
+				item: "minecraft:purple_bed"
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "2F8125D445C71CF5"
+				title: "Click to complete"
+				type: "checkmark"
+			}]
+			title: "Sleeping"
+			x: -9.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["4321C9DD6837D56C"]
+			description: [
+				"The Market allows you to obtain different type of items, blocks and mobs. "
+				""
+				"It uses trader tokens as main currency, you can obtain more trader tokens by completing quests."
+				""
+				"The Market will be unlocked after completing this quest, find it as a new Chapter in your quest book."
+			]
+			icon: "grimoireofgaia:trader_token"
+			id: "4BF534A2A95FC17B"
+			rewards: [{
+				id: "6B031E2B774714C6"
+				item: "grimoireofgaia:trader_token"
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "10EAAEE922C2815B"
+				title: "Click to activate"
+				type: "checkmark"
+			}]
+			title: "Market"
+			x: -7.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["4321C9DD6837D56C"]
+			description: ["Dynamic lights allows you to use torches or other light sources from your hotbar."]
+			icon: "minecraft:torch"
+			id: "0E7B0F4457984CF7"
+			rewards: [{
+				count: 4
+				id: "6466A7B491520528"
+				item: "minecraft:torch"
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "0E1D1C84E653DCEB"
+				title: "Dynamic Lights"
+				type: "checkmark"
+			}]
+			title: "Dynamic Lights"
+			x: -3.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["1B9A9967D7806C10"]
+			description: ["Allows you to carry extra inventory."]
+			icon: {
+				Count: 1b
+				id: "sophisticatedbackpacks:backpack"
+				tag: {
+					borderColor: 8991416
+					clothColor: 8991416
+				}
+			}
+			id: "38B48345DC92EB84"
+			rewards: [{
+				id: "35CA727A6CE1D173"
+				item: {
+					Count: 1b
+					id: "sophisticatedbackpacks:backpack"
+					tag: {
+						borderColor: 8991416
+						clothColor: 8991416
+					}
+				}
+				team_reward: true
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "3C891968884328B9"
+				item: "grimoireofgaia:trader_token"
+				type: "item"
+			}]
+			title: "Backpack"
+			x: -1.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["55DECDE9925FDF56"]
+			icon: {
+				Count: 1b
+				id: "irons_spellbooks:scroll"
+				tag: {
+					ISB_spell: {
+						id: "irons_spellbooks:acupuncture"
+						level: 1
+					}
+				}
+			}
+			id: "4321C9DD6837D56C"
+			rewards: [{
+				id: "4644EB7FEFD46886"
+				item: "grimoireofgaia:trader_token"
+				random_bonus: 2
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "108D20543EB8E9D9"
+				title: "Click to Activate"
+				type: "checkmark"
+			}]
+			title: "Utilities"
+			x: -7.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["4321C9DD6837D56C"]
+			description: [
+				"Skills allow you to upgrade your character."
+				" "
+				"Access your skills using the \"o\" key"
+				""
+				"You can obtain more wisdon scrolls by completing quests or by buying them from the traders market."
+			]
+			icon: "skilltree:wisdom_scroll"
+			id: "7E35F122800045FE"
+			rewards: [{
+				id: "371FC9FC7D57F9CB"
+				item: "skilltree:wisdom_scroll"
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "60781705AA029C0A"
+				title: "Click to complete"
+				type: "checkmark"
+			}]
+			title: "Skills"
+			x: -7.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["6A681B89DCFEDDAC"]
+			description: ["This quest will give you access to The Nether dimension."]
+			icon: "forbidden_arcanus:dark_matter"
+			id: "51E903456B713E97"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/dimension minecraft:the_nether access grant"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					icon: "forbidden_arcanus:dark_matter"
+					id: "3F7B08911B116370"
+					ignore_reward_blocking: true
+					title: "Grant Access [The Nether]"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/dimension minecraft:overworld access grant"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					icon: "forbidden_arcanus:dark_matter"
+					id: "0542DC5DE82CD8A5"
+					ignore_reward_blocking: true
+					silent: true
+					title: "Dimensional Access [Void World]"
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7815F1E4AA1E48EE"
+				title: "Click to complete"
+				type: "checkmark"
+			}]
+			title: "Dimensional Access [The Nether]"
+			x: 36.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["1FF7372B885FA3C9"]
+			description: ["Grass drops from srting mesh sieves or higher"]
+			id: "3C22EFC9F37B4C3D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C70866CDD46DBF3"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "015BC59490784D7B"
+					item: "minecraft:pumpkin_seeds"
+					type: "item"
+				}
+				{
+					id: "3BD39B1F2ECFD04A"
+					item: "exdeorum:grass_seeds"
+					type: "item"
+				}
+				{
+					id: "649EA2BBBBCF8636"
+					item: "minecraft:melon_seeds"
+					type: "item"
+				}
+				{
+					id: "609CF807A20A88D6"
+					item: "minecraft:beetroot_seeds"
+					type: "item"
+				}
+				{
+					id: "4CFF63D5DA208355"
+					item: "minecraft:potato"
+					type: "item"
+				}
+				{
+					id: "34270EB3A44FE064"
+					item: "minecraft:carrot"
+					type: "item"
+				}
+				{
+					id: "508E9305C4DA99AA"
+					item: "minecraft:bamboo"
+					type: "item"
+				}
+				{
+					id: "077A71A3DB9FB960"
+					item: "farmersdelight:tomato_seeds"
+					type: "item"
+				}
+				{
+					id: "7429F5C03924F722"
+					item: "candlelight:lettuce_seeds"
+					type: "item"
+				}
+				{
+					id: "0A38DF32F51CDE48"
+					item: "farmersdelight:cabbage_seeds"
+					type: "item"
+				}
+				{
+					id: "1166A8A89720F35A"
+					item: "supplementaries:flax_seeds"
+					type: "item"
+				}
+				{
+					id: "3117F8753763559A"
+					item: "occultism:datura_seeds"
+					type: "item"
+				}
+				{
+					id: "77383387DBF2F386"
+					item: "vinery:red_grape_seeds"
+					type: "item"
+				}
+				{
+					id: "3A3F40BA87E06D23"
+					item: "vinery:white_grape_seeds"
+					type: "item"
+				}
+				{
+					id: "0869492371B5AB93"
+					item: "farmersdelight:rice_panicle"
+					type: "item"
+				}
+				{
+					id: "680FC92DBB985A23"
+					item: "mysticalagriculture:dirt_essence"
+					type: "item"
+				}
+				{
+					id: "06497EEEED14A4CC"
+					item: "minecraft:wheat_seeds"
+					type: "item"
+				}
+				{
+					id: "65A577655D19AFF1"
+					item: "farmersdelight:wild_onions"
+					type: "item"
+				}
+				{
+					id: "23E189919179FCD2"
+					item: "mysticalagriculture:stone_essence"
+					type: "item"
+				}
+				{
+					id: "5C78BE3BC76C76B2"
+					item: "bakery:strawberry_seeds"
+					type: "item"
+				}
+			]
+			title: "Plants"
+			x: 8.5d
+			y: 25.5d
+		}
+		{
+			dependencies: ["16B85A45C0717285"]
+			id: "2FC9A88F08C5A4D7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4642ADD3393E353C"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "01D5AD4CFF4D9382"
+				item: "minecraft:flint"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["2FC9A88F08C5A4D7"]
+			description: ["A tier 2 and basic sieve mesh"]
+			id: "7123C1952DCF59C4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53B006937EC87607"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "17DF44AB7ECCEA42"
+				item: "exdeorum:flint_mesh"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["23BB589B880ECDB1"]
+			description: ["Can be crafted from pebbles."]
+			id: "32BF0E28623E796B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1DA682230BC8BBA4"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5F90B4ED6EAC4C21"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["32BF0E28623E796B"]
+			description: ["Hammers are used to break blocks down into other blocks."]
+			id: "251065F24DEFD4DD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "17CCF3FA57759043"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "13E52C1553AE5842"
+				item: {
+					Count: 1b
+					id: "exdeorum:stone_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["251065F24DEFD4DD"]
+			id: "7D017D23B2374768"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0C58C112F9B7175A"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "33F5DA77476710DF"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["7123C1952DCF59C4"]
+			description: ["Iron Ore Chunks can be obtained from flint mesh sieves or higher."]
+			id: "2633473E5841A244"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37697F9E7B5D2088"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6B30D911D5B84D66"
+				item: "exdeorum:iron_ore_chunk"
+				type: "item"
+			}]
+			title: "Common Ore Chunks"
+			x: 15.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["76B675D3974BB233"]
+			description: ["Rare Ore Chunks can be obtained from iron mesh sieves or higher."]
+			id: "1B1A5B32F7A829FD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B0397140DC78DF5"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "64368D429A450462"
+					item: "exdeorum:copper_ore_chunk"
+					type: "item"
+				}
+				{
+					id: "0A73CECDB1F6CE64"
+					item: "exdeorum:silver_ore_chunk"
+					type: "item"
+				}
+				{
+					id: "72D0F2E0778A8885"
+					item: "exdeorum:zinc_ore_chunk"
+					type: "item"
+				}
+				{
+					id: "234C08F18DF9FBEF"
+					item: "exdeorum:osmium_ore_chunk"
+					type: "item"
+				}
+				{
+					id: "1BE3321C70FFA8D2"
+					item: "exdeorum:tin_ore_chunk"
+					type: "item"
+				}
+				{
+					id: "28EF65A809530B57"
+					item: "exdeorum:lead_ore_chunk"
+					type: "item"
+				}
+			]
+			title: "Rare Ore Chunks"
+			x: 17.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["33BF35F89ABBB3B5"]
+			description: ["Diamonds can be obtained from Iron mesh sieves or higher."]
+			id: "08BF29AB40B1F448"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "762EAA6282FE9BD4"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "74CF8455C8F36E19"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			x: 20.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["70EC8CFC72DC2F68"]
+			description: ["A tier 3 and more advanced mesh"]
+			id: "33BF35F89ABBB3B5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E0A0934B325B7E5"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "12F252174BE47BB4"
+				item: "exdeorum:iron_mesh"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["33BF35F89ABBB3B5"]
+			description: ["Dust blocks can be obtained by breaking gravel with a hammer."]
+			id: "23B878059D1C44B0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B511C76457A9E72"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "22D451579AF6601B"
+				item: "minecraft:sand"
+				type: "item"
+			}]
+			x: 17.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["33BF35F89ABBB3B5"]
+			description: [
+				"Dust blocks can be obtained by breaking sand with a hammer."
+				""
+				"Tip:"
+				"Dust blocks have the ability to also growth crystals when placed in the world."
+			]
+			id: "6930632278789DA5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "433C48B835526C66"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4F8DA87A55D556ED"
+				item: "exdeorum:dust"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["23B878059D1C44B0"]
+			description: ["Drops from sand from sieves"]
+			id: "569B006F35484BB1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "270A61657E397B18"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "633BAAF76AB571D1"
+					item: "minecraft:cactus"
+					type: "item"
+				}
+				{
+					id: "2F6971967668DACE"
+					item: "minecraft:kelp"
+					type: "item"
+				}
+				{
+					id: "60A746CA5A2063E2"
+					item: "minecraft:dead_bush"
+					type: "item"
+				}
+				{
+					id: "1BF9D5568F51B987"
+					item: "minecraft:sea_pickle"
+					type: "item"
+				}
+				{
+					id: "0057D464DCB8352B"
+					item: "exdeorum:random_pottery_sherd"
+					type: "item"
+				}
+			]
+			title: "Sand Sieve Drops"
+			x: 17.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["6930632278789DA5"]
+			description: ["Rare Gems can be obtained from iron mesh sieves or higher."]
+			id: "57FD6BA093E26536"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "222F0DE4DB3B8027"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "6F0BF75CC9A97BF4"
+					item: "minecraft:glowstone_dust"
+					type: "item"
+				}
+				{
+					id: "6FE1E704C9BF5A08"
+					item: "minecraft:gunpowder"
+					type: "item"
+				}
+				{
+					id: "77E463EF14B7F60F"
+					item: "minecraft:gunpowder"
+					type: "item"
+				}
+				{
+					id: "3EEE817DB43D1574"
+					item: "enderio:grains_of_infinity"
+					type: "item"
+				}
+				{
+					id: "5279AE467F019317"
+					item: "minecraft:redstone"
+					type: "item"
+				}
+				{
+					id: "2A9EEAE8CCE34E49"
+					item: "cosmosportals:item_cosmic_material"
+					type: "item"
+				}
+				{
+					id: "07CBE7CCFE61F92A"
+					item: "minecraft:bone_meal"
+					type: "item"
+				}
+				{
+					id: "68980B7E9ADC87B3"
+					item: "epicsamurai:jade"
+					type: "item"
+				}
+				{
+					id: "33292466389DE5F4"
+					item: "epicsamurai:aquamarine"
+					type: "item"
+				}
+				{
+					id: "25DA9D8A7F7728CE"
+					item: "epicsamurai:onyx"
+					type: "item"
+				}
+				{
+					id: "14753E5552F9FD12"
+					item: "thermal:ruby"
+					type: "item"
+				}
+				{
+					id: "5EA6C393464CD5A3"
+					item: "knightsnmages:moonlight_gem"
+					type: "item"
+				}
+				{
+					id: "523B1F099FA9F5D9"
+					item: "knightsnmages:citrin_gem"
+					type: "item"
+				}
+				{
+					id: "02EE538DE7F56E94"
+					item: "knightsnmages:scarlet_gem"
+					type: "item"
+				}
+				{
+					id: "5FD12C9A3899343E"
+					item: "wizards_reborn:arcanum"
+					type: "item"
+				}
+				{
+					id: "5FB5606F9FDECB0C"
+					item: "forbidden_arcanus:arcane_crystal"
+					type: "item"
+				}
+				{
+					id: "78E11406AD303B2F"
+					item: "forbidden_arcanus:rune"
+					type: "item"
+				}
+			]
+			title: "Rare Ore Gems"
+			x: 20.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["16B85A45C0717285"]
+			description: ["The crucible is used to melt various blocks and items into fluids."]
+			hide: true
+			id: "17C411079D0C6A56"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07BD17EB93565E07"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5E53777648EE98F0"
+				item: "exdeorum:purple_archwood_crucible"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["17C411079D0C6A56"]
+			hide: true
+			id: "443375AC3E53E648"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03DEE3E11DACD1F0"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "67FFFA13A189B81B"
+				item: {
+					Count: 1b
+					id: "assortedtools:wood_bucket"
+					tag: {
+						Fluid: {
+							Amount: 0
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["443375AC3E53E648"]
+			description: ["Melt leaves or saplings in a wooden crucible to obtain water."]
+			hide: true
+			id: "2B3E3121852B8604"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B8B7D1208606F60"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "491DF97F571924F1"
+				item: {
+					Count: 1b
+					id: "assortedtools:wood_bucket"
+					tag: {
+						Fluid: {
+							Amount: 1000
+							FluidName: "minecraft:water"
+						}
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			x: 10.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["1EED005560087F23"]
+			description: [
+				"Barrel Mixing Crafting:"
+				""
+				"1. Fill a barrel with water."
+				"2. Click barrel with a dust block."
+				"3. The dust block will transform into a block of clay."
+			]
+			id: "00530B8761DD4A64"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7EB537445B418657"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1BF41D8F0EB7E0AD"
+				item: "minecraft:clay"
+				type: "item"
+			}]
+			x: 25.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["00530B8761DD4A64"]
+			description: [
+				"1. Fill stone barrel with water."
+				"2. Click barrel with a dust block."
+				"3. The dust block will transform into a block of clay."
+			]
+			id: "67C72EDF306E4BA8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18B64D22F99C01E7"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "48166F85BF7231FC"
+				item: "exdeorum:porcelain_clay_ball"
+				type: "item"
+			}]
+			x: 26.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["67C72EDF306E4BA8"]
+			description: ["The porcelain crucible can sustain more heat than the wooden crucible"]
+			id: "4CBF9E3268A0DED9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A66594322312D8D"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3C756DCD34DFC082"
+				item: "exdeorum:porcelain_crucible"
+				type: "item"
+			}]
+			x: 28.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["4CBF9E3268A0DED9"]
+			description: [
+				"The following items can be melted down into lava:"
+				"- Gravel"
+				"- Cobblestone"
+				"- Darkstone"
+				"- Netherrack"
+			]
+			id: "1DEC6033BCEF5D8D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37F02DA5D6DBAC3D"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "29F82207FA446284"
+				item: "minecraft:lava_bucket"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["1DEC6033BCEF5D8D"]
+			description: [
+				"Barrel Mixing Crafting:"
+				""
+				"1. Fill stone barrel with lava."
+				"2. Click barrel with a water bucket."
+				"3. The lava will transform into a block of obsidian."
+			]
+			id: "6A681B89DCFEDDAC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "05285247F018D04D"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "017760AA83BD465C"
+				item: "minecraft:obsidian"
+				type: "item"
+			}]
+			x: 31.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["443375AC3E53E648"]
+			dependency_requirement: "one_completed"
+			description: [
+				"Witch water is obtained by pouring water in a barrel on top of mycelium."
+				""
+				"Tip:"
+				"Mycelium Seeds drops from grass on a string mesh sieve or higher."
+			]
+			hide: true
+			id: "7412587E0C64F492"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "574C5614219B4A09"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "26A5E8B4022840A3"
+				item: {
+					Count: 1b
+					id: "assortedtools:wood_bucket"
+					tag: {
+						Fluid: {
+							Amount: 1000
+							FluidName: "exdeorum:witch_water"
+						}
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			x: 10.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["1DEC6033BCEF5D8D"]
+			description: [
+				"Barrel Mixing Crafting:"
+				""
+				"1. Fill stone barrel with lava."
+				"2. Click barrel with a glowstone dust."
+				"3. The lava will transform into a block of end stone."
+			]
+			id: "0A0C1D113DA35390"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "118234E7DAE05EA2"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7C3A194BCB7CEA08"
+				item: "minecraft:end_stone"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 21.0d
+		}
+		{
+			dependencies: ["1DEC6033BCEF5D8D"]
+			description: [
+				"Barrel Mixing Crafting:"
+				""
+				"1. Fill stone barrel with lava."
+				"2. Click barrel with a witch water bucket."
+				"3. The lava will transform into a block of netherrack."
+			]
+			id: "420E677F3ABBB9E2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08D19B949165BDA6"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6FD25D4EB16ED967"
+				item: "minecraft:netherrack"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["6A681B89DCFEDDAC"]
+			description: ["Transmute items and blocks into other equivalent items."]
+			hide: true
+			id: "44B81D3CAEF0604A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7147BC62462A8EE3"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1F09FB2C88509196"
+				item: {
+					Count: 1b
+					id: "miniumstone:minium_stone"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 32.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["450B09285575E786"]
+			description: ["Emergency sapplings can be obtained from the \"Emergency Items\" icon on the top right side of your quest book."]
+			id: "682BD629354E3A7E"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F5E662C27FE4512"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3E9BB56A348A03DC"
+				item: "ars_nouveau:purple_archwood_sapling"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["450B09285575E786"]
+			description: ["Shift right click grass to obtain pebbles that can be crafted into stone"]
+			id: "23BB589B880ECDB1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "69DE32A8451AD77F"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2EBACF693CD93924"
+				item: "botania:pebble"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["55DECDE9925FDF56"]
+			description: [
+				"Building material used for expanding your island."
+				""
+				"Tip 1:"
+				"Dig down the dirt at the center of the island to find a hidden chest with some loot to help you expand your island."
+			]
+			icon: {
+				Count: 1b
+				id: "irons_spellbooks:scroll"
+				tag: {
+					ISB_spell: {
+						id: "irons_spellbooks:acupuncture"
+						level: 1
+					}
+				}
+			}
+			id: "1B9A9967D7806C10"
+			rewards: [{
+				id: "6ED6F8EDD0E04551"
+				item: "grimoireofgaia:trader_token"
+				random_bonus: 2
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "45BF5692DFCCFC14"
+				title: "Click to activate"
+				type: "checkmark"
+			}]
+			title: "Tips"
+			x: -1.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["7412587E0C64F492"]
+			hide: true
+			id: "4AC4B5957FAF2903"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A765E38425D9C5F"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "78AA2D1DCE2341AE"
+				item: "minecraft:soul_sand"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["4AC4B5957FAF2903"]
+			description: ["Drops from soul sand from sieves"]
+			hide: true
+			id: "6E12F30E3E3DF40E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A9E52C599A6FB60"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "389A6B692810193D"
+				item: "minecraft:quartz"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["4AC4B5957FAF2903"]
+			description: [
+				"Drops from soul sand from sieves"
+				""
+				"Tip:"
+				"Also spawns in The Nether and The End"
+			]
+			hide: true
+			id: "5FB4C3A09936125C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6745710C5FB5683C"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7DD4B8927F5E24E1"
+				item: "mysticalagriculture:prosperity_shard"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["4AC4B5957FAF2903"]
+			description: [
+				"Drops from soul sand from sieves"
+				""
+				"Tip:"
+				"Also spawns in The Nether and The End"
+			]
+			hide: true
+			id: "3CE062030EC65156"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "43ED1EE46E2FD619"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "657655C5017B3101"
+				item: "mysticalagriculture:inferium_essence"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 12.5d
+		}
+		{
+			description: [
+				"{image:voidscape:textures/abilities/mage/aura.png width:100 height:100 align:1 fit:true}"
+				""
+				"In the overworld, a fierce battle took place against The Leviathan. Unfortunately, during the battle, the creature trapped you in a void dimension."
+				""
+				"Your only way out is to start from scratch by gathering resources from the tree at the island's center. Once you have done that, you will need to progress through various dimensions to return to the overworld and rebuild civilization."
+			]
+			icon: {
+				Count: 1b
+				id: "occultism:book_of_calling_foliot_transport_items"
+				tag: {
+					spiritName: "Cromylsyrn"
+				}
+			}
+			id: "55DECDE9925FDF56"
+			rewards: [
+				{
+					id: "493692FDB06254FF"
+					item: "grimoireofgaia:trader_token"
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					command: "/dimension minecraft:overworld access grant"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					icon: "forbidden_arcanus:dark_matter"
+					id: "0F5E634F3EB0BF1A"
+					silent: true
+					title: "Dimensional Access"
+					type: "command"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "forbidden_arcanus:dark_matter"
+				id: "51756EB92BD4F7F6"
+				title: "Void World"
+				type: "dimension"
+			}]
+			title: "Welcome"
+			x: -13.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["55DECDE9925FDF56"]
+			description: [
+				"Lunar events:"
+				""
+				" "
+				"- Blood Moon: Mobs that emerge during this lunar event have an extra edge."
+				""
+				"- Crimson Moon: Experience an unprecedented overlap of dimensions as crimson mobs start spawning."
+				""
+				"- Miner Moon: Unleash your inner miner during the Miner Moon. The gift of Haste accompanies this event."
+				""
+				"- White Moon: Venture out with confidence as the tranquil aura of the night encourages exploration and discovery."
+				""
+				"- Big Moon: The Big Moon brings alterations to gravity, testing your adaptability in a world with reduced gravity."
+				""
+				"- Eclipse Moon: Embrace the darkness effect that challenges your senses and strategy, offering a unique and immersive twist to the lunar cycle."
+			]
+			icon: "forbidden_arcanus:crescent_moon"
+			id: "4B145EBC1805D7DA"
+			rewards: [{
+				id: "1A6CF2A90C4D8A3C"
+				item: "grimoireofgaia:trader_token"
+				random_bonus: 2
+				type: "item"
+			}]
+			shape: "circle"
+			subtitle: "Lunar events"
+			tasks: [{
+				id: "49CEE0A075E9C694"
+				title: "Click to complete"
+				type: "checkmark"
+			}]
+			title: "Lunar Events"
+			x: -11.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["55DECDE9925FDF56"]
+			description: ["Shaders are disabled by default, if you would like to enable shaders use the \"F10\" key."]
+			icon: "simplyswords:empowered_remnant"
+			id: "52CDE8B0B41CA141"
+			rewards: [{
+				id: "3035913C020E9C16"
+				item: "grimoireofgaia:trader_token"
+				random_bonus: 2
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "3C85BCE1EAB0E7EC"
+				type: "checkmark"
+			}]
+			title: "Shaders"
+			x: -13.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["55DECDE9925FDF56"]
+			description: ["The Inventory and Armor HUDs can be toggle using the \"[\" and \"]\" keys."]
+			icon: "modulargolems:talented"
+			id: "2ED3DE3052DF31F5"
+			rewards: [{
+				id: "2FA0DB0A800DEF48"
+				item: "grimoireofgaia:trader_token"
+				random_bonus: 2
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "656C6E80A3E0E179"
+				title: "Click to complete"
+				type: "checkmark"
+			}]
+			title: "Inventory HUD"
+			x: -15.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["16B85A45C0717285"]
+			description: ["You can use up to 9 sieves at once in a 3x3 area to optimize your work."]
+			hide: true
+			id: "2C7B7941A15E6098"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "01995ACC9A040C46"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				count: 9L
+				id: "0962D7FFC47855A9"
+				item: "exdeorum:archwood_sieve"
+				type: "item"
+			}]
+			title: "Simultaneous Sieves"
+			x: 12.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["6A681B89DCFEDDAC"]
+			description: ["Obsidian blocks have the ability to also growth crystals."]
+			hide: true
+			id: "3DA28C15722DB932"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "352F0271C6F783FD"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4E7EC58DCF8352BE"
+				item: "minecraft:obsidian"
+				type: "item"
+			}]
+			title: "Obsidian Ore Growth Crystals"
+			x: 32.5d
+			y: 21.0d
+		}
+		{
+			dependencies: ["16B85A45C0717285"]
+			description: ["You can sieve compressed blocks, Compressed blocks can drop up to 9 items instead of 1."]
+			hide: true
+			id: "5197668C0DCCF430"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7945A0C013FFD9A1"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "44DB54BFFFE9C659"
+				item: "compressium:gravel_1"
+				type: "item"
+			}]
+			title: "Compressed Blocks"
+			x: 12.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["08BF29AB40B1F448"]
+			description: ["Tier 4 Sieve"]
+			id: "456388E28C6C18E3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E327D2F57A9AB9E"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "19CA28E6AA1745D5"
+				item: "exdeorum:diamond_mesh"
+				type: "item"
+			}]
+			x: 22.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["76B675D3974BB233"]
+			description: ["Gems can be obtained from Iron mesh sieves or higher."]
+			id: "2F29A422CC86C0BB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "49F49CF70A2D1F58"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "1801B85F63728DB0"
+					item: "minecraft:lapis_lazuli"
+					type: "item"
+				}
+				{
+					id: "49200DF902ED167C"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "515378735C00C888"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+				{
+					id: "73A77132F2F883F0"
+					item: "diamethysts:diamethyst_shard"
+					type: "item"
+				}
+			]
+			title: "Gems"
+			x: 20.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["0E96C057F019E260"]
+			description: ["Buy food from the Market"]
+			icon: "candlelight:chicken"
+			id: "12425A818CF3FD08"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "188F73D40610BF35"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "518F40B382449D2F"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "candlelight:veggie_plate"
+							}
+							{
+								Count: 1b
+								id: "endersdelight:strange_eclair"
+							}
+							{
+								Count: 1b
+								id: "endersdelight:endermite_stew"
+							}
+							{
+								Count: 1b
+								id: "endersdelight:crispy_skewer"
+							}
+							{
+								Count: 1b
+								id: "nethersdelight:nether_skewer"
+							}
+							{
+								Count: 1b
+								id: "nethersdelight:warped_moldy_meat"
+							}
+							{
+								Count: 1b
+								id: "nethersdelight:grilled_strider"
+							}
+							{
+								Count: 1b
+								id: "farmersdelight:chicken_sandwich"
+							}
+							{
+								Count: 1b
+								id: "candlelight:pork_ribs"
+							}
+							{
+								Count: 1b
+								id: "candlelight:pizza_slice"
+							}
+							{
+								Count: 1b
+								id: "candlelight:chicken"
+							}
+						]
+					}
+				}
+				title: "Food"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["0E96C057F019E260"]
+			description: ["Buy a mob egg from the Market"]
+			icon: "minecraft:chicken_spawn_egg"
+			id: "60F00FF9A57C8035"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "63A6E87C20B302D3"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "15D5D9350DA27EAB"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "minecraft:bat_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "minecraft:villager_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "minecraft:bee_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "minecraft:chicken_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "minecraft:cow_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "minecraft:pig_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "minecraft:sheep_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "minecraft:slime_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "minecraft:squid_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "minecraft:wolf_spawn_egg"
+							}
+						]
+					}
+				}
+				title: "Mobs"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["354EBD8288203063"]
+			id: "0E29BD2B01555399"
+			rewards: [{
+				id: "5A47B99AF75AA206"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "0B82F938C299CEA8"
+					item: "minecraft:chorus_fruit"
+					type: "item"
+				}
+				{
+					id: "33522D2D5398CCC8"
+					item: "minecraft:chorus_flower"
+					type: "item"
+				}
+			]
+			x: 28.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["354EBD8288203063"]
+			id: "7024CCCFA48C8EF6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "224FDDBF5AEFF72D"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "135C9296235EBBF0"
+				item: "minecraft:ender_pearl"
+				type: "item"
+			}]
+			x: 31.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["0A0C1D113DA35390"]
+			description: [
+				"Tip:"
+				"Crushed End Stone blocks have the ability to also growth crystals when placed in the world."
+			]
+			id: "354EBD8288203063"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "652C8E325550FA6E"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0B80E20E530FAB9F"
+				item: "exdeorum:crushed_end_stone"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 22.5d
+		}
+		{
+			dependencies: ["420E677F3ABBB9E2"]
+			description: [
+				"Tip:"
+				"Crushed Netherrack blocks have the ability to also growth crystals when placed in the world."
+			]
+			id: "6955B4355A80C5E7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0470FE3FCC599573"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "07CE11F9327F7657"
+				item: "exdeorum:crushed_netherrack"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["6955B4355A80C5E7"]
+			id: "1D44D84E01598735"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "688264890B47A329"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "2E50DFF582A2B849"
+					item: "exdeorum:blackstone_pebble"
+					type: "item"
+				}
+				{
+					id: "2E5B65B43E5529A6"
+					item: "exdeorum:basalt_pebble"
+					type: "item"
+				}
+			]
+			x: 28.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6955B4355A80C5E7"]
+			id: "34897E5DB2A2F878"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47ED81317C2D6F48"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "206F9436D7691450"
+					item: "exdeorum:warped_nylium_spores"
+					type: "item"
+				}
+				{
+					id: "01D83943F8296E49"
+					item: "exdeorum:crimson_nylium_spores"
+					type: "item"
+				}
+			]
+			x: 31.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6955B4355A80C5E7"]
+			id: "61F610F2AF62B7C8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09C4286349165761"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "42EFD230FB1A6296"
+					item: "minecraft:blaze_powder"
+					type: "item"
+				}
+				{
+					id: "044F8F27997AA9CF"
+					item: "minecraft:nether_wart"
+					type: "item"
+				}
+			]
+			x: 29.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["354EBD8288203063"]
+			id: "5DA234D427AA8C29"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "034FBB7E4B7779F3"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "53C4FBC9D4D804F8"
+				item: "minecraft:echo_shard"
+				type: "item"
+			}]
+			x: 29.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["4AC4B5957FAF2903"]
+			description: ["Drops from soul sand from sieves"]
+			hide: true
+			id: "107E0E5F28C874C2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47731128B0349174"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1574E8115C42C3C0"
+				item: "minecraft:ghast_tear"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["1B9A9967D7806C10"]
+			description: ["Allows you to auto collect dropped items"]
+			icon: "pickletweaks:magnet"
+			id: "01DFAF4B331068C1"
+			rewards: [{
+				id: "0ED9744E70F5C6CD"
+				item: "pickletweaks:magnet"
+				team_reward: true
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "2E6B596C781AB3BB"
+				item: "grimoireofgaia:trader_token"
+				type: "item"
+			}]
+			title: "Magnet"
+			x: -1.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["0E96C057F019E260"]
+			description: [
+				"Get a mount from the Market"
+				""
+				"You can link a mount to you after taming it using a golden apple."
+				"By linking a mount to you, you will be able to teleport the mount to rous location."
+				"You can call a mount to you using the \"x\" keybind."
+			]
+			icon: "mythicmounts:dragon_spawn_egg"
+			id: "578774E0B4E26FA1"
+			rewards: [
+				{
+					id: "1E84BFA68505A03D"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "0C434735F1ACAF96"
+					item: "minecraft:saddle"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "36C13302711E0EAE"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "mythicmounts:acencia_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:archelon_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:colelytra_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:direwolf_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:dragon_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:firebird_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:geckotoalizard_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:griffon_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:moth_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:nightmare_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:nudibranch_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:courierbird_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:netherbat_spawn_egg"
+							}
+							{
+								Count: 1b
+								id: "mythicmounts:ridinglizard_spawn_egg"
+							}
+						]
+					}
+				}
+				title: "Mounts"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"5DA234D427AA8C29"
+				"6CCC19C834F1D2EF"
+			]
+			description: [
+				"Allows you to spawn wardens."
+				""
+				"Use it on a scull shrieker to enable it to spawn wardens"
+			]
+			hide: true
+			id: "44F0066F3EEF5614"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D1A4720772BED24"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "269EE3404A0734B2"
+				item: "exdeorum:sculk_core"
+				type: "item"
+			}]
+			x: 29.5d
+			y: 26.0d
+		}
+		{
+			dependencies: ["354EBD8288203063"]
+			id: "6CCC19C834F1D2EF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3ECCB232292A959D"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3B2B8FA234171DB9"
+				item: "minecraft:sculk_shrieker"
+				type: "item"
+			}]
+			x: 30.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["55DECDE9925FDF56"]
+			description: [
+				"To access fullscreen map press:"
+				"\"j\""
+				""
+				""
+				"To enable the mini map press:"
+				"\"k\""
+				"{image:supplementaries:textures/gui/book/map_markers/map_markers.png width:100 height:100 align:1}"
+			]
+			icon: "supplementaries:globe"
+			id: "3D6E6108A1265770"
+			rewards: [{
+				id: "2D05CDA1D43BFD00"
+				item: "grimoireofgaia:trader_token"
+				random_bonus: 2
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "1815D23A16FAC436"
+				title: "Map"
+				type: "checkmark"
+			}]
+			title: "Map"
+			x: -13.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["4BF534A2A95FC17B"]
+			icon: {
+				Count: 1b
+				id: "irons_spellbooks:scroll"
+				tag: {
+					ISB_spell: {
+						id: "irons_spellbooks:acupuncture"
+						level: 1
+					}
+				}
+			}
+			id: "0E96C057F019E260"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "39166313F310B38C"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "6751EFFE870362AD"
+				type: "checkmark"
+			}]
+			title: "Market Items"
+			x: -7.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["0E96C057F019E260"]
+			description: ["You can buy building blocks to expand your island from the Market"]
+			id: "2DEDA5B97EA8395B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B9B880DB71C7372"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0E646FF93CD9EC47"
+				item: "ars_nouveau:gilded_sourcestone_large_bricks"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["55DECDE9925FDF56"]
+			description: [
+				"By default you start in an island at spawn point but if you are playing with multiple players and want to have your own island you can use this quest to help you create one."
+				""
+				"You can use this quest to toggle the Island Utilities quest chapter."
+				""
+				"If you are playing in a single player world is recommended to keep this disable so you dont see the island utilities quest chapter."
+			]
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "irons_spellbooks:scroll"
+				tag: {
+					ISB_spell: {
+						id: "irons_spellbooks:acupuncture"
+						level: 1
+					}
+				}
+			}
+			id: "118E575EA28556D5"
+			optional: true
+			rewards: [{
+				command: "/ftbquests change_progress @p reset 118E575EA28556D5"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: "botania:cosmetic_questgiver_mark"
+				id: "780B01151F470A88"
+				ignore_reward_blocking: true
+				team_reward: true
+				title: "Disable"
+				type: "command"
+			}]
+			tasks: [{
+				id: "78E1BD344BF5611C"
+				title: "Enable"
+				type: "checkmark"
+			}]
+			title: "Island Utilities [Multiplayer]"
+			x: -19.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["08BF29AB40B1F448"]
+			description: ["Automatically sieve using energy"]
+			id: "1EED005560087F23"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2FD58B265DF99626"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6A79B88273246455"
+				item: "exdeorum:mechanical_sieve"
+				type: "item"
+			}]
+			x: 23.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["33BF35F89ABBB3B5"]
+			description: ["Gravel on iron mesh sieve or higher drops rare ore chunks and gems."]
+			id: "76B675D3974BB233"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "56B542F25A06598A"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0BA6E0C840F3283E"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			title: "Gravel Sieve Drops"
+			x: 18.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["2633473E5841A244"]
+			description: ["You can obtain resources from ore blocks by placing them in the world. They will start generating growth ore crystals."]
+			id: "70EC8CFC72DC2F68"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "39682E84F9532488"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "02A2E2FE0357E1D6"
+				item: "minecraft:iron_ore"
+				type: "item"
+			}]
+			title: "Growth Ores"
+			x: 16.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["1EED005560087F23"]
+			description: ["Can be used to power up the Mechanical Sieve"]
+			hide: true
+			id: "4449E8CFE8ACDC12"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E2AD766204E7DF8"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4AFA4E37BBF8A0C2"
+				item: "generatorgalore:iron_generator"
+				type: "item"
+			}]
+			x: 23.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["33BF35F89ABBB3B5"]
+			description: ["Gold Ore Chunks can be obtained from flint mesh sieves or higher."]
+			id: "07C8F5D1F3292814"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4857E77F18CAF6A7"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "438FE13FC4CFBE0E"
+				item: "exdeorum:gold_ore_chunk"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["07C8F5D1F3292814"]
+			description: ["Tier 4 Sieve"]
+			id: "75CED4447E518E42"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6476872AF28D8880"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "37D604AA8CFD7C5C"
+				item: "exdeorum:golden_mesh"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["1FF7372B885FA3C9"]
+			description: ["Grass drops from srting mesh sieves or higher"]
+			id: "4137FFEC7A0562FD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E8F8BD956D5E496"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4574AE55792BF0E0"
+				item: "exdeorum:mycelium_spores"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 25.5d
+		}
+		{
+			dependencies: ["1FF7372B885FA3C9"]
+			description: ["Grass drops from srting mesh sieves or higher"]
+			id: "5FE1C675D2174B8A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FA9365446320FB0"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "71F5D8229883B843"
+					item: "mysticalagriculture:nature_essence"
+					type: "item"
+				}
+				{
+					id: "14AAF15CE0312E20"
+					item: "mysticalagriculture:wood_essence"
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["5FE1C675D2174B8A"]
+			description: ["You can craft vanilla saplings and other items from Nature Essence and Wood Essence"]
+			id: "7C1EC6FB2A5C8FF5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6DAD3B19DC716475"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			tasks: [{
+				id: "28D6B757E34B6688"
+				item: "minecraft:oak_sapling"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 27.0d
+		}
+	]
+	title: "1 - Void World"
+}

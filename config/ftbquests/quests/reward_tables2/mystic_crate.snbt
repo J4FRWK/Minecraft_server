@@ -1,0 +1,10 @@
+{
+	hide_tooltip: true
+	icon: "modulargolems:fire_immune"
+	id: "7F7D20E9C48A3EEA"
+	loot_size: 1
+	order_index: 2
+	rewards: [ ]
+	title: "Mystic Reward"
+	use_title: true
+}

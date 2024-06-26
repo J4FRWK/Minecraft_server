@@ -1,0 +1,7 @@
+// Compost colors for swordinthestone. You may add your own colors, change existing ones, or remove colors that aren't needed.
+arctic_sword, #ddfeff
+desert_sword, #c6ac5a
+end_sword, #e7d4b6
+forest_sword, #686633
+nether_sword, #764b3e
+plains_sword, #867a51

@@ -1,0 +1,516 @@
+{
+	hide_tooltip: true
+	id: "7ACAFE83BA7CE684"
+	loot_crate: {
+		color: 6710886
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Common Loot Crate"
+		string_id: "common_loot_crate"
+	}
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ count: 2, item: "minecraft:lantern" }
+		{ count: 4, item: "minecraft:torch" }
+		{ count: 4, item: "minecraft:redstone_torch" }
+		{ count: 2, item: "minecraft:leather" }
+		{ count: 4, item: "minecraft:flint" }
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:leather_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:leather_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:leather_leggings"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:leather_boots"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"cold_sweat:item_insulation": {
+						Insulation: [ ]
+					}
+				}
+				id: "minecraft:shield"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:crossbow"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:bow"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "minecraft:egg" }
+		{ count: 4, item: "minecraft:iron_ingot" }
+		{ count: 4, item: "minecraft:copper_ingot" }
+		{ count: 4, item: "minecraft:gold_ingot" }
+		{ count: 4, item: "minecraft:charcoal" }
+		{ count: 4, item: "minecraft:redstone" }
+		{ count: 4, item: "minecraft:lever" }
+		{ item: "minecraft:decorated_pot" }
+		{ item: "minecraft:hopper" }
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:stone_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:stone_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ count: 4, item: "minecraft:bone_meal" }
+		{ count: 2, item: "minecraft:name_tag" }
+		{ count: 16, item: "minecraft:coal" }
+		{ count: 8, item: "minecraft:lapis_lazuli" }
+		{ count: 4, item: "minecraft:clay_ball" }
+		{ item: "minecraft:furnace" }
+		{ item: "minecraft:campfire" }
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/lightning"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/solar"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/splendor"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheotic_additions:modded/hearty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "irons_spellbooks:spell_resist"
+				}
+			}
+		}
+		{ item: "minecraft:book" }
+		{ count: 4, item: "minecraft:paper" }
+		{ count: 2, item: "minecraft:bone" }
+		{ count: 2, item: "minecraft:slime_ball" }
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/breach"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/brawlers"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/guardian"
+				}
+			}
+		}
+		{ item: "skilltree:wisdom_scroll" }
+		{ item: "sleep_tight:hammock_gray" }
+		{ item: "sleep_tight:hammock_black" }
+		{ item: "sleep_tight:hammock_red" }
+		{ item: "sleep_tight:hammock_green" }
+		{ item: "sleep_tight:hammock_blue" }
+		{ item: "sleep_tight:hammock_purple" }
+		{ item: "sleep_tight:hammock_magenta" }
+		{ item: "sleep_tight:hammock_pink" }
+		{ item: "supplementaries:bomb" }
+		{ item: "supplementaries:antique_ink" }
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					Parent: {
+						Items: [ ]
+						SelectedSlot: 0
+						Size: 6
+					}
+				}
+				id: "supplementaries:quiver"
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "supplementaries:slingshot"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 1481884
+					mainColor: 1481884
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 8991416
+					mainColor: 8991416
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 3949738
+					mainColor: 3949738
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 8606770
+					mainColor: 8606770
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 6192150
+					mainColor: 6192150
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 11546150
+					mainColor: 11546150
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 1908001
+					mainColor: 1908001
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					woodType: "oak"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					woodType: "spruce"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					woodType: "birch"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					woodType: "mangrove"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					woodType: "warped"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					woodType: "dark_oak"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					woodType: "acacia"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					woodType: "crimson"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					woodType: "jungle"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 16383998
+					mainColor: 16383998
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 16351261
+					mainColor: 16351261
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 13061821
+					mainColor: 13061821
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 3847130
+					mainColor: 3847130
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 16701501
+					mainColor: 16701501
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 8439583
+					mainColor: 8439583
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 15961002
+					mainColor: 15961002
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 4673362
+					mainColor: 4673362
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "sophisticatedstorage:iron_chest"
+				tag: {
+					accentColor: 10329495
+					mainColor: 10329495
+				}
+			}
+		}
+		{ item: "betterfurnacesreforged:storage_upgrade" }
+		{
+			item: {
+				Count: 1b
+				id: "betterfurnacesreforged:ore_processing_upgrade"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "betterfurnacesreforged:blasting_upgrade" }
+		{ item: "tombstone:bag_of_seeds" }
+		{ item: "tombstone:bag_of_seeds" }
+		{ item: "tombstone:bag_of_seeds" }
+		{ item: "tombstone:bag_of_seeds" }
+	]
+	title: "Common Loot Crate"
+	use_title: true
+}

@@ -1,0 +1,8 @@
+{
+	icon: "modulargolems:emerald"
+	id: "01125FF6695E6C5F"
+	loot_size: 1
+	order_index: 6
+	rewards: [ ]
+	title: "Coins"
+}

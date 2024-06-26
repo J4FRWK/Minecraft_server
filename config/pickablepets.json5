@@ -1,0 +1,16 @@
+{
+	// Enable / Disable sneak + right-Click pickup ability.
+	"SneakRightClick": true,
+	// Enable / Disable key shortcut pickup ability.
+	"KeyShortcut": true,
+	// Enable / Disable picking up baby Villagers.
+	"OnlyAdults": true,
+	// Controls the pickup distance. 0 = disabled
+	"PickupDistance": 40,
+	// Controls the pickup cost. 0 = disabled
+	"PickupCost": 2,
+	// List of pets not to be picked up. [modid]:[petid] ex:"minecraft:wolf"
+	"BlacklistedPets": [
+		"rats:rat"
+	]
+}

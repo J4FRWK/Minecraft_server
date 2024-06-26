@@ -1,0 +1,20 @@
+{
+	hide_tooltip: true
+	id: "5D567E465A5A844D"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{ item: "skilltree:tourmaline" }
+		{ item: "skilltree:turquoise" }
+		{ item: "skilltree:ruby" }
+		{ item: "skilltree:onyx" }
+		{ item: "skilltree:moonstone" }
+		{ item: "skilltree:vacucite" }
+		{ item: "skilltree:iriscite" }
+		{ item: "skilltree:citrine" }
+		{ item: "skilltree:adamite" }
+		{ item: "skilltree:jade" }
+		{ item: "skilltree:sapphire" }
+	]
+	title: "Gems"
+}

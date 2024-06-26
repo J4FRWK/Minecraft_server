@@ -1,0 +1,1402 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "towns"
+	group: "7701DDDE6C3F8D0B"
+	icon: "minecolonies:blockhuttownhall"
+	id: "7526EEF0BEE8708C"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 80.0d
+		hover: [ ]
+		image: "skilltree:textures/screen/skill_tree_background.png"
+		rotation: 0.0d
+		width: 80.0d
+		x: -3.5d
+		y: -2.5d
+	}]
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "2DE728372657EEDD"
+			shape: "diamond"
+			tasks: [{
+				id: "7408A7BD2B994073"
+				structure: "minecolonies:asian_colony"
+				type: "structure"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "6C32D0E96F23F420"
+			shape: "diamond"
+			tasks: [{
+				id: "7F9EDBE793CCE360"
+				structure: "minecolonies:caledonia_colony"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"2DE728372657EEDD"
+				"6C32D0E96F23F420"
+				"3818F5E296FB06FD"
+				"4C4B84A50E33E33B"
+				"347EC296133C979D"
+				"631A3C72919E6632"
+				"5A7E6696DE6F8B2B"
+				"2F0450BD6D57C6B6"
+				"1CAB6653212D9D56"
+				"5077BE7703AF860C"
+				"046258337AD9FC28"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"Right click the town hall block and select create colony, don't forget to choose the style first, although this can be changed whenever later. Once the colony is created, use the UI to rename it, change the flag and colours and add friends to help out."
+				""
+				"The default settings for assigning homes and work places is automatic, but the best person isnt always chosen based on their stats. Towns people will also be happiest and more efficient if they live as close as possible to their workplace. Change those settings to manual to choose where people live and work."
+			]
+			icon: "minecolonies:blockhuttownhall"
+			id: "372E937BCE326CE8"
+			rewards: [{
+				id: "3919D898DDC12FBD"
+				item: "structurize:sceptergold"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Lets build a town."
+			tasks: [{
+				id: "4A8292E3EC80C768"
+				title: "Click to complete"
+				type: "checkmark"
+			}]
+			title: "Town Hall"
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "3818F5E296FB06FD"
+			shape: "diamond"
+			tasks: [{
+				id: "7C2E23B4BB27388A"
+				structure: "minecolonies:desertoasis_colony"
+				type: "structure"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "4C4B84A50E33E33B"
+			shape: "diamond"
+			tasks: [{
+				id: "3DE01D788101416D"
+				structure: "minecolonies:incan_colony"
+				type: "structure"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "347EC296133C979D"
+			shape: "diamond"
+			tasks: [{
+				id: "7CF568B170CC9771"
+				structure: "minecolonies:lostmesacity_colony"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "631A3C72919E6632"
+			shape: "diamond"
+			tasks: [{
+				id: "05275087BA338CE6"
+				structure: "minecolonies:medieval_birch_colony"
+				type: "structure"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "5A7E6696DE6F8B2B"
+			shape: "diamond"
+			tasks: [{
+				id: "184875564F209E4C"
+				structure: "minecolonies:medieval_dark_oak_colony"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "2F0450BD6D57C6B6"
+			shape: "diamond"
+			tasks: [{
+				id: "2457FE59B628E0EE"
+				structure: "minecolonies:medieval_oak_colony"
+				type: "structure"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "1CAB6653212D9D56"
+			shape: "diamond"
+			tasks: [{
+				id: "7B1AE0931131F5B9"
+				structure: "minecolonies:medieval_spruce_colony"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "5077BE7703AF860C"
+			shape: "diamond"
+			tasks: [{
+				id: "2CCAF6F494AA0938"
+				structure: "minecolonies:shire_colony"
+				type: "structure"
+			}]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "046258337AD9FC28"
+			shape: "diamond"
+			tasks: [{
+				id: "197FBF4E04B44821"
+				structure: "minecolonies:warpednetherlands_colony"
+				type: "structure"
+			}]
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["35A90F2CAD46A9FF"]
+			description: ["Out on your adventures, you may come across an abandoned town, if you find the town hall you can claim it for yourself."]
+			icon: "structurize:sceptergold"
+			id: "27E2D4CAB8E408B8"
+			rewards: [{
+				count: 5
+				exclude_from_claim_all: true
+				id: "600D87D1459C9728"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Find an abandoned colony"
+			tasks: [{
+				id: "0BC0D4D79B505409"
+				item: "grimoireofgaia:trader_token"
+				type: "item"
+			}]
+			title: "Abandoned Towns"
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["372E937BCE326CE8"]
+			description: [
+				"Before the builder can do anything else, they must first build their own hut."
+				""
+				"Craft a builders hut and place it down using the builders wand given to yoy as a reward for the previous quest. Make sure to place the building exactly where it needs to be, including height. Use the escape key to come out of the UI and move around and through the building to make sure its in the correct place. Right click the block to reenter the UI."
+				""
+				"Once happy, click build options, then after checking what is going to be needed to supply the builder, click build. This will be the same proces for every building."
+				""
+				"If the settings were change from the default settings to manual assignment of workers, then pick who will be the builder as well. The first 4 townspeople will all have low stats so it probably wont matter who is picked for now. They will gain stats as they work."
+				""
+				"Make sure to provide them with everything they need, including tools. Its faster if the area is already cleared, at least to begin with. The higher the building level, they better the builder will be at everything."
+			]
+			id: "21BCA35E7ACC8F26"
+			rewards: [{
+				id: "35C21A3F75BF4920"
+				item: {
+					Count: 1b
+					id: "minecraft:wooden_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Bob the builder?"
+			tasks: [{
+				id: "1CD98E40F8936BC2"
+				item: "minecolonies:blockhutbuilder"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"Wood is a very important comodity in a town. It can be used for fuel as well as a building material."
+				""
+				"The woodcutter will need an axe and access to trees. They will also replant what they cut down as long as they have saplings to plant. Use the boundry tool found in the Forrester hut UI to select an area where the woodcutter will work, otherwise they will just cut down whatever is in reach."
+				""
+				"Its best to decide what wood will be needed the most of and plant a few of those trees close by, so they can focus on the wood needed the most."
+				""
+				"The higher level the Forrester hut, the better tools the woodcutter can use."
+			]
+			id: "735F3BCB9F5E0D3E"
+			rewards: [
+				{
+					id: "42B165464E76832E"
+					item: "minecraft:oak_sapling"
+					type: "item"
+				}
+				{
+					id: "2A2DD8E9A0845058"
+					item: "minecraft:spruce_sapling"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "58EB9B8DACFB6C65"
+					item: "minecraft:dark_oak_sapling"
+					type: "item"
+				}
+				{
+					id: "77F193FA1DDD4859"
+					item: "minecraft:birch_sapling"
+					type: "item"
+				}
+				{
+					id: "466E63DF6630C9A8"
+					item: "minecraft:jungle_sapling"
+					type: "item"
+				}
+				{
+					id: "6F748978DADA0866"
+					item: "minecraft:acacia_sapling"
+					type: "item"
+				}
+				{
+					id: "4DCE5147E217A60C"
+					item: "minecraft:cherry_sapling"
+					type: "item"
+				}
+				{
+					id: "251391EDC296F862"
+					item: "minecraft:mangrove_propagule"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "Got wood?"
+			tasks: [{
+				id: "6BF1CE80C5F3EC43"
+				item: "minecolonies:blockhutlumberjack"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"You might have noticed that many buildings can't be built yet. This is because they need to be researched in the University first. "
+				""
+				"The block can still be placed so the layout can be set, but the builder won't build anything yet."
+				""
+				"The higher the level of the building, the more researchers that can be hired."
+				""
+				"The University needs paper to function so make sure there is a steady supply."
+				""
+				"Select the research for the schollars to carry out, and don't forget to keep checking in."
+			]
+			id: "6DA08450797679B0"
+			rewards: [{
+				count: 5
+				id: "2239FFBC64E4E397"
+				item: "minecraft:paper"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Research betters the furture"
+			tasks: [{
+				id: "788C76678A8A6402"
+				item: "minecolonies:blockhutuniversity"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"6DA08450797679B0"
+				"735F3BCB9F5E0D3E"
+			]
+			id: "45B5EE259E6D9808"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7B9E9977B6B5A0FB"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "\"MAN GLITTER!\""
+			tasks: [{
+				id: "3C0E93E34608AB03"
+				item: "minecolonies:blockhutsawmill"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"Its off to work we go!"
+				""
+				"Stone is important for town building, but the Miner will also collect anything they find as long as they are able to. The higher the level of the building, the better tools they can use and the more  ores they can mine."
+				""
+				"Start by giving them a wooden axe, its best to put a few better quality tools in the warehouse for later as well."
+			]
+			id: "4E5B03E104133B9A"
+			rewards: [{
+				id: "1C0ECC8A97D39437"
+				item: {
+					Count: 1b
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Hi-Ho Hi-Ho"
+			tasks: [{
+				id: "74CB799384CA32C6"
+				item: "minecolonies:blockhutminer"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"4E5B03E104133B9A"
+				"6DA08450797679B0"
+			]
+			id: "0AAEF8E613CD90E1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1207DE049769C75F"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Chipping away at it!"
+			tasks: [{
+				id: "5370383C182F999A"
+				item: "minecolonies:blockhutstonemason"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DA08450797679B0"
+				"735F3BCB9F5E0D3E"
+			]
+			id: "77BB11E7AFAEEF7D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E6A798080CA0D82"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "309CA400A6842783"
+				item: "minecolonies:blockhutfletcher"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"Run out of people to fill jobs? Build a Tavern to attract new people to the town, newcomes can bring disease though, so be ready with raw carrots and potatos to heal them."
+				""
+				"Each new person will need to be paid off before they will agree to work, make sure their skills match their value before deciding."
+			]
+			id: "5CF74A2C0593A65A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0F37327D40410FF0"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "The towns a bit empty melord"
+			tasks: [{
+				id: "5D7A749117D03BB1"
+				item: "minecolonies:blockhuttavern"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"A Warehouse is a great place to store everything the town needs to thrive."
+				""
+				"Couriers will take items to and from the Warehouse as and when they are needed by other colonists. "
+				""
+				"The higher the building level, the more space will be avaliable for storage and more options will be available for management. "
+			]
+			id: "3F7A5BA681A3E4F8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "520CF882FA657F54"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Now where did I put that?"
+			tasks: [{
+				id: "10A526F59FACF5B6"
+				item: "minecolonies:blockhutwarehouse"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"The Apiray is where the bee keeper works to make honey or wax. Use the hive tool found in the second page of the UI to select which hives the keeper can use. "
+				""
+				"The higher the building level, the more hives can be used."
+				""
+				"Don't forget to provide the bees!"
+			]
+			id: "07AF142EDFF5A383"
+			rewards: [{
+				id: "70EFEE47AA5D8796"
+				item: "minecraft:rose_bush"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Bzzzzz"
+			tasks: [{
+				id: "4410DAF0BB443C2F"
+				item: "minecolonies:blockhutbeekeeper"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "045F498498BCDBE9"
+			rewards: [{
+				id: "6412764DD0ADED4E"
+				item: {
+					Count: 1b
+					id: "minecraft:bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Ready, aim, loose"
+			tasks: [{
+				id: "681F729E16F47594"
+				item: "minecolonies:blockhutarchery"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			id: "5FA90AB71A695ED7"
+			rewards: [{
+				id: "1B0DBF4D8B7B7877"
+				item: "minecraft:wheat_seeds"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Who doesnt love the smell of baking bread?"
+			tasks: [{
+				id: "09760227BDA8CE2E"
+				item: "minecolonies:blockhutbaker"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "6431253A9E6E7D05"
+			rewards: [{
+				id: "03E929BD359B1354"
+				item: {
+					Count: 1b
+					id: "minecraft:stone_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "ATTENTION!"
+			tasks: [{
+				id: "0E1D03448FD1F785"
+				item: "minecolonies:blockhutbarracks"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "4D6431237AD7E10F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "269E8C0BAD7C5D8B"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Bubble, bubble, toil and trouble"
+			tasks: [{
+				id: "198F38E226FAAFAF"
+				item: "minecolonies:blockhutalchemist"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "37AB1933408A2789"
+			rewards: [{
+				id: "29AA407104D8ECE7"
+				item: "grimoireofgaia:trader_token"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Clang, clang, clang."
+			tasks: [{
+				id: "0B0E453E8EA1B053"
+				item: "minecolonies:blockhutblacksmith"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"The chicken herd will breed and slaughter chickens for meat as long as there are seeds available. They will also collect eggs and feathers. "
+				""
+				"Don't forget to put some chickens in the pen once built."
+			]
+			id: "54B3D495A5642155"
+			rewards: [{
+				count: 2
+				id: "308DF499FC444B59"
+				item: "minecraft:chicken_spawn_egg"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Cock a doodle doo!"
+			tasks: [{
+				id: "7568CEAE621E0454"
+				item: "minecolonies:blockhutchickenherder"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "38A19DD318BA7E2D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0714D1EB8693BAD8"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Fall in!"
+			tasks: [{
+				id: "4E42500D4F729C15"
+				item: "minecolonies:blockhutcombatacademy"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "43011BB133B7AE58"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6694DFF0A43C8575"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "square"
+			subtitle: "Eww, whats the smell?"
+			tasks: [{
+				id: "7AFFE68DC16E1507"
+				item: "minecolonies:blockhutcomposter"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "34C38C286B9F6A70"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "448E68931B4A3606"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "\"The glue that keeps us all together\""
+			tasks: [{
+				id: "0FB937FA6282D88B"
+				item: "minecolonies:blockhutconcretemixer"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			id: "7D848507B6160064"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6DA735CE439E1F29"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "That bag looks heavy!"
+			tasks: [{
+				id: "012A52A022A40ACD"
+				item: "minecolonies:blockhutdeliveryman"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"The cowherd looks after the cattle and will also breed them as long as there is wheat available. "
+				""
+				"As long as there are buckets available, they will milk the cows each day. They will also slaughter cows for meat when there are too many."
+				""
+				"Don't forget to lead a couple of cows to the pen for them to look after."
+			]
+			id: "1D1C419A97E12C67"
+			rewards: [{
+				count: 2
+				id: "46E7203DDE21B677"
+				item: "minecraft:cow_spawn_egg"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Got milk?"
+			tasks: [{
+				id: "6943D09F3CC50609"
+				item: "minecolonies:blockhutcowboy"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "4E0FFC4D79986273"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B77CF0BC25F1B6E"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Watch your fingers!"
+			tasks: [{
+				id: "57C6654886D85D9D"
+				item: "minecolonies:blockhutcrusher"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			description: ["The dyers hut turns flowers into dye and use it to dye items including sand and nether bricks."]
+			id: "72582760447ADF8C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "487CCD53AF111080"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Crush the rainbow."
+			tasks: [{
+				id: "3C4A53E618AAA3D4"
+				item: "minecolonies:blockhutdyer"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"An Enchanter will take books and use XP from other colonists to make enchanted books that can then be used to enchant armor and tools."
+				""
+				"The higher the building level, the higher level the enchants can be."
+			]
+			id: "2BE755256458ECE6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "28E6388097508F1D"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Enchantments galore!"
+			tasks: [{
+				id: "3957CFA390744E01"
+				item: "minecolonies:blockhutenchanter"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			id: "04B2E00A8BECEC2B"
+			rewards: [{
+				id: "5D35A6A29D894C0B"
+				item: {
+					Count: 1b
+					id: "minecraft:fishing_rod"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Fish for tea?"
+			tasks: [{
+				id: "4C5DC1A1A2318CCD"
+				item: "minecolonies:blockhutfisherman"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			description: [
+				"The Florist will grow flowers the will be sent to the dyer to make dyes."
+				""
+				"They will need and axe to harvest the flowers."
+			]
+			id: "1A33E2F0957449EB"
+			rewards: [{
+				id: "3647F3DE86F0C82E"
+				item: "minecraft:sunflower"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Smell the roses."
+			tasks: [{
+				id: "61B110CD9127E034"
+				item: "minecolonies:blockhutflorist"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			description: [
+				"The Glassblower makes glass blocks and glass panes from sand. They will also need fuel to melt the sand."
+				""
+				"The Higher the building level, the more furnaces will be available for smelting."
+			]
+			id: "488F1A227B2E212F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "178663689CDA2303"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Pretty much what it says on the tin!"
+			tasks: [{
+				id: "2A1F507E5FA70156"
+				item: "minecolonies:blockhutglassblower"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "10EC2617E8577BAE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F90078E99DB8F60"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Pay your respects"
+			tasks: [{
+				id: "1067A31A81028E69"
+				item: "minecolonies:blockhutgraveyard"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"The townspeople will refuse to work if they are hounded by monsters and raiders. "
+				"Guard towers will provide security and guards to patrol the town and keep everyone safe."
+				""
+				"The higher the level of the tower, the more guards can be hired."
+				""
+				"Guard towers are best placed on the outskirts of the town as they increase the buildable area."
+			]
+			id: "2D88A1A05C77B68E"
+			rewards: [{
+				id: "107CF8CCEC2DCA14"
+				item: {
+					Count: 1b
+					id: "minecraft:wooden_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "On Guard!"
+			tasks: [{
+				id: "095FFCC3046B5821"
+				item: "minecolonies:blockhutguardtower"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "3698DA777FD26AE9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0BF917BEDEC96BE8"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "For the sick and injured"
+			tasks: [{
+				id: "61B9006C9332CE17"
+				item: "minecolonies:blockhuthospital"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			id: "749250B82C60C931"
+			rewards: [{
+				count: 5
+				id: "3AD26FE08137D144"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "A place to lay your head"
+			tasks: [{
+				id: "18AEC78FDBFB7E19"
+				item: "minecolonies:blockhutcitizen"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DA08450797679B0"
+				"21BCA35E7ACC8F26"
+			]
+			id: "3ACB061B6071F793"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "17B85918B41EA764"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Knowladge is power."
+			tasks: [{
+				id: "4B2B8B9DF343A424"
+				item: "minecolonies:blockhutlibrary"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			description: ["The Mechanics hut makes pretty much everything else, including pistons, chests, rails and carts, lanterns, ice, tables, gates etc, so if none of the other buildings can make it, maybe the Mechanic can!"]
+			id: "0B05BEE68A4C1A31"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1CC68136895501B5"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Missing something?"
+			tasks: [{
+				id: "64EE5368C440A71B"
+				item: "minecolonies:blockhutmechanic"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "5FC44317B91003A3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1245AF9D403AACCE"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "A bit of  R and R"
+			tasks: [{
+				id: "6C6FEE31C5C4C5C1"
+				item: "minecolonies:blockhutmysticalsite"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "452BBF6CE6C8B668"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3209050456BB2E36"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Watch your back!"
+			tasks: [{
+				id: "2589817A169E0AD6"
+				item: "minecolonies:blockhutnetherworker"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "648D6F098E18BD9D"
+			rewards: [
+				{
+					id: "6682B891A7FE64D5"
+					item: "minecraft:sugar_cane"
+					type: "item"
+				}
+				{
+					id: "001D50900D44A5EF"
+					item: "minecraft:bamboo"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "Sweet tooth."
+			tasks: [{
+				id: "7739A7D018845342"
+				item: "minecolonies:blockhutplantation"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			id: "5C93D12427AA2036"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C55D4F1CD46BC11"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "69E8DDEFE6C9F4B2"
+				item: "minecolonies:simplequarry"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			id: "4EA06CFFF4C20B8F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4795864B41B8D5E7"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "60C6A0B460C649CB"
+				item: "minecolonies:mediumquarry"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"The Rabbit herd will breed and slaughter rabbits for meat as long as there is carrots available."
+				""
+				"Don't forget to drop a couple of rabbits in the pen."
+			]
+			id: "56FF2377756EF0F1"
+			rewards: [{
+				count: 2
+				id: "035EEC690F3512CB"
+				item: "minecraft:rabbit_spawn_egg"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Boop"
+			tasks: [{
+				id: "4E6CCAE363C254A5"
+				item: "minecolonies:blockhutrabbithutch"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"The Resturant is the workplace of the cook, who will cook and serve food to the townspeople so you don't have to."
+				""
+				"Make sure the cook has plenty of recipes, ingredients and fuel."
+				""
+				"At level 3 an assistant can be hired to help the cook serve the people."
+			]
+			id: "7BF546C466D6F5D7"
+			rewards: [{
+				id: "23AE66B0AFB78233"
+				item: "minecraft:potato"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Lots of hungry mouths"
+			tasks: [{
+				id: "696B556F2B03D28C"
+				item: "minecolonies:blockhutcook"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"6DA08450797679B0"
+				"21BCA35E7ACC8F26"
+			]
+			id: "0E143CEE9DCCC8E5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4FEE76533A8BBFB2"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "PAY ATTENTION!"
+			tasks: [{
+				id: "49B045484727AAD8"
+				item: "minecolonies:blockhutschool"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"The Sheepheard will breed , slaughter and sheer sheep as long as there is wheat available."
+				""
+				"They will need sheers to be able to sheer the sheep."
+				""
+				"Don't forget to put a couple of sheep  in the pen to get started."
+			]
+			id: "7DE00494F6AE4160"
+			rewards: [{
+				count: 2
+				id: "554D9AA2F1337CA0"
+				item: "minecraft:sheep_spawn_egg"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Baaa ram you?"
+			tasks: [{
+				id: "30B082A952235536"
+				item: "minecolonies:blockhutshepherd"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "44D2C1EF344901E0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59EE33D6DDF54111"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Shhh Shhh Shhh"
+			tasks: [{
+				id: "5BFF139B1C35F0B4"
+				item: "minecolonies:blockhutsifter"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "376267F3B7A5EDBC"
+			rewards: [{
+				id: "719B805C74B7CA87"
+				item: "minecraft:coal_block"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Ores and ingots"
+			tasks: [{
+				id: "7C0E16A9C3E696E0"
+				item: "minecolonies:blockhutsmeltery"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6DA08450797679B0"]
+			id: "76C752616018A4E5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C020E9A6B533D65"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "The building blocks of life"
+			tasks: [{
+				id: "50860E5CD912B5AC"
+				item: "minecolonies:blockhutstonesmeltery"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"The swineherd looks after the towns pigs and will breed and slaughter them for meat as long as there are carrots available."
+				""
+				"Don't forget to put a couple of pigs in the pen to get started."
+			]
+			id: "06325D7CB67484F3"
+			rewards: [{
+				count: 2
+				id: "2E137998072D4684"
+				item: "minecraft:pig_spawn_egg"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Oink oink"
+			tasks: [{
+				id: "18E620F955484F46"
+				item: "minecolonies:blockhutswineherder"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["21BCA35E7ACC8F26"]
+			description: [
+				"The colonists can grow their own food at a farm building, set what they grow on the scarecrow on each field."
+				""
+				"The higher the level of the building, the more fields they can tend."
+				""
+				"Don't forget to provide them with seeds or veg for them to get sewing.  "
+			]
+			id: "300A09CDF1946356"
+			rewards: [{
+				id: "1D6977BF44C3AAB2"
+				item: "minecraft:carrot"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Feed the...town"
+			tasks: [{
+				id: "65DD27AB923336D1"
+				item: "minecolonies:blockhutfarmer"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["372E937BCE326CE8"]
+			description: ["Are citizens asking for things but your not close by to ask? Make a clipboard and shift tight click the town hall block to bind it. Now you can see exactly whats needed, including what the couriers are already hard at work transporting."]
+			id: "734729989E4E573E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C158CB19A92CFF8"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "What do they want now?!"
+			tasks: [{
+				id: "69F7A40E1D83F9A6"
+				item: "minecolonies:clipboard"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["372E937BCE326CE8"]
+			description: ["Use the postbox to request items from the Warehouse. If they are available, the Courier will collect them and place them in the postbox ready for pick up."]
+			id: "160A662D110447E7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4BDC9A8035EE895A"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Need Something?"
+			tasks: [{
+				id: "35092D52D69B75C1"
+				item: "minecolonies:blockpostbox"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["372E937BCE326CE8"]
+			description: [
+				"Load up the stash with all your junk and the Coureriers will come and take it away, storing it in the Warehouse for later use. No more trying to find somewhere to put it all¬!"
+				""
+				"Remember that the rest of the citizens will make use of anything sent, so maybe keep the good stuff for yourself!"
+			]
+			id: "031F5BB16675F5CA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B3B27868D58FF7E"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Too much junk?"
+			tasks: [{
+				id: "04FA8CAAA9CF77A9"
+				item: "minecolonies:blockstash"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["27E2D4CAB8E408B8"]
+			icon: "supplementaries:globe"
+			id: "70B6BB5B1C088693"
+			shape: "diamond"
+			tasks: [{
+				id: "3F875CAC0641D409"
+				type: "checkmark"
+			}]
+			title: "Placeholder"
+			x: 0.0d
+			y: -5.5d
+		}
+	]
+	title: "9 - Civilization"
+}

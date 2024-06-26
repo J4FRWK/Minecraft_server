@@ -1,0 +1,13 @@
+// Compost colors for verdantvibes. You may add your own colors, change existing ones, or remove colors that aren't needed.
+bracket_mushroom, #bc875b
+burnweed, #ffffff
+candy_tuft, #ffffff
+cattails, #7c8239
+dragon_tree, #6f9312
+ivy, #5c8026
+lobelia, #829e78
+money_tree, #5e7a2d
+monstera, #68ac36
+parlour_palm, #7db63e
+periwinkle, #ede3ff
+snake_plant, #7aa53c

@@ -1,0 +1,9 @@
+// Compost colors for betterarcheology. You may add your own colors, change existing ones, or remove colors that aren't needed.
+artifact_shards, #9a5e57
+bomb, #655451
+diamond_brush, #f1f0dc
+iron_brush, #fad2ae
+rotten_door, #473930
+soul_totem, #fcbf72
+torrent_totem, #ffca72
+unidentified_artifact, #834b4d

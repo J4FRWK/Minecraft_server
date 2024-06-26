@@ -1,0 +1,21 @@
+{
+	hide_tooltip: true
+	icon: "modulargolems:swim"
+	id: "074ACF55EA40F902"
+	loot_size: 1
+	order_index: 1
+	rewards: [{
+		item: {
+			Count: 1b
+			id: "apotheosis:gem"
+			tag: {
+				affix_data: {
+					rarity: "apotheosis:common"
+				}
+				gem: "irons_spellbooks:spell_resist"
+			}
+		}
+	}]
+	title: "Rare Reward"
+	use_title: true
+}

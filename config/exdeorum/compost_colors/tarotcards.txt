@@ -1,0 +1,24 @@
+// Compost colors for tarotcards. You may add your own colors, change existing ones, or remove colors that aren't needed.
+death, #ffe473
+judgement, #ffed7f
+justice, #ffe375
+strength, #ffe776
+tarot_deck, #ffcd57
+temperance, #ffe173
+the_chariot, #fff082
+the_devil, #ffc052
+the_emperor, #ffc862
+the_empress, #ffd35e
+the_fool, #ffe764
+the_hanged_man, #ffed76
+the_hermit, #ffee6c
+the_hierophant, #ffe86c
+the_high_priestess, #ffeb78
+the_lovers, #ffda5c
+the_magician, #fff27a
+the_moon, #fff772
+the_star, #ffe86c
+the_sun, #ffde58
+the_tower, #ffc54a
+the_world, #ffe770
+wheel_of_fortune, #fffb79

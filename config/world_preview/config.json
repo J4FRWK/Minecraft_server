@@ -1,0 +1,15 @@
+{
+  "savedSeeds": [],
+  "showControls": true,
+  "showFrameTime": false,
+  "buildFullVertChunk": false,
+  "backgroundSampleVertChunk": false,
+  "sampleStructures": false,
+  "sampleHeightmap": false,
+  "sampleIntersections": false,
+  "heightmapMinY": 32,
+  "heightmapMaxY": 255,
+  "onlySampleInVisualRange": true,
+  "colorMap": "world_preview:inferno",
+  "numThreads": 11
+}

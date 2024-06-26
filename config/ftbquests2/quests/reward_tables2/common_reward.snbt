@@ -1,0 +1,16 @@
+{
+	icon: "modulargolems:pickup"
+	id: "1468D684F889ABE9"
+	loot_size: 1
+	order_index: 9
+	rewards: [{
+		item: {
+			Count: 1b
+			id: "ftbquests:lootcrate"
+			tag: {
+				type: "trader_token_loot_crate"
+			}
+		}
+	}]
+	title: "Common Reward"
+}

@@ -1,0 +1,202 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = background-fantasy-skies.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -2
+}
+
+customization {
+  identifier = %id=914411%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=9384%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 201
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=91441%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604346%
+  orientation = bottom-centered
+  x = -10
+  action = movebutton
+  y = -60
+}
+
+customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -49
+}
+
+customization {
+  identifier = %id=9144%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-centered
+  x = -49
+  action = movebutton
+  y = -31
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 186
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 60781af9-55af-4275-87ba-ebc6979356f71691933888736
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 122
+  action = deep_customization_element:title_screen_branding
+  actionid = 034bcb51-d1ab-4c82-9a12-f9c9dc4e1ce91691933888743
+  y = 287
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 65c6a6e5-a8e2-4add-a41c-70575a19e5ab1691933888743
+  y = 319
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = b54c7530-92e5-415b-a039-9f5ca55c77eb1691933888743
+  y = 184
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = d60f7e80-17e9-4bb5-933c-58d9355e1cfe1691933888743
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = true
+  x = 91
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = be35cb7f-0154-4ebe-8160-f6071a6d5cb31691933888743
+  y = 87
+  height = 30
+}
+
+customization {
+  orientation = top-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 3.5
+  source =    %n%Fantasy Skies
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -151
+  width = 303
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = e1be7192-1c98-47d7-b630-ef3a7acee30a1691934059069
+  y = 0
+  alignment = centered
+  height = 83
+}
+

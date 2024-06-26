@@ -1,0 +1,16 @@
+minecraft:overworld
+dimdoors:dungeon_pockets
+rats:ratlantis
+minecraft:the_nether
+dimdoors:public_pockets
+minecraft:the_end
+bloodmagic:dungeon
+dimdoors:personal_pockets
+aether:the_aether
+overworldmirror:overworld
+dimdoors:limbo
+blue_skies:everbright
+mahoutsukai:reality_marble
+blue_skies:everdawn
+solarcraft:radiant_land
+voidscape:void

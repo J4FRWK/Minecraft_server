@@ -1,0 +1,3 @@
+// Compost colors for miniumstone. You may add your own colors, change existing ones, or remove colors that aren't needed.
+minium_shard, #ae0f4b
+minium_stone, #f57a65

@@ -3,7 +3,7 @@
   "enableMod": true,
   "showNCRButton": true,
   "showReloadButton": true,
-  "verifiedIconEnabled": false,
+  "verifiedIconEnabled": true,
   "showServerSafety": true,
   "hideInsecureMessageIndicators": true,
   "hideModifiedMessageIndicators": true,

@@ -1,0 +1,6 @@
+
+[crates]
+	#Set this to the maximum distance you would like to still render Storage Crate items.
+	#Range: 1 ~ 256
+	crateMaxRenderDistance = 16
+

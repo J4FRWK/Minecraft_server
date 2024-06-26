@@ -25,7 +25,6 @@
     "attribute.long_armor_max": 100,
     "attribute.horse_jump_height": true,
     "attribute.horse_speed": true,
-    "attribute.panda_genes": true,
     "jukebox.record": true,
     "timer.grow": true,
     "timer.breed": true,
@@ -48,11 +47,7 @@
     "level.honey": true,
     "note_block.type": true,
     "note_block.note": "SHARP",
-    "note_block.int_value": false,
-    "book.bookshelf": true,
-    "book.enchantment": "CYCLE",
-    "book.enchantment_cycle_timing": 500,
-    "book.written": true
+    "note_block.int_value": false
   },
   "wailax": {
     "energy.enabled_block": true,
@@ -65,7 +60,6 @@
     "item.enabled_block": true,
     "item.enabled_entity": true,
     "item.nbt": true,
-    "item.max_height": 3,
-    "item.sort_by_count": true
+    "item.max_height": 3
   }
 }

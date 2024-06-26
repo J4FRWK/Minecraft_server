@@ -1,0 +1,27 @@
+// Compost colors for zetter. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acacia_basic_frame, #fcc5a5
+acacia_plated_frame, #ffc8a5
+birch_basic_frame, #ffe6c0
+birch_plated_frame, #ffe7c0
+canvas, #ffffff
+crimson_basic_frame, #e4b5ab
+crimson_plated_frame, #e7b8ab
+dark_oak_basic_frame, #d4ac93
+dark_oak_plated_frame, #d7af93
+easel, #fff2d7
+gold_basic_frame, #fffb8c
+gold_plated_frame, #fff587
+iron_frame, #fffff7
+jungle_basic_frame, #ffd0b2
+jungle_plated_frame, #ffd2b2
+mangrove_basic_frame, #ac543e
+mangrove_plated_frame, #af583e
+oak_basic_frame, #ffd6b1
+oak_plated_frame, #ffd7b1
+painting, #ffffff
+paints, #f2f2f0
+palette, #fff1c9
+spruce_basic_frame, #edc3a5
+spruce_plated_frame, #f0c6a5
+warped_basic_frame, #cad0bf
+warped_plated_frame, #cfd2be

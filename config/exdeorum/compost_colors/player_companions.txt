@@ -1,0 +1,10 @@
+// Compost colors for player_companions. You may add your own colors, change existing ones, or remove colors that aren't needed.
+tame_apple, #d9472f
+tame_bone, #f1d2ac
+tame_cake, #ffffa1
+tame_carrot, #8e9126
+tame_honeycomb, #f7a036
+tame_raw_mutton, #ff7c50
+tame_seagrass, #789a22
+tame_sweet_berries, #ffe76f
+tame_wheat_seeds, #fec043

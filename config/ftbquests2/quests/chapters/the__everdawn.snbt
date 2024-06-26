@@ -1,0 +1,286 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the__everdawn"
+	group: "4253071ECC70A3EF"
+	icon: "blue_skies:umber"
+	id: "0B12D3B80BD673D9"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 80.0d
+		hover: [ ]
+		image: "skilltree:textures/screen/skill_tree_background.png"
+		rotation: 0.0d
+		width: 80.0d
+		x: 6.0d
+		y: 0.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"53E4A491CE1CCA4A"
+				"6F039B4D0D8B3290"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				Count: 1b
+				id: "irons_spellbooks:scroll"
+				tag: {
+					ISB_spell: {
+						level: 1
+						type: 1
+					}
+				}
+			}
+			id: "3C3BDBBD096CAD06"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3071D0045096B9FB"
+				table_id: 1470661144930266089L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				id: "1D050E1E3B370C5E"
+				item: "grimoireofgaia:trader_token"
+				type: "item"
+			}]
+			title: "The Everdawn"
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["53E7F53A7B255264"]
+			id: "654DB203161C0F1E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3ABC149CAEF9D923"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				dimension: "blue_skies:everdawn"
+				id: "10F22B08EF7DF48C"
+				title: "Everdawn"
+				type: "dimension"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["654DB203161C0F1E"]
+			description: [
+				"To summon The summoner, you must collect 4 blinding keys which you can find in chests scattered around the floors of the dungeon. "
+				" "
+				"At the top of the tower you will find a KeyStone that will bring you to the boss when you right click with the 4 Blinding Keys."
+			]
+			icon: "supplementaries:globe"
+			id: "269D27C3FDFBA783"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A283ADCB7730A25"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "148A55240968B7D5"
+				structure: "blue_skies:everdawn_blinding_dungeon"
+				type: "structure"
+			}]
+			title: "Blinding Dungeon"
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3C3BDBBD096CAD06"]
+			description: ["Make a portal in the same way as the nether portal but using lunar stone bricks instead, and light it up using the Zeal Lighter"]
+			icon: "blue_skies:lunar_stonebrick"
+			id: "53E7F53A7B255264"
+			rewards: [
+				{
+					id: "3CDEDC0858A1C623"
+					item: {
+						Count: 1b
+						id: "blue_skies:zeal_lighter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 14
+					id: "1A53AE823A057B1C"
+					item: "blue_skies:lunar_stonebrick"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "59BEF92D5FC77DB1"
+				type: "checkmark"
+			}]
+			title: "The Everdawn Portal"
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["269D27C3FDFBA783"]
+			icon: "apotheosis:boss_summoner"
+			id: "400BBB2A3BB1AC1A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08BBE88A6FE0CB95"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "blue_skies:alchemist"
+				id: "54E98B900253055E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Alchemist"
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["400BBB2A3BB1AC1A"]
+			id: "1318ADDF80A4EC2B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5F3933F2A62C756B"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "23AD5010A2E2B6DE"
+				item: "blue_skies:poison_key"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1318ADDF80A4EC2B"]
+			icon: "supplementaries:globe"
+			id: "4230C95782FDDB6B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F5D1390A5C93883"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0740D32407B8CF9C"
+				structure: "blue_skies:poison_dungeon"
+				title: "Poison Dungeon"
+				type: "structure"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["400BBB2A3BB1AC1A"]
+			id: "493F8E797EC644D7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33F082CB0EAFEF42"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				id: "531D0DF7A99A3EC7"
+				item: {
+					Count: 1b
+					id: "blue_skies:loot_bag_alchemist"
+					tag: {
+						LootTable: "blue_skies:loot_bags/alchemist/common"
+						Rarity: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4230C95782FDDB6B"]
+			icon: "apotheosis:boss_summoner"
+			id: "1CAD71162671948D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "041988A012B0D97A"
+				table_id: 525460274451380482L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "blue_skies:arachnarch"
+				id: "150C2DD893C4BD08"
+				title: "Arachnarch"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1CAD71162671948D"]
+			icon: "forbidden_arcanus:dark_matter"
+			id: "0D1005EA7CEA9392"
+			rewards: [{
+				auto: "enabled"
+				command: "/dimension blue_skies:everbright access grant"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: "forbidden_arcanus:dark_matter"
+				id: "1BB9BDB474C5DF1D"
+				ignore_reward_blocking: true
+				title: "Grant Access [The Everbright]"
+				type: "command"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3D9B9A72A8082FA7"
+				title: "Click to complete"
+				type: "checkmark"
+			}]
+			title: "Dimensional Access [The Everbright]"
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["654DB203161C0F1E"]
+			description: ["Having problems progressing through this dimension? or just want to skip?  Use this quest to get access to the next dimension."]
+			icon: "dimdoors:item_ag_dim_minecraft_iron_door"
+			id: "2EAA78721CBCFB58"
+			optional: true
+			rewards: [{
+				auto: "enabled"
+				command: "/dimension blue_skies:everbright access grant"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: "forbidden_arcanus:dark_matter"
+				id: "37A1CEAE4B75C684"
+				ignore_reward_blocking: true
+				title: "Grant Access [The Everbright]"
+				type: "command"
+			}]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				id: "30D0487A7F50E9F8"
+				item: "forbidden_arcanus:dark_nether_star"
+				type: "item"
+			}]
+			title: "Dimensional Access [The Everbright] [Easy Mode]"
+			x: 12.5d
+			y: 1.0d
+		}
+	]
+	title: "The Everdawn"
+}

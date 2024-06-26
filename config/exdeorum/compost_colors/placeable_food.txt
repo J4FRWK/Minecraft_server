@@ -1,0 +1,21 @@
+// Compost colors for placeable_food. You may add your own colors, change existing ones, or remove colors that aren't needed.
+allm, #fb9691
+big_hamburger, #e0941f
+bread, #9a7022
+chc, #722008
+chm, #6b2208
+cr, #fffac0
+fr, #ff8dac
+h, #ffa11e
+hs, #f7c540
+ms, #f5c83a
+pd, #ff6116
+pm, #ff96b4
+pmg, #ff5c14
+pp, #ff4a08
+ppie, #ffd67a
+rv, #fcb1be
+veggie_burger, #e39d1e
+vm, #ffffdc
+vs, #f2c332
+white, #ffffe0

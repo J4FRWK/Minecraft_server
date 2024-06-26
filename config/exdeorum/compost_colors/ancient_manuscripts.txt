@@ -1,0 +1,4 @@
+// Compost colors for ancient_manuscripts. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ancient_manuscript, #fff1ca
+empty_glue_bottle, #d3c8ca
+enchanted_book_glue, #bce0b6

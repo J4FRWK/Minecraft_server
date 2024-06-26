@@ -1,0 +1,11 @@
+// Compost colors for statues. You may add your own colors, change existing ones, or remove colors that aren't needed.
+cup, #ffffff
+marshmallow, #ffffff
+marshmallow_charred, #686666
+marshmallow_cooked, #ffcfc2
+marshmallow_golden, #ffff5b
+mooshroom_soup, #ffffff
+player_statue_spawn_egg, #ffffff
+royal_nugget, #ffffff
+statue_core, #f8f8f8
+tea, #ffffff

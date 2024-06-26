@@ -1,0 +1,7 @@
+{
+  "inventory": {
+    "0:0": "{Count:1b,id:\"minecraft:wooden_sword\",tag:{Damage:0}}",
+    "0:1": "{Count:1b,id:\"heracles:quest_book\"}"
+  },
+  "wipeBlacklist": []
+}

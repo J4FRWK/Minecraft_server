@@ -1,0 +1,375 @@
+{
+	hide_tooltip: true
+	id: "7ACAFE83BA7CE684"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Common Loot Crate"
+		string_id: "common_loot_crate"
+	}
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "usefulhats:straw_hat"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "usefulhats:stocking_cap"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "usefulhats:postman_hat"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "usefulhats:mushroom_hat"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "usefulhats:chopping_hat"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "vct:crimson_crafting_table" }
+		{ item: "vct:warped_crafting_table" }
+		{ item: "vct:bop_fir_crafting_table" }
+		{ item: "vct:archwood_crafting_table" }
+		{ item: "vct:bop_jacaranda_crafting_table" }
+		{ item: "vct:bop_umbran_crafting_table" }
+		{ item: "vct:bop_magic_crafting_table" }
+		{ item: "vct:bop_willow_crafting_table" }
+		{ item: "vct:bamboo_crafting_table" }
+		{ item: "vct:rue_cypress_crafting_table" }
+		{ item: "vct:arcane_edelwood_crafting_table" }
+		{ item: "vct:mangrove_crafting_table" }
+		{ count: 2, item: "minecraft:lantern" }
+		{ count: 4, item: "minecraft:torch" }
+		{ count: 4, item: "minecraft:redstone_torch" }
+		{ count: 4, item: "minecraft:dark_oak_log" }
+		{ count: 4, item: "minecraft:acacia_log" }
+		{ count: 4, item: "minecraft:jungle_log" }
+		{ count: 4, item: "minecraft:birch_log" }
+		{ count: 4, item: "minecraft:spruce_log" }
+		{ count: 4, item: "minecraft:oak_log" }
+		{ count: 2, item: "minecraft:leather" }
+		{ count: 4, item: "minecraft:flint" }
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:leather_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:leather_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:leather_leggings"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:leather_boots"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				ForgeCaps: {
+					"cold_sweat:item_insulation": {
+						Insulation: [ ]
+					}
+				}
+				id: "minecraft:shield"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:crossbow"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:bow"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "minecraft:egg" }
+		{ count: 4, item: "minecraft:iron_ingot" }
+		{ count: 4, item: "minecraft:copper_ingot" }
+		{ count: 4, item: "minecraft:gold_ingot" }
+		{ count: 4, item: "minecraft:charcoal" }
+		{ count: 4, item: "minecraft:redstone" }
+		{ count: 4, item: "minecraft:lever" }
+		{ item: "minecraft:decorated_pot" }
+		{ item: "minecraft:hopper" }
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:stone_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:stone_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ count: 4, item: "minecraft:bone_meal" }
+		{ count: 2, item: "minecraft:name_tag" }
+		{ count: 4, item: "minecraft:coal" }
+		{ count: 8, item: "minecraft:lapis_lazuli" }
+		{ count: 4, item: "minecraft:clay_ball" }
+		{ item: "minecraft:furnace" }
+		{ item: "minecraft:campfire" }
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/lightning"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/lunar"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/samurai"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/slipstream"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/solar"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/splendor"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/tyrannical"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/warlord"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheotic_additions:modded/ars_mana"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheotic_additions:modded/hearty"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "irons_spellbooks:spell_resist"
+				}
+			}
+		}
+		{ item: "minecraft:book" }
+		{ count: 4, item: "minecraft:paper" }
+		{ count: 2, item: "minecraft:bone" }
+		{ count: 2, item: "minecraft:slime_ball" }
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/breach"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/brawlers"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/combatant"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "apotheosis:gem"
+				tag: {
+					affix_data: {
+						rarity: "apotheosis:common"
+					}
+					gem: "apotheosis:core/guardian"
+				}
+			}
+		}
+		{ item: "skilltree:wisdom_scroll" }
+	]
+	title: "Common Loot Crate"
+	use_title: true
+}

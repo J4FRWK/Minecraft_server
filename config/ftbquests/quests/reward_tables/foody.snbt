@@ -1,0 +1,16 @@
+{
+	id: "4C6BF8951C873C67"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "foody"
+	}
+	loot_size: 1
+	order_index: 25
+	rewards: [{ count: 5, item: "epicsamurai:aquamarine" }]
+	title: "Foody"
+}

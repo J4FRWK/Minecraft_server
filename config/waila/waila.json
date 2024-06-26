@@ -26,10 +26,9 @@
     "color": {
       "backgroundAlpha": 204,
       "themes": [],
-      "activeTheme": "waila:dark"
+      "activeTheme": "waila:vanilla"
     },
-    "scale": 1.0,
-    "fps": 30
+    "scale": 1.0
   },
   "formatter": {
     "modName": "§9§o%s",

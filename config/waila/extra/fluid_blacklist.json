@@ -1,33 +1,13 @@
 {
   "_comment": [
     "The game needs to be restarted for the changes to apply.",
-    "",
-    "Operators:",
-    "@namespace - include objects based on their namespace location",
-    "#tag       - include objects based on data pack tags",
-    "/regex/    - include objects based on regular expression",
-    "default    - include objects with specific ID",
-    "",
-    "An exclamation mark (!) prefix can be added which negates the pattern.",
-    "Any entries matching previous rules will be removed from it.",
-    "Can be combined with other rule to exclude what matches the rule.",
-    "",
-    "Example:",
-    "@aether              - include all block from the aether namespace",
-    "#minecraft:planks    - include all blocks in the planks tag",
-    "/.*_ore/             - include all blocks that ends with \"_ore\"",
-    "minecraft:iron_block - include only the iron block",
-    "!/.*:oak_.*$/        - exclude all blocks that its path start with \"oak_\"",
-    "",
-    "The #waila:extra/fluid_blacklist tag rule can not be removed"
+    "Along with this file, the server can also use datapack tag to disable the feature for connecting players.",
+    "Block tag            : data/waila/tags/blocks/extra/fluid_blacklist.json",
+    "Block entity type tag: data/waila/tags/block_entity_type/extra/fluid_blacklist.json",
+    "Entity type tag      : data/waila/tags/entity_types/extra/extra/fluid_blacklist.json",
+    "Note that block_entity_type is not plural like blocks and entity_types, this is not an error."
   ],
-  "blocks": [
-    "#waila:extra/fluid_blacklist"
-  ],
-  "blockEntityTypes": [
-    "#waila:extra/fluid_blacklist"
-  ],
-  "entityTypes": [
-    "#waila:extra/fluid_blacklist"
-  ]
+  "blocks": [],
+  "blockEntityTypes": [],
+  "entityTypes": []
 }
