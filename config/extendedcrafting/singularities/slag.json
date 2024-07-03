@@ -1,0 +1,10 @@
+{
+  "name": "Slag",
+  "colors": [
+    "9d9287",
+    "9d9287"
+  ],
+  "ingredient": {
+    "item": "thermal:slag"
+  }
+}

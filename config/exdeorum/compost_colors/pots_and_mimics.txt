@@ -1,7 +1,0 @@
-// Compost colors for pots_and_mimics. You may add your own colors, change existing ones, or remove colors that aren't needed.
-decorative_end_pot, #a273a2
-decorative_nether_pot, #582f36
-decorative_pot, #b2583e
-end_treasure_pot, #af7d98
-nether_treasure_pot, #6e4139
-treasure_pot, #bc6640

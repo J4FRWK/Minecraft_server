@@ -1,0 +1,10 @@
+{
+  "name": "Flux-Infused Gem",
+  "colors": [
+    "cd4747",
+    "d4b6b6"
+  ],
+  "ingredient": {
+    "item": "redstone_arsenal:flux_gem"
+  }
+}

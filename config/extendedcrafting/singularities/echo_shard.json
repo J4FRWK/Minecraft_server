@@ -1,0 +1,10 @@
+{
+  "name": "Echo Shard",
+  "colors": [
+    "07404d",
+    "1c5204"
+  ],
+  "ingredient": {
+    "item": "minecraft:echo_shard"
+  }
+}

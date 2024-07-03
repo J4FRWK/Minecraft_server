@@ -1,0 +1,13 @@
+{
+  "name": "Pyrope",
+  "type": "resource",
+  "tier": "mysticalagriculture:2",
+  "ingredient": {
+    "item": "blue_skies:pyrope_gem"
+  },
+  "color": "f73b48",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  }
+}

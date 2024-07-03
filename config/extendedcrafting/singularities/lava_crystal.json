@@ -1,0 +1,10 @@
+{
+  "name": "Lava Crystal",
+  "colors": [
+    "f37c00",
+    "f37c00"
+  ],
+  "ingredient": {
+    "item": "armorplus:lava_crystal"
+  }
+}

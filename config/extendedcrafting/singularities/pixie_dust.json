@@ -1,0 +1,10 @@
+{
+  "name": "Pixie Dust",
+  "colors": [
+    "fb89cc",
+    "fb89cc"
+  ],
+  "ingredient": {
+    "item": "botania:pixie_dust"
+  }
+}

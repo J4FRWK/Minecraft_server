@@ -1,0 +1,13 @@
+{
+  "name": "Dragonstone",
+  "type": "resource",
+  "tier": "mysticalagriculture:4",
+  "ingredient": {
+    "item": "botania:dragonstone"
+  },
+  "color": "f56ce7",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_diamond"
+  }
+}

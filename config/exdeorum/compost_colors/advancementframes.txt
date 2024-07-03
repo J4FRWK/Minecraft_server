@@ -1,2 +1,0 @@
-// Compost colors for advancementframes. You may add your own colors, change existing ones, or remove colors that aren't needed.
-advancement_frame, #b19b3a

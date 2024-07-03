@@ -1,0 +1,10 @@
+{
+  "name": "Crystallized Amber",
+  "colors": [
+    "f6840d",
+    "f6840d"
+  ],
+  "ingredient": {
+    "item": "cyclic:gem_amber"
+  }
+}

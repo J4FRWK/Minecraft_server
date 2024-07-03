@@ -1,0 +1,13 @@
+{
+  "name": "Diopside",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "blue_skies:diopside_gem"
+  },
+  "color": "22fc00",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  }
+}

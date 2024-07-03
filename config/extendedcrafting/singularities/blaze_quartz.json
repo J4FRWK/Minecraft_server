@@ -1,0 +1,10 @@
+{
+  "name": "Blaze Quartz",
+  "colors": [
+    "f6ca9d",
+    "f6ca9d"
+  ],
+  "ingredient": {
+    "item": "botania:quartz_blaze"
+  }
+}

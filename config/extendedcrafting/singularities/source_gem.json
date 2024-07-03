@@ -1,0 +1,10 @@
+{
+  "name": "Source Gem",
+  "colors": [
+    "d8007f",
+    "d8007f"
+  ],
+  "ingredient": {
+    "item": "ars_nouveau:source_gem"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cinnabar",
+  "type": "resource",
+  "tier": "mysticalagriculture:2",
+  "ingredient": {
+    "item": "thermal:cinnabar"
+  },
+  "color": "f7253a",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  }
+}

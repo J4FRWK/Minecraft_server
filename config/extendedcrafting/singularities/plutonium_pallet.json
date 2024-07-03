@@ -1,0 +1,10 @@
+{
+  "name": "Plutonium Pallet",
+  "colors": [
+    "90ce74",
+    "90ce74"
+  ],
+  "ingredient": {
+    "item": "mekanism:pellet_plutonium"
+  }
+}

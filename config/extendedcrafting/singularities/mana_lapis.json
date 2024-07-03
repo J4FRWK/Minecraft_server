@@ -1,0 +1,10 @@
+{
+  "name": "Mana Lapis",
+  "colors": [
+    "5a99d3",
+    "5a99d3"
+  ],
+  "ingredient": {
+    "item": "botanicadds:mana_lapis"
+  }
+}

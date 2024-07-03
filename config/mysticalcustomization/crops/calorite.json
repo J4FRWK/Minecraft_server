@@ -1,0 +1,13 @@
+{
+  "name": "Calorite",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "ad_astra:calorite_ingot"
+  },
+  "color": "e82a33",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot"
+  }
+}

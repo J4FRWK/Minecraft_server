@@ -1,0 +1,10 @@
+{
+  "name": "Lavender Quartz",
+  "colors": [
+    "d7c6fe",
+    "d7c6fe"
+  ],
+  "ingredient": {
+    "item": "botania:quartz_lavender"
+  }
+}

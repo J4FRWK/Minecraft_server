@@ -1,0 +1,10 @@
+{
+  "name": "Silicon",
+  "colors": [
+    "7e7b7b",
+    "7e7b7b"
+  ],
+  "ingredient": {
+    "item": "refinedstorage:silicon"
+  }
+}

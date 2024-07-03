@@ -1,0 +1,10 @@
+{
+  "name": "Elven Lapis",
+  "colors": [
+    "f40893",
+    "f40893"
+  ],
+  "ingredient": {
+    "item": "botanicadds:elven_lapis"
+  }
+}

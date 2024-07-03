@@ -1,0 +1,13 @@
+{
+  "name": "Ventium",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "blue_skies:ventium_ingot"
+  },
+  "color": "f20c1c",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot"
+  }
+}

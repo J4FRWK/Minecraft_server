@@ -1,0 +1,13 @@
+{
+  "name": "Regalium Crystal",
+  "type": "resource",
+  "tier": "mysticalagriculture:4",
+  "ingredient": {
+    "item": "undergarden:regalium_crystal"
+  },
+  "color": "d4bb00",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  }
+}

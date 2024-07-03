@@ -1,0 +1,10 @@
+{
+  "name": "Salt",
+  "colors": [
+    "f3f6f4",
+    "f3f6f4"
+  ],
+  "ingredient": {
+    "item": "mekanism:salt"
+  }
+}

@@ -1,8 +1,0 @@
-// Compost colors for theurgy. You may add your own colors, change existing ones, or remove colors that aren't needed.
-empty_jar, #b2684e
-empty_jar_labeled, #ebc3b1
-jar_label, #ffffff
-mercury_crystal, #97a5be
-mercury_shard, #ffffff
-sal_ammoniac_crystal, #fff2ff
-the_hermetica_icon, #beb2b6

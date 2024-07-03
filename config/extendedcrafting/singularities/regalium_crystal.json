@@ -1,0 +1,10 @@
+{
+  "name": "Regalium Crystal",
+  "colors": [
+    "e1bd51",
+    "e1bd51"
+  ],
+  "ingredient": {
+    "item": "undergarden:regalium_crystal"
+  }
+}

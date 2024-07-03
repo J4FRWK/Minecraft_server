@@ -1,0 +1,13 @@
+{
+  "name": "Moonstone",
+  "type": "resource",
+  "tier": "mysticalagriculture:2",
+  "ingredient": {
+    "item": "blue_skies:moonstone"
+  },
+  "color": "ccf3ff",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  }
+}

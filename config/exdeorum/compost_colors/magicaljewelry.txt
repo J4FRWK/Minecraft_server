@@ -1,9 +1,0 @@
-// Compost colors for magicaljewelry. You may add your own colors, change existing ones, or remove colors that aren't needed.
-gold_amulet, #ffffff
-gold_bracelet, #ffffff
-gold_ring, #f0f0f0
-jewel_upgrade_smithing_template, #708684
-silver_amulet, #ffffff
-silver_bracelet, #ffffff
-silver_ring, #f0f0f0
-the_one_ring, #ffffff

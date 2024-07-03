@@ -1,0 +1,10 @@
+{
+  "name": "Diopside",
+  "colors": [
+    "23b917",
+    "23b917"
+  ],
+  "ingredient": {
+    "item": "blue_skies:diopside_gem"
+  }
+}

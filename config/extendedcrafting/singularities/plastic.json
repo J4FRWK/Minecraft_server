@@ -1,0 +1,10 @@
+{
+  "name": "Plastic",
+  "colors": [
+    "cdcece",
+    "cdcece"
+  ],
+  "ingredient": {
+    "item": "industrialforegoing:plastic"
+  }
+}

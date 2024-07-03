@@ -1,0 +1,13 @@
+{
+  "name": "Dark Gem",
+  "type": "resource",
+  "tier": "mysticalagriculture:3",
+  "ingredient": {
+    "item": "evilcraft:dark_gem"
+  },
+  "color": "19161a",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_quartz"
+  }
+}

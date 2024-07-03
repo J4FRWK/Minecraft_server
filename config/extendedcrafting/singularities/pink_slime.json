@@ -1,0 +1,10 @@
+{
+  "name": "Pink Slime",
+  "colors": [
+    "ff00f0",
+    "ff00f0"
+  ],
+  "ingredient": {
+    "item": "industrialforegoing:pink_slime"
+  }
+}

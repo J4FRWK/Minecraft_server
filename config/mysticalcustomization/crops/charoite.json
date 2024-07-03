@@ -1,0 +1,13 @@
+{
+  "name": "Charoite",
+  "type": "resource",
+  "tier": "mysticalagriculture:4",
+  "ingredient": {
+    "item": "blue_skies:charoite"
+  },
+  "color": "a68ee6",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  }
+}

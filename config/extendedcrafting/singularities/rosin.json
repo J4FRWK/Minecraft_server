@@ -1,0 +1,10 @@
+{
+  "name": "Rosin",
+  "colors": [
+    "b45f06",
+    "b45f06"
+  ],
+  "ingredient": {
+    "item": "thermal:rosin"
+  }
+}

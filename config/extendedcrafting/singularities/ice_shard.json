@@ -1,0 +1,10 @@
+{
+  "name": "Ice Shard",
+  "colors": [
+    "d2e7fb",
+    "dcdcdc"
+  ],
+  "ingredient": {
+    "item": "ad_astra:ice_shard"
+  }
+}

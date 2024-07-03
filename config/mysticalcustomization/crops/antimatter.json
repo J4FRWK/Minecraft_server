@@ -1,0 +1,19 @@
+{
+  "name": "Antimatter",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "mekanism:pellet_antimatter"
+  },
+  "color": "832dad",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  },
+  "crux": "mekaevolution:cosmic_energy_cube",
+  "recipes": {
+    "crafting": true, 
+    "infusion": false,
+    "reprocessor": true
+  }
+}

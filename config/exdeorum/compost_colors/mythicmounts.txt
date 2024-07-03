@@ -1,2 +1,0 @@
-// Compost colors for mythicmounts. You may add your own colors, change existing ones, or remove colors that aren't needed.
-summoning_staff, #b2bf90

@@ -1,0 +1,93 @@
+{
+	"type": "minecraft:cod",
+	"subtypes": [
+		"minecraft:salmon",
+		"minecraft:tropical_fish",
+		"minecraft:pufferfish",
+		"blue_skies:grittle_flatfish",
+		"blue_skies:municipal_monkfish",
+		"blue_skies:charscale_moki",
+		"blue_skies:horizofin_tunid",
+		"undergarden:gwibling"
+	],
+	"name": "entity.minecraft.cod",
+	"name_color": "0xA52A2A",
+	"gui_scale": 1.0,
+	"gui_x_offset": 0.0,
+	"gui_y_offset": 0.0,
+	"gui_z_offset": 0.0,
+	"sim_cost": 32,
+	"input": {
+	  "item": "hostilenetworks:empty_prediction",
+	  "count": 1
+	},
+	"base_drop": {
+	  "item": "hostilenetworks:overworld_prediction",
+	  "count": 1
+	},
+	"trivia": "hostilenetworks.trivia.cod",
+	"fabricator_drops": [
+	  {
+		"item": "minecraft:cod",
+		"count": 32
+	  },
+	  {
+		"item": "minecraft:salmon",
+		"count": 32
+	  },
+	  {
+		"item": "minecraft:tropical_fish",
+		"count": 4
+	  },
+	  {
+		"item": "minecraft:pufferfish",
+		"count": 4
+	  },
+	  {
+		"item": "minecraft:bone_meal",
+		"count": 2
+	  },
+	  {
+		"optional": true,
+		"item": "croptopia:roe",
+		"count": 16
+	  },
+	  {
+		"optional": true,
+		"item": "blue_skies:grittle_flatfish",
+		"count": 4
+	  },
+	  {
+		"optional": true,
+		"item": "blue_skies:municipal_monkfish",
+		"count": 4
+	  },
+	  {
+		"optional": true,
+		"item": "blue_skies:charscale_moki",
+		"count": 4
+	  },
+	  {
+		"optional": true,
+		"item": "blue_skies:horizofin_tunid",
+		"count": 4
+	  },
+	  {
+		"optional": true,
+		"item": "undergarden:raw_gwibling",
+		"count": 4
+	  }
+	],
+	"tier_data": [
+	  6,
+	  54,
+	  354,
+	  1254
+	],
+	"data_per_kill": [
+	  1,
+	  4,
+	  10,
+	  18
+	]
+  }

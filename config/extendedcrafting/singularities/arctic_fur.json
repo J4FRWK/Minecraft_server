@@ -1,0 +1,10 @@
+{
+  "name": "Arctic Fur",
+  "colors": [
+    "c4ccd4",
+    "dae1e7"
+  ],
+  "ingredient": {
+    "item": "twilightforest:arctic_fur"
+  }
+}

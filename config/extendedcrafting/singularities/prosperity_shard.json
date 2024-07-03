@@ -1,0 +1,10 @@
+{
+  "name": "Prosperity Shard",
+  "colors": [
+    "cfe2f3",
+    "91a2b1"
+  ],
+  "ingredient": {
+    "item": "mysticalagriculture:prosperity_shard"
+  }
+}

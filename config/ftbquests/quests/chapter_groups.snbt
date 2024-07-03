@@ -1,13 +1,12 @@
 {
 	chapter_groups: [
-		{ id: "7701DDDE6C3F8D0B", title: "Chapters" }
-		{ id: "79D719DA3CD355B5", title: "Island Utilities" }
-		{ id: "464288C43FC182A4", title: "Market" }
-		{ id: "62D9D90E6781C6B6", title: "Resources" }
-		{ id: "60EAA90917E4932A", title: "Advanced Machinery" }
-		{ id: "6A19C203F6E71C67", title: "Kitchen" }
-		{ id: "4DD14B8836EB67D9", title: "Storage" }
-		{ id: "3E8EB8B7B92507F0", title: "Magic" }
-		{ id: "797A6AAF8DA7A19B", title: "Combat" }
+		{ id: "1B5135B04A9FBE34", title: "Extra Stuff" }
+		{ id: "26B45D9099BEACEA", title: "Tier 1" }
+		{ id: "7ACFC886019EA7E0", title: "Tier 2" }
+		{ id: "3F74603074C9AFB3", title: "Tier 3" }
+		{ id: "07A9419A06D6B296", title: "End Game" }
+		{ id: "354A85BC2234DA50", title: "Exploration" }
+		{ id: "7666C88BBE05D284", title: "Magic Time" }
+		{ id: "269E1EFA0EF8FE1E", title: "Extra Challenges" }
 	]
 }

@@ -1,0 +1,10 @@
+{
+  "name": "Prismarine Crystals",
+  "colors": [
+    "cfe2f3",
+    "cfe2f3"
+  ],
+  "ingredient": {
+    "item": "minecraft:prismarine_crystals"
+  }
+}

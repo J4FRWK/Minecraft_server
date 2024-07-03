@@ -1,0 +1,10 @@
+{
+  "name": "Red Matter",
+  "colors": [
+    "990707",
+    "f0e506"
+  ],
+  "ingredient": {
+    "item": "projecte:red_matter"
+  }
+}

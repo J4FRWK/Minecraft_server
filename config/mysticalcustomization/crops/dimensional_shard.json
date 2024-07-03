@@ -1,0 +1,13 @@
+{
+  "name": "Dimensional Shard",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "rftoolsbase:dimensionalshard"
+  },
+  "color": "74cfe3",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  }
+}

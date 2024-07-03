@@ -1,0 +1,10 @@
+{
+  "name": "Fluorite",
+  "colors": [
+    "e3edf6",
+    "e3edf6"
+  ],
+  "ingredient": {
+    "item": "mekanism:fluorite_gem"
+  }
+}

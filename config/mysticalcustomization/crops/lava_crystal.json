@@ -1,0 +1,13 @@
+{
+  "name": "Lava Crystal",
+  "type": "resource",
+  "tier": "mysticalagriculture:4",
+  "ingredient": {
+    "item": "armorplus:lava_crystal"
+  },
+  "color": "fc8700",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  }
+}

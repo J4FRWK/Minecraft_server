@@ -1,2 +1,0 @@
-// Compost colors for fairyfactions. You may add your own colors, change existing ones, or remove colors that aren't needed.
-fairy_wand, #e3a2cf

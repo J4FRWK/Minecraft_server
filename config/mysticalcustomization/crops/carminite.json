@@ -1,0 +1,18 @@
+{
+  "name": "Carminite",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "twilightforest:carminite"
+  },
+  "color": "b51400",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  },
+  "recipes": {
+    "crafting": true, 
+    "infusion": false,
+    "reprocessor": true
+  }
+}

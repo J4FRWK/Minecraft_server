@@ -1,0 +1,10 @@
+{
+  "name": "Sunny Quartz",
+  "colors": [
+    "fffcbd",
+    "fffcbd"
+  ],
+  "ingredient": {
+    "item": "botania:quartz_sunny"
+  }
+}

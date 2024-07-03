@@ -1,0 +1,9 @@
+{
+    "name": "AlphaYeti",
+    "souls": 8,
+    "entities": [
+      "twilightforest:alpha_yeti"
+    ],
+    "color": "064f90"
+  }
+  

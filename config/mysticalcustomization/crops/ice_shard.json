@@ -1,0 +1,13 @@
+{
+  "name": "Ice Shard",
+  "type": "resource",
+  "tier": "mysticalagriculture:2",
+  "ingredient": {
+    "item": "ad_astra:ice_shard"
+  },
+  "color": "95fafc",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  }
+}

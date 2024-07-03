@@ -1,0 +1,10 @@
+{
+  "name": "Alpha Yeti Fur",
+  "colors": [
+    "064f90",
+    "ffffff"
+  ],
+  "ingredient": {
+    "item": "twilightforest:alpha_yeti_fur"
+  }
+}

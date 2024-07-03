@@ -1,0 +1,10 @@
+{
+  "name": "Mana Diamond",
+  "colors": [
+    "3cb8d3",
+    "3cb8d3"
+  ],
+  "ingredient": {
+    "item": "botania:mana_diamond"
+  }
+}

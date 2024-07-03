@@ -1,0 +1,10 @@
+{
+  "name": "Coal Coke",
+  "colors": [
+    "3b3838",
+    "b5aeae"
+  ],
+  "ingredient": {
+    "tag": "forge:coal_coke"
+  }
+}

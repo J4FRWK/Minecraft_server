@@ -1,0 +1,8 @@
+{
+    "name": "Tier 7",
+    "value": 7,
+    "farmland": "mysticalagradditions:insanium_farmland",
+    "essence": "mysticalagradditions:insanium_essence",
+    "fertilizable": false,
+    "secondarySeedDrop": false  
+  }

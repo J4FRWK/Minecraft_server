@@ -1,0 +1,10 @@
+{
+  "name": "Frost Crystal",
+  "colors": [
+    "c6e0f8",
+    "c6e0f8"
+  ],
+  "ingredient": {
+    "item": "armorplus:frost_crystal"
+  }
+}

@@ -1,4 +1,696 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "minecraft:bucket",
+      "emc": 768
+    },
+    {
+      "item": "minecraft:coal_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gold_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:copper_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:lapis_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:emerald_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:quartz_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:redstone_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:slime_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:honey_block",
+      "emc": 0
+    },
+    {
+      "item": "alltheores:peridot_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:charcoal_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:gunpowder_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:sugar_cane_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:bamboo_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:steel_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:tin_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:lead_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:silver_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:nickel_block",
+      "emc": 0
+    },
+    {
+      "item": "industrialforegoing:pink_slime",
+      "emc": 128
+    },
+    {
+      "item": "redstone_arsenal:flux_gem",
+      "emc": 8704
+    },
+    {
+      "item": "thermal:apatite",
+      "emc": 64
+    },
+    {
+      "item": "thermal:rich_slag",
+      "emc": 64
+    },
+    {
+      "item": "blue_skies:pyrope_gem",
+      "emc": 128
+    },
+    {
+      "item": "blue_skies:aquite",
+      "emc": 512
+    },
+    {
+      "item": "thermal:rosin",
+      "emc": 64
+    },
+    {
+      "item": "thermal:cinnabar",
+      "emc": 128
+    },
+    {
+      "item": "ars_nouveau:source_gem",
+      "emc": 512
+    },
+    {
+      "item": "evilcraft:dark_power_gem",
+      "emc": 512
+    },
+    {
+      "item": "armorplus:lava_crystal",
+      "emc": 2048
+    },
+    {
+      "item": "blue_skies:diopside_gem",
+      "emc": 2048
+    },
+    {
+      "item": "ae2:fluix_crystal",
+      "emc": 1024
+    },
+    {
+      "item": "undergarden:utherium_crystal",
+      "emc": 256
+    },
+    {
+      "item": "projecte:dark_matter",
+      "emc": 139264
+    },
+    {
+      "item": "ae2:charged_certus_quartz_crystal",
+      "emc": 128
+    },
+    {
+      "item": "thermal:bitumen",
+      "emc": 16
+    },
+    {
+      "item": "thermal:coal_coke",
+      "emc": 128
+    },
+    {
+      "item": "immersiveengineering:coal_coke",
+      "emc": 128
+    },
+    {
+      "item": "evilcraft:dark_gem",
+      "emc": 128
+    },
+    {
+      "item": "thermal:sulfur",
+      "emc": 64
+    },
+    {
+      "item": "ad_astra:ice_shard",
+      "emc": 64
+    },
+    {
+      "item": "ae2:certus_quartz_crystal",
+      "emc": 16
+    },
+    {
+      "item": "thermal:niter",
+      "emc": 32
+    },
+    {
+      "item": "armorplus:frost_crystal",
+      "emc": 2056
+    },
+    {
+      "item": "blue_skies:charoite",
+      "emc": 1024
+    },
+    {
+      "item": "undergarden:regalium_crystal",
+      "emc": 1024
+    },
+    {
+      "item": "industrialforegoing:fertilizer",
+      "emc": 2
+    },
+    {
+      "item": "blue_skies:moonstone",
+      "emc": 128
+    },
+    {
+      "item": "thermal:tar",
+      "emc": 16
+    },
+    {
+      "item": "redstone_arsenal:flux_gem_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:apatite_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:rich_slag_block",
+      "emc": 0
+    },
+    {
+      "item": "blue_skies:aquite_block",
+      "emc": 0
+    },
+    {
+      "item": "blue_skies:pyrope_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:rosin_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:cinnabar_block",
+      "emc": 0
+    },
+    {
+      "item": "ars_nouveau:source_gem_block",
+      "emc": 0
+    },
+    {
+      "item": "evilcraft:dark_power_gem_block",
+      "emc": 0
+    },
+    {
+      "item": "blue_skies:moonstone_block",
+      "emc": 0
+    },
+    {
+      "item": "undergarden:regalium_block",
+      "emc": 0
+    },
+    {
+      "item": "blue_skies:charoite_block",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:block_frost_crystal",
+      "emc": 0
+    },
+    {
+      "item": "thermal:niter_block",
+      "emc": 0
+    },
+    {
+      "item": "ae2:quartz_block",
+      "emc": 0
+    },
+    {
+      "item": "armorplus:block_lava_crystal",
+      "emc": 0
+    },
+    {
+      "item": "blue_skies:diopside_block",
+      "emc": 0
+    },
+    {
+      "item": "ae2:fluix_block",
+      "emc": 0
+    },
+    {
+      "item": "projecte:dark_matter_block",
+      "emc": 0
+    },
+    {
+      "item": "undergarden:utherium_block",
+      "emc": 0
+    },
+    {
+      "item": "projecte:red_matter_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:bitumen_block",
+      "emc": 0
+    },
+    {
+      "item": "evilcraft:dark_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:sulfur_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:tar_block",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:block_osmium",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:block_fluorite",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:block_salt",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:block_refined_obsidian",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:block_refined_glowstone",
+      "emc": 0
+    },
+    {
+      "item": "thermal:bronze_block",
+      "emc": 0
+    },
+    {
+      "item": "ad_astra:calorite_ingot",
+      "emc": 4096
+    },
+    {
+      "item": "ad_astra:ostrum_ingot",
+      "emc": 2048
+    },
+    {
+      "item": "ad_astra:desh_ingot",
+      "emc": 512
+    },
+    {
+      "item": "alltheores:brass_ingot",
+      "emc": 256
+    },
+    {
+      "item": "alltheores:iridium_ingot",
+      "emc": 1024
+    },
+    {
+      "item": "alltheores:platinum_ingot",
+      "emc": 1024
+    },
+    {
+      "item": "alltheores:zinc_ingot",
+      "emc": 128
+    },
+    {
+      "item": "allthemodium:allthemodium_ingot",
+      "emc": 100296
+    },
+    {
+      "item": "allthemodium:vibranium_ingot",
+      "emc": 200592
+    },
+    {
+      "item": "allthemodium:unobtainium_ingot",
+      "emc": 401184
+    },
+    {
+      "item": "blue_skies:falsite_ingot",
+      "emc": 1028
+    },
+    {
+      "item": "extendedcrafting:nether_star_block",
+      "emc": 0
+    },
+    {
+      "item": "blue_skies:ventium_ingot",
+      "emc": 2056
+    },
+    {
+      "item": "blue_skies:horizonite_ingot",
+      "emc": 512
+    },
+    {
+      "item": "industrialforegoing:pink_slime_ingot",
+      "emc": 5124
+    },
+    {
+      "item": "pneumaticcraft:ingot_iron_compressed",
+      "emc": 1024
+    },
+    {
+      "item": "immersiveengineering:ingot_hop_graphite",
+      "emc": 512
+    },
+    {
+      "item": "spirit:soul_steel_ingot",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:knightmetal_ingot",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:ironwood_ingot",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:fiery_ingot",
+      "emc": 512
+    },
+    {
+      "item": "undergarden:forgotten_ingot",
+      "emc": 2056
+    },
+    {
+      "item": "undergarden:froststeel_ingot",
+      "emc": 512
+    },
+    {
+      "item": "undergarden:cloggrum_ingot",
+      "emc": 256
+    },
+    {
+      "item": "thermal:signalum_ingot",
+      "emc": 1152
+    },
+    {
+      "item": "thermal:lumium_ingot",
+      "emc": 2048
+    },
+    {
+      "item": "thermal:enderium_ingot",
+      "emc": 11776
+    },
+    {
+      "item": "thermal:electrum_ingot",
+      "emc": 2560
+    },
+    {
+      "item": "thermal:invar_ingot",
+      "emc": 1536
+    },
+    {
+      "item": "thermal:constantan_ingot",
+      "emc": 1152
+    },
+    {
+      "item": "thermal:rose_gold_ingot",
+      "emc": 2176
+    },
+    {
+      "item": "redstone_arsenal:flux_ingot",
+      "emc": 2816
+    },
+    {
+      "item": "minecraft:piston",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sweet_berries",
+      "emc": 0
+    },
+    {
+      "item": "redstone_arsenal:flux_metal_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:rose_gold_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:constantan_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:invar_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:electrum_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:enderium_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:lumium_block",
+      "emc": 0
+    },
+    {
+      "item": "thermal:signalum_block",
+      "emc": 0
+    },
+    {
+      "item": "undergarden:cloggrum_block",
+      "emc": 0
+    },
+    {
+      "item": "spirit:soul_steel_block",
+      "emc": 0
+    },
+    {
+      "item": "pneumaticcraft:compressed_iron_block",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:storage_uranium",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:storage_aluminum",
+      "emc": 0
+    },
+    {
+      "item": "undergarden:froststeel_block",
+      "emc": 0
+    },
+    {
+      "item": "undergarden:forgotten_block",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:fiery_block",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:ironwood_block",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:knightmetal_block",
+      "emc": 0
+    },
+    {
+      "item": "blue_skies:horizonite_block",
+      "emc": 0
+    },
+    {
+      "item": "blue_skies:ventium_block",
+      "emc": 0
+    },
+    {
+      "item": "blue_skies:falsite_block",
+      "emc": 0
+    },
+    {
+      "item": "allthemodium:unobtainium_block",
+      "emc": 0
+    },
+    {
+      "item": "allthemodium:vibranium_block",
+      "emc": 0
+    },
+    {
+      "item": "allthemodium:allthemodium_block",
+      "emc": 0
+    },
+    {
+      "item": "alltheores:zinc_block",
+      "emc": 0
+    },
+    {
+      "item": "alltheores:platinum_block",
+      "emc": 0
+    },
+    {
+      "item": "alltheores:iridium_block",
+      "emc": 0
+    },
+    {
+      "item": "ad_astra:desh_block",
+      "emc": 0
+    },
+    {
+      "item": "ad_astra:ostrum_block",
+      "emc": 0
+    },
+    {
+      "item": "ad_astra:calorite_block",
+      "emc": 0
+    },
+    {
+      "item": "alltheores:brass_block",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:alloy_infused",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:basic_control_circuit",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:boiler_casing",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:basic_fluid_tank",
+      "emc": 0
+    },
+    {
+      "item": "ironjetpacks:elite_coil",
+      "emc": 0
+    },
+    {
+      "item": "mekanismgenerators:saturating_condenser",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:radioactive_waste_barrel",
+      "emc": 0
+    },
+    {
+      "item": "redstone_arsenal:obsidian_rod",
+      "emc": 0
+    },
+    {
+      "item": "pneumaticcraft:pressure_tube",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:basic_thermodynamic_conductor",
+      "emc": 0
+    },
+    {
+      "item": "mekanismgenerators:turbine_casing",
+      "emc": 0
+    },
+    {
+      "item": "easy_villagers:incubator",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:diversion_transporter",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:restrictive_transporter",
+      "emc": 0
+    },
+    {
+      "item": "easy_villagers:converter",
+      "emc": 0
+    },
+    {
+      "item": "mekanismgenerators:fission_fuel_assembly",
+      "emc": 0
+    },
+    {
+      "item": "easy_villagers:iron_farm",
+      "emc": 0
+    },
+    {
+      "item": "easy_villagers:farmer",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:thermal_evaporation_block",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:stick_steel",
+      "emc": 0
+    },
+    {
+      "item": "easy_villagers:breeder",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:stick_aluminum",
+      "emc": 0
+    },
+    {
+      "item": "ironjetpacks:ultimate_coil",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:stick_iron",
+      "emc": 0
+    }
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "name": "Utherium Crystal",
+  "colors": [
+    "d64a4a",
+    "d64a4a"
+  ],
+  "ingredient": {
+    "item": "undergarden:utherium_crystal"
+  }
+}

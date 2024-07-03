@@ -1,0 +1,10 @@
+{
+  "name": "Steeleaf",
+  "colors": [
+    "1b5700",
+    "63994b"
+  ],
+  "ingredient": {
+    "item": "twilightforest:steeleaf_ingot"
+  }
+}

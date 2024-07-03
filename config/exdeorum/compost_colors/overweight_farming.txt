@@ -1,5 +1,0 @@
-// Compost colors for overweight_farming. You may add your own colors, change existing ones, or remove colors that aren't needed.
-allium_bush, #d6b5f2
-melon_juice, #d6a0a5
-straw_hat, #e7bf46
-vegetable_peels, #c9702d

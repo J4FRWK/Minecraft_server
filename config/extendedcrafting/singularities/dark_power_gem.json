@@ -1,0 +1,10 @@
+{
+  "name": "Dark Power Gem",
+  "colors": [
+    "500303",
+    "500303"
+  ],
+  "ingredient": {
+    "item": "evilcraft:dark_power_gem"
+  }
+}

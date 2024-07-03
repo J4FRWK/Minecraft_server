@@ -1,2 +1,0 @@
-// Compost colors for irons_rpg_tweaks. You may add your own colors, change existing ones, or remove colors that aren't needed.
-identification_scroll, #f0aaac

@@ -1,0 +1,10 @@
+{
+  "name": "Clay",
+  "colors": [
+    "b3cae0",
+    "b3cae0"
+  ],
+  "ingredient": {
+    "item": "minecraft:clay_ball"
+  }
+}

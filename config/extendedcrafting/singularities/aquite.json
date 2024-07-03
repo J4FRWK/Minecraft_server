@@ -1,0 +1,10 @@
+{
+  "name": "Aquite",
+  "colors": [
+    "76b0e6",
+    "76b0e6"
+  ],
+  "ingredient": {
+    "item": "blue_skies:aquite"
+  }
+}

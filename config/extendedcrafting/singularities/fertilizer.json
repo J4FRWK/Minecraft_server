@@ -1,0 +1,10 @@
+{
+  "name": "Fertilizer",
+  "colors": [
+    "301515",
+    "301515"
+  ],
+  "ingredient": {
+    "item": "industrialforegoing:fertilizer"
+  }
+}

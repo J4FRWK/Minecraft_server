@@ -1,9 +1,0 @@
-{
-	icon: "modulargolems:talented"
-	id: "3CF14573FB2E5558"
-	loot_size: 1
-	order_index: 5
-	rewards: [{ count: 10, item: "minecraft:stone_bricks" }]
-	title: "Building Reward"
-	use_title: true
-}

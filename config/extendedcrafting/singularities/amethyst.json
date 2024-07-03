@@ -1,0 +1,10 @@
+{
+  "name": "Amethyst",
+  "colors": [
+    "674ea7",
+    "d9d2e9"
+  ],
+  "ingredient": {
+    "item": "minecraft:amethyst_shard"
+  }
+}

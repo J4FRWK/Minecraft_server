@@ -1,2 +1,0 @@
-// Compost colors for ags_day_counter. You may add your own colors, change existing ones, or remove colors that aren't needed.
-calendar_item, #e8ffff

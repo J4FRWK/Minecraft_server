@@ -1,0 +1,10 @@
+{
+  "name": "Redquartz",
+  "colors": [
+    "f89b9b",
+    "f89b9b"
+  ],
+  "ingredient": {
+    "item": "botania:quartz_red"
+  }
+}

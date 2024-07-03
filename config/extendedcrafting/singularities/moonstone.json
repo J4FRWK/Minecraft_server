@@ -1,0 +1,10 @@
+{
+  "name": "Moonstone",
+  "colors": [
+    "d2e5f6",
+    "d2e5f6"
+  ],
+  "ingredient": {
+    "item": "blue_skies:moonstone"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Dark Gem",
+  "colors": [
+    "1f1c1c",
+    "1f1c1c"
+  ],
+  "ingredient": {
+    "item": "evilcraft:dark_gem"
+  }
+}

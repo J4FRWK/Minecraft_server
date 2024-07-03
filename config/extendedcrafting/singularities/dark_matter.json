@@ -1,0 +1,10 @@
+{
+  "name": "Dark Matter",
+  "colors": [
+    "20124d",
+    "20124d"
+  ],
+  "ingredient": {
+    "item": "projecte:dark_matter"
+  }
+}

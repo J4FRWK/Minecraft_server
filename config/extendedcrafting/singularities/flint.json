@@ -1,0 +1,10 @@
+{
+  "name": "Flint",
+  "colors": [
+    "5b5b5b",
+    "5b5b5b"
+  ],
+  "ingredient": {
+    "item": "minecraft:flint"
+  }
+}

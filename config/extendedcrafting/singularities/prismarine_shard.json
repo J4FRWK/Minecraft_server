@@ -1,0 +1,10 @@
+{
+  "name": "Prismarine Shard",
+  "colors": [
+    "b2cde6",
+    "dde8f3"
+  ],
+  "ingredient": {
+    "item": "minecraft:prismarine_shard"
+  }
+}

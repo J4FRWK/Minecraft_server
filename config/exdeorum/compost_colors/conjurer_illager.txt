@@ -1,5 +1,0 @@
-// Compost colors for conjurer_illager. You may add your own colors, change existing ones, or remove colors that aren't needed.
-conjurer_hat, #ababaf
-music_disc_delve_deeper, #5c514a
-throwable_ball, #ffd6ff
-throwing_card, #fffbfb

@@ -1,0 +1,10 @@
+{
+  "name": "Bitumen",
+  "colors": [
+    "1e1919",
+    "030303"
+  ],
+  "ingredient": {
+    "item": "thermal:bitumen"
+  }
+}

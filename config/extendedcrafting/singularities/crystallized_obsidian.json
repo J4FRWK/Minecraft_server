@@ -1,0 +1,10 @@
+{
+  "name": "Crystallized Obisidan",
+  "colors": [
+    "6647b5",
+    "6647b5"
+  ],
+  "ingredient": {
+    "item": "cyclic:gem_obisidan"
+  }
+}

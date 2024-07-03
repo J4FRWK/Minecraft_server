@@ -1,0 +1,10 @@
+{
+  "name": "Ender Pearl",
+  "colors": [
+    "306b12",
+    "306b12"
+  ],
+  "ingredient": {
+    "item": "minecraft:ender_pearl"
+  }
+}

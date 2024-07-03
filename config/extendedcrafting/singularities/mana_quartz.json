@@ -1,0 +1,10 @@
+{
+  "name": "Mana Quartz",
+  "colors": [
+    "cfe0f0",
+    "cfe0f0"
+  ],
+  "ingredient": {
+    "item": "botania:quartz_mana"
+  }
+}

@@ -1,8 +1,0 @@
-// Compost colors for cosmosportals. You may add your own colors, change existing ones, or remove colors that aren't needed.
-item_cosmic_gem, #707070
-item_cosmic_guide, #696969
-item_cosmic_ingot, #3e3e3e
-item_cosmic_material, #363636
-item_cosmic_pearl, #303030
-item_dimension_container, #727272
-item_dimension_container_unlinked, #737373

@@ -1,0 +1,10 @@
+{
+  "name": "Cured Rubber",
+  "colors": [
+    "201e1e",
+    "201e1e"
+  ],
+  "ingredient": {
+    "item": "thermal:cured_rubber"
+  }
+}

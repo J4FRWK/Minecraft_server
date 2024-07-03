@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Nitro",
+  "colors": [
+    "c80e0e",
+    "c80e0e"
+  ],
+  "ingredient": {
+    "item": "powah:crystal_nitro"
+  }
+}

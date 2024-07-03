@@ -1,0 +1,13 @@
+{
+  "name": "Crystallized Obsidian",
+  "type": "resource",
+  "tier": "mysticalagriculture:4",
+  "ingredient": {
+    "item": "cyclic:gem_obsidian"
+  },
+  "color": "1f0259",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_gem"
+  }
+}

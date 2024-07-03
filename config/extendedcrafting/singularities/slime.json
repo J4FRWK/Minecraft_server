@@ -1,0 +1,10 @@
+{
+  "name": "Slime",
+  "colors": [
+    "b4f129",
+    "b4f129"
+  ],
+  "ingredient": {
+    "item": "minecraft:slime_ball"
+  }
+}
